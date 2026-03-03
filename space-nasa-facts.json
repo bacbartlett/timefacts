@@ -1567,5 +1567,1037 @@
   {
     "fact": "Chris Kraft designed NASA's Mission Control Center and flight control protocols that are still used today",
     "date": "1961-05-05"
+  },
+  {
+    "fact": "STS-3 landed at White Sands, New Mexico, the only shuttle landing there due to flooding at Edwards Air Force Base",
+    "date": "1982-03-30",
+    "time_local": "09:04",
+    "time_utc": "16:04",
+    "timezone": "America/Denver"
+  },
+  {
+    "fact": "STS-4 was the last orbital test flight of the Space Shuttle before operational missions began",
+    "date": "1982-06-27",
+    "time_local": "11:00",
+    "time_utc": "15:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-7 deployed two communications satellites and used the shuttle's robotic arm to deploy and retrieve a test satellite",
+    "date": "1983-06-18"
+  },
+  {
+    "fact": "STS-8 was the first Space Shuttle mission to launch and land at night",
+    "date": "1983-08-30"
+  },
+  {
+    "fact": "STS-41-B was the first mission to use the untethered Manned Maneuvering Unit and deploy satellites from the orbiter bay",
+    "date": "1984-02-03",
+    "time_local": "08:00",
+    "time_utc": "13:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-51-B carried Spacelab 3, conducting materials science experiments in microgravity",
+    "date": "1985-04-29",
+    "time_local": "12:02",
+    "time_utc": "16:02",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-51-F suffered the only in-flight abort in Space Shuttle history when an engine shut down during ascent",
+    "date": "1985-07-29",
+    "time_local": "17:00",
+    "time_utc": "21:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-51-G deployed three communications satellites and carried Saudi Prince Sultan bin Salman, the first Arab in space",
+    "date": "1985-06-17",
+    "time_local": "07:33",
+    "time_utc": "11:33",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-51-I deployed three satellites and successfully retrieved, repaired, and redeployed the Syncom IV-3 satellite",
+    "date": "1985-08-27",
+    "time_local": "06:58",
+    "time_utc": "10:58",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-61-A had the largest crew to fly on a single spacecraft with 8 astronauts, carrying Spacelab D1 for Germany",
+    "date": "1985-10-30",
+    "time_local": "12:00",
+    "time_utc": "17:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-61-C carried Congressman Bill Nelson, who later became NASA Administrator under President Biden",
+    "date": "1986-01-12",
+    "time_local": "06:55",
+    "time_utc": "11:55",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-27 was a classified Department of Defense mission that deployed a Lacrosse radar imaging satellite",
+    "date": "1988-12-02",
+    "time_local": "09:30",
+    "time_utc": "14:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-29 deployed the third Tracking and Data Relay Satellite, restoring full communication coverage for NASA",
+    "date": "1989-03-13",
+    "time_local": "09:57",
+    "time_utc": "14:57",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-28 was a classified mission that deployed a KH-11 reconnaissance satellite",
+    "date": "1989-08-08",
+    "time_local": "08:37",
+    "time_utc": "12:37",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-32 retrieved the Long Duration Exposure Facility after nearly 6 years in orbit, the longest shuttle mission to that point",
+    "date": "1990-01-09",
+    "time_local": "07:35",
+    "time_utc": "12:35",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-36 was a classified Department of Defense mission that deployed a signals intelligence satellite",
+    "date": "1990-02-28",
+    "time_local": "02:50",
+    "time_utc": "07:50",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-41 deployed the Ulysses solar probe on a trajectory to study the Sun's poles",
+    "date": "1990-10-06",
+    "time_local": "07:47",
+    "time_utc": "11:47",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-35 carried the ASTRO-1 astronomy observatory, studying ultraviolet and X-ray sources",
+    "date": "1990-12-02",
+    "time_local": "01:49",
+    "time_utc": "06:49",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-39 was the first unclassified Department of Defense Space Shuttle mission",
+    "date": "1991-04-28",
+    "time_local": "07:33",
+    "time_utc": "11:33",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-40 carried the first dedicated life sciences Spacelab mission (SLS-1)",
+    "date": "1991-06-05",
+    "time_local": "09:24",
+    "time_utc": "13:24",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-43 deployed the fifth Tracking and Data Relay Satellite",
+    "date": "1991-08-02",
+    "time_local": "11:02",
+    "time_utc": "15:02",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-44 deployed the Defense Support Program early warning satellite and tested Terra Scout sensors",
+    "date": "1991-11-24",
+    "time_local": "18:44",
+    "time_utc": "23:44",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-42 carried the first International Microgravity Laboratory with experiments from 16 countries",
+    "date": "1992-01-22",
+    "time_local": "09:52",
+    "time_utc": "14:52",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-45 carried the first Atmospheric Laboratory for Applications and Science (ATLAS-1)",
+    "date": "1992-03-24",
+    "time_local": "08:13",
+    "time_utc": "13:13",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-50 carried the first United States Microgravity Laboratory for materials science research",
+    "date": "1992-06-25",
+    "time_local": "12:12",
+    "time_utc": "16:12",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-46 deployed the European Retrievable Carrier and tested the Tethered Satellite System",
+    "date": "1992-07-31",
+    "time_local": "09:56",
+    "time_utc": "13:56",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-52 deployed the Laser Geodynamics Satellite II for precise measurements of Earth's crustal movements",
+    "date": "1992-10-22",
+    "time_local": "13:09",
+    "time_utc": "17:09",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-53 was the last dedicated Department of Defense Space Shuttle mission",
+    "date": "1992-12-02",
+    "time_local": "08:24",
+    "time_utc": "13:24",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-54 deployed the sixth Tracking and Data Relay Satellite",
+    "date": "1993-01-13",
+    "time_local": "08:59",
+    "time_utc": "13:59",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-56 carried ATLAS-2 for studies of the Sun's energy output and Earth's atmosphere",
+    "date": "1993-04-08",
+    "time_local": "01:29",
+    "time_utc": "05:29",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-55 was the second German Spacelab mission (D-2) with 88 experiments in various scientific disciplines",
+    "date": "1993-04-26",
+    "time_local": "10:50",
+    "time_utc": "14:50",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-57 carried SPACEHAB-1, the first commercial pressurized module to fly on the Space Shuttle",
+    "date": "1993-06-21",
+    "time_local": "09:07",
+    "time_utc": "13:07",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-51 deployed the Advanced Communications Technology Satellite and conducted spacewalks to test equipment",
+    "date": "1993-09-12",
+    "time_local": "07:45",
+    "time_utc": "11:45",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-58 carried the second Spacelab Life Sciences mission with 14 experiments on human and animal physiology",
+    "date": "1993-10-18",
+    "time_local": "10:53",
+    "time_utc": "14:53",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-60 was the first Space Shuttle mission to include a Russian cosmonaut, Sergei Krikalev",
+    "date": "1994-02-03",
+    "time_local": "07:10",
+    "time_utc": "12:10",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-62 studied materials processing and conducted the first test of wake shield facility for ultra-pure crystals",
+    "date": "1994-03-04",
+    "time_local": "08:53",
+    "time_utc": "13:53",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-59 carried Space Radar Laboratory-1 to study Earth's environment using multiple radar systems",
+    "date": "1994-04-09",
+    "time_local": "07:05",
+    "time_utc": "11:05",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-65 carried the second International Microgravity Laboratory with over 80 experiments",
+    "date": "1994-07-08",
+    "time_local": "08:43",
+    "time_utc": "12:43",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-64 tested the Lidar In-space Technology Experiment for atmospheric research",
+    "date": "1994-09-09",
+    "time_local": "18:22",
+    "time_utc": "22:22",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-68 carried the second Space Radar Laboratory to compare seasonal changes on Earth",
+    "date": "1994-09-30",
+    "time_local": "07:16",
+    "time_utc": "11:16",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-66 carried ATLAS-3 for atmospheric research and deployed the CRISTA-SPAS satellite",
+    "date": "1994-11-03",
+    "time_local": "11:59",
+    "time_utc": "16:59",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-67 carried ASTRO-2, observing 300 targets in the ultraviolet spectrum during a 16-day mission",
+    "date": "1995-03-02",
+    "time_local": "01:38",
+    "time_utc": "06:38",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-70 deployed the seventh Tracking and Data Relay Satellite",
+    "date": "1995-07-13",
+    "time_local": "09:41",
+    "time_utc": "13:41",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-69 deployed and retrieved the Wake Shield Facility and SPARTAN satellite",
+    "date": "1995-09-07",
+    "time_local": "11:09",
+    "time_utc": "15:09",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-73 carried the second United States Microgravity Laboratory for 16 days of materials science research",
+    "date": "1995-10-20",
+    "time_local": "09:53",
+    "time_utc": "13:53",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-74 was the second Space Shuttle-Mir docking mission, delivering the Russian Docking Module",
+    "date": "1995-11-12",
+    "time_local": "07:30",
+    "time_utc": "12:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-72 retrieved the Japanese Space Flyer Unit after 10 months in orbit",
+    "date": "1996-01-11",
+    "time_local": "04:41",
+    "time_utc": "09:41",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-75 re-flew the Tethered Satellite System, deploying 19.7 km of tether before it broke",
+    "date": "1996-02-22",
+    "time_local": "15:18",
+    "time_utc": "20:18",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-76 was the third Shuttle-Mir docking, with astronaut Shannon Lucid beginning her record stay on Mir",
+    "date": "1996-03-22",
+    "time_local": "03:13",
+    "time_utc": "08:13",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-77 tested the Inflatable Antenna Experiment and operated SPACEHAB-4 experiments",
+    "date": "1996-05-19",
+    "time_local": "06:30",
+    "time_utc": "10:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-78 carried the Life and Microgravity Spacelab for the longest shuttle mission at 16 days 21 hours",
+    "date": "1996-06-20",
+    "time_local": "10:49",
+    "time_utc": "14:49",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-79 was the fourth Shuttle-Mir docking, exchanging Shannon Lucid for John Blaha",
+    "date": "1996-09-16",
+    "time_local": "04:54",
+    "time_utc": "08:54",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-80 was the longest Space Shuttle mission at 17 days 15 hours 53 minutes",
+    "date": "1996-11-19",
+    "time_local": "14:55",
+    "time_utc": "19:55",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-81 was the fifth Shuttle-Mir docking, exchanging John Blaha for Jerry Linenger",
+    "date": "1997-01-12",
+    "time_local": "04:27",
+    "time_utc": "09:27",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-82 was the second Hubble Space Telescope servicing mission, installing new instruments",
+    "date": "1997-02-11",
+    "time_local": "03:55",
+    "time_utc": "08:55",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-83 was cut short after only 4 days due to a fuel cell problem, becoming the shortest shuttle mission",
+    "date": "1997-04-04",
+    "time_local": "14:20",
+    "time_utc": "19:20",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-84 was the sixth Shuttle-Mir docking, exchanging Jerry Linenger for Michael Foale",
+    "date": "1997-05-15",
+    "time_local": "04:07",
+    "time_utc": "08:07",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-94 was a reflight of the shortened STS-83 mission with the Microgravity Science Laboratory",
+    "date": "1997-07-01",
+    "time_local": "14:02",
+    "time_utc": "18:02",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-85 deployed and retrieved the CRISTA-SPAS satellite and tested the Japanese robotic arm",
+    "date": "1997-08-07",
+    "time_local": "10:41",
+    "time_utc": "14:41",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-86 was the seventh Shuttle-Mir docking, exchanging Michael Foale for David Wolf",
+    "date": "1997-09-25",
+    "time_local": "22:34",
+    "time_utc": "02:34",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-87 deployed the SPARTAN solar observatory and carried the fourth US Microgravity Payload",
+    "date": "1997-11-19",
+    "time_local": "14:46",
+    "time_utc": "19:46",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-89 was the eighth Shuttle-Mir docking, exchanging David Wolf for Andy Thomas",
+    "date": "1998-01-22",
+    "time_local": "21:48",
+    "time_utc": "02:48",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-90 carried the Neurolab Spacelab for studies on the nervous system in microgravity",
+    "date": "1998-04-17",
+    "time_local": "14:18",
+    "time_utc": "18:18",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-91 was the ninth and final Shuttle-Mir docking, retrieving astronaut Andy Thomas",
+    "date": "1998-06-02",
+    "time_local": "18:06",
+    "time_utc": "22:06",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Jerry Ross from Crown Point, Indiana, flew seven Space Shuttle missions, setting a record with Franklin Chang-Díaz",
+    "date": "2002-04-08"
+  },
+  {
+    "fact": "Don Pettit from Silverton, Oregon, holds the record for oldest person to make a long-duration spaceflight at age 69",
+    "date": "2025-03-01"
+  },
+  {
+    "fact": "STS-96 was the first Space Shuttle to dock with the International Space Station",
+    "date": "1999-05-27",
+    "time_local": "06:49",
+    "time_utc": "10:49",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-103 was the third Hubble servicing mission, conducted on an emergency basis to replace failed gyroscopes",
+    "date": "1999-12-19",
+    "time_local": "19:50",
+    "time_utc": "00:50",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-99 carried the Shuttle Radar Topography Mission, mapping 80% of Earth's land surface in 3D",
+    "date": "2000-02-11",
+    "time_local": "12:43",
+    "time_utc": "17:43",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-101 was the third Space Shuttle mission to the ISS, performing maintenance and delivering supplies",
+    "date": "2000-05-19",
+    "time_local": "06:11",
+    "time_utc": "10:11",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-106 prepared the ISS for its first permanent crew, delivering supplies and conducting spacewalks",
+    "date": "2000-09-08",
+    "time_local": "08:45",
+    "time_utc": "12:45",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-97 installed the first set of US solar arrays on the International Space Station",
+    "date": "2000-11-30",
+    "time_local": "22:06",
+    "time_utc": "03:06",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-102 delivered the first part of the Multi-Purpose Logistics Module to the ISS",
+    "date": "2001-03-08",
+    "time_local": "06:42",
+    "time_utc": "11:42",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-100 delivered and installed the Canadarm2 robotic arm on the International Space Station",
+    "date": "2001-04-19",
+    "time_local": "14:40",
+    "time_utc": "18:40",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-104 delivered and installed the Quest airlock, enabling spacewalks from the US segment of the ISS",
+    "date": "2001-07-12",
+    "time_local": "05:03",
+    "time_utc": "09:03",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-105 delivered Expedition 3 crew and the Leonardo Multi-Purpose Logistics Module to the ISS",
+    "date": "2001-08-10",
+    "time_local": "17:10",
+    "time_utc": "21:10",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-108 delivered Expedition 4 crew and the Raffaello logistics module during the response to 9/11",
+    "date": "2001-12-05",
+    "time_local": "17:19",
+    "time_utc": "22:19",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-109 was the fourth Hubble servicing mission, installing the Advanced Camera for Surveys",
+    "date": "2002-03-01",
+    "time_local": "06:22",
+    "time_utc": "11:22",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-110 installed the S0 Truss, the center segment of the ISS truss structure",
+    "date": "2002-04-08",
+    "time_local": "16:44",
+    "time_utc": "20:44",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-111 delivered Expedition 5 crew and installed the Mobile Base System on the ISS",
+    "date": "2002-06-05",
+    "time_local": "17:22",
+    "time_utc": "21:22",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-112 installed the S1 Truss segment on the International Space Station",
+    "date": "2002-10-07",
+    "time_local": "15:46",
+    "time_utc": "19:46",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-113 installed the P1 Truss segment and delivered Expedition 6 crew to the ISS",
+    "date": "2002-11-23",
+    "time_local": "19:49",
+    "time_utc": "00:49",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-115 resumed ISS construction after the Columbia disaster, installing the P3/P4 truss with solar arrays",
+    "date": "2006-09-09",
+    "time_local": "11:14",
+    "time_utc": "15:14",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-116 installed the P5 truss spacer and rewired the ISS electrical system",
+    "date": "2006-12-09",
+    "time_local": "20:47",
+    "time_utc": "01:47",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-117 installed the S3/S4 truss with the second set of large solar arrays",
+    "date": "2007-06-08",
+    "time_local": "19:38",
+    "time_utc": "23:38",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-118 installed the S5 truss spacer and featured teacher-astronaut Barbara Morgan",
+    "date": "2007-08-08",
+    "time_local": "18:36",
+    "time_utc": "22:36",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-120 delivered the Harmony connecting node to the ISS, enabling additional international modules",
+    "date": "2007-10-23",
+    "time_local": "11:38",
+    "time_utc": "15:38",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-122 delivered the European Columbus laboratory module to the International Space Station",
+    "date": "2008-02-07",
+    "time_local": "14:45",
+    "time_utc": "19:45",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-123 delivered the Japanese Experiment Logistics Module and Canadian Dextre robot to the ISS",
+    "date": "2008-03-11",
+    "time_local": "02:28",
+    "time_utc": "06:28",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-124 delivered the Japanese Experiment Module pressurized section, completing the Kibo laboratory",
+    "date": "2008-05-31",
+    "time_local": "17:02",
+    "time_utc": "21:02",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-126 delivered equipment to expand the ISS crew capacity from three to six people",
+    "date": "2008-11-14",
+    "time_local": "19:55",
+    "time_utc": "00:55",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-119 delivered the S6 truss and final set of large solar arrays to complete the ISS power grid",
+    "date": "2009-03-15",
+    "time_local": "19:43",
+    "time_utc": "23:43",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-127 delivered the Japanese Exposed Facility, completing Japan's contribution to the ISS",
+    "date": "2009-07-15",
+    "time_local": "18:03",
+    "time_utc": "22:03",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-128 delivered supplies and equipment including the Materials Science Research Rack",
+    "date": "2009-08-28",
+    "time_local": "23:59",
+    "time_utc": "03:59",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-129 delivered two Express Logistics Carriers with spare parts for the ISS",
+    "date": "2009-11-16",
+    "time_local": "14:28",
+    "time_utc": "19:28",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-130 delivered the Tranquility node and Cupola observation module to the ISS",
+    "date": "2010-02-08",
+    "time_local": "04:14",
+    "time_utc": "09:14",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-131 delivered the Multi-Purpose Logistics Module Leonardo with science equipment and supplies",
+    "date": "2010-04-05",
+    "time_local": "06:21",
+    "time_utc": "10:21",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-132 delivered the Russian Mini-Research Module 1 and spare parts for the ISS",
+    "date": "2010-05-14",
+    "time_local": "14:20",
+    "time_utc": "18:20",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-133 delivered the Permanent Multipurpose Module and the Robonaut 2 humanoid robot to the ISS",
+    "date": "2011-02-24",
+    "time_local": "16:53",
+    "time_utc": "21:53",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-134 delivered the Alpha Magnetic Spectrometer, a particle physics experiment, to the ISS",
+    "date": "2011-05-16",
+    "time_local": "08:56",
+    "time_utc": "12:56",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Expedition 2 crew James Voss and Susan Helms conducted an 8 hour 56 minute spacewalk, the longest in history",
+    "date": "2001-03-11"
+  },
+  {
+    "fact": "Expedition 6 crew Ken Bowersox and Don Pettit were stranded on the ISS after Columbia, returning on Soyuz",
+    "date": "2003-05-04"
+  },
+  {
+    "fact": "Expedition 10 astronaut Leroy Chiao and Salizhan Sharipov maintained ISS operations with a two-person crew",
+    "date": "2004-10-16"
+  },
+  {
+    "fact": "Expedition 20 became the first six-person crew aboard the ISS, doubling scientific productivity",
+    "date": "2009-05-29"
+  },
+  {
+    "fact": "Mark Vande Hei from Falls Church, Virginia, spent 355 days in space during Expedition 64/65/66",
+    "date": "2022-03-30"
+  },
+  {
+    "fact": "SpaceX CRS-1 was the first operational cargo resupply mission to the ISS under NASA contract",
+    "date": "2012-10-07",
+    "time_local": "20:35",
+    "time_utc": "00:35",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "SpaceX CRS-2 delivered supplies including frozen samples of crew member's blood and saliva for research",
+    "date": "2013-03-01",
+    "time_local": "10:10",
+    "time_utc": "15:10",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "SpaceX CRS-7 was lost 139 seconds after launch when a strut inside the second stage failed",
+    "date": "2015-06-28",
+    "time_local": "10:21",
+    "time_utc": "14:21",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Falcon Heavy launched for the first time, sending Elon Musk's Tesla Roadster toward Mars orbit",
+    "date": "2018-02-06",
+    "time_local": "15:45",
+    "time_utc": "20:45",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Falcon Heavy's first flight featured synchronized landing of two side boosters at Cape Canaveral",
+    "date": "2018-02-06"
+  },
+  {
+    "fact": "SpaceX Starlink constellation began deployment with the first 60 operational satellites",
+    "date": "2019-05-24",
+    "time_local": "02:30",
+    "time_utc": "06:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "SpaceX launched over 6,000 Starlink satellites, creating the world's largest satellite constellation",
+    "date": "2024-01-01"
+  },
+  {
+    "fact": "SpaceX completed 96 Falcon launches in 2023, breaking all records for single-year launch rates by any vehicle",
+    "date": "2023-12-31"
+  },
+  {
+    "fact": "SpaceX completed 134 Falcon launches in 2024, surpassing their 2023 record",
+    "date": "2024-12-31"
+  },
+  {
+    "fact": "SpaceX's Falcon 9 Block 5 booster B1067 flew 33 times, setting the record for most flights by a single rocket",
+    "date": "2024-01-01"
+  },
+  {
+    "fact": "Intuitive Machines' Odysseus lander became the first commercial spacecraft to land on the Moon",
+    "date": "2024-02-22"
+  },
+  {
+    "fact": "Spirit landed on Mars at 04:35 UTC, bouncing inside its airbags 28 times before coming to rest",
+    "date": "2004-01-04",
+    "time_utc": "04:35"
+  },
+  {
+    "fact": "Opportunity landed on Mars at 05:05 UTC, hitting the bullseye of a small crater named Eagle",
+    "date": "2004-01-25",
+    "time_utc": "05:05"
+  },
+  {
+    "fact": "Curiosity's sky crane landing at 05:17 UTC was called 'seven minutes of terror' by mission planners",
+    "date": "2012-08-06",
+    "time_utc": "05:17"
+  },
+  {
+    "fact": "Perseverance landed on Mars at 20:55 UTC while carrying the 1.8 kg Ingenuity helicopter",
+    "date": "2021-02-18",
+    "time_utc": "20:55"
+  },
+  {
+    "fact": "InSight landed on Mars at Elysium Planitia at 19:52 UTC, detecting over 1,300 marsquakes before mission end",
+    "date": "2018-11-26",
+    "time_utc": "19:52"
+  },
+  {
+    "fact": "Phoenix landed near Mars' north pole at 23:53 UTC, later confirming water ice just below the surface",
+    "date": "2008-05-25",
+    "time_utc": "23:53"
+  },
+  {
+    "fact": "Frank Borman, from Gary, Indiana, commanded Apollo 8, the first crewed mission to orbit the Moon",
+    "date": "1968-12-21"
+  },
+  {
+    "fact": "Tony England, from Indianapolis, Indiana, flew on STS-51-F and was the first astronaut with a PhD in geophysics",
+    "date": "1985-07-29"
+  },
+  {
+    "fact": "Mark Brown, from Valparaiso, Indiana, flew on two Space Shuttle missions as a mission specialist",
+    "date": "1989-10-18"
+  },
+  {
+    "fact": "David Wolf, from Indianapolis, Indiana, spent 128 days aboard Mir and later flew to the ISS",
+    "date": "1997-09-25"
+  },
+  {
+    "fact": "Janice Voss, from South Bend, Indiana, flew five Space Shuttle missions, more than any other woman",
+    "date": "1995-07-13"
+  },
+  {
+    "fact": "Charles Walker, from Bedford, Indiana, was the first non-NASA astronaut to fly on the Space Shuttle",
+    "date": "1984-08-30"
+  },
+  {
+    "fact": "Karl Henize, from Cincinnati, Ohio, flew on STS-51-F at age 58, making him one of the oldest rookie astronauts",
+    "date": "1985-07-29"
+  },
+  {
+    "fact": "Michael Good, from Broadview Heights, Ohio, performed four spacewalks during STS-125 and STS-132",
+    "date": "2009-05-11"
+  },
+  {
+    "fact": "Mary Ellen Weber, from Cleveland, Ohio, flew on STS-70 and STS-101 as a mission specialist",
+    "date": "1995-07-13"
+  },
+  {
+    "fact": "Gregory Harbaugh, from Cleveland, Ohio, performed five spacewalks during his four Space Shuttle missions",
+    "date": "1997-02-11"
+  },
+  {
+    "fact": "Carl Walz, from Cleveland, Ohio, spent 196 days aboard the ISS during Expedition 4",
+    "date": "2002-06-19"
+  },
+  {
+    "fact": "Ron Sega, from Cleveland, Ohio, became the first person to fly on both Space Shuttle and Mir",
+    "date": "1994-02-03"
+  },
+  {
+    "fact": "Nancy Currie-Gregg, from Troy, Ohio, operated the robotic arm during four Space Shuttle missions",
+    "date": "1998-12-04"
+  },
+  {
+    "fact": "Robert Overmyer, from Westlake, Ohio, was pilot on STS-5 and commander on STS-51-B",
+    "date": "1982-11-11"
+  },
+  {
+    "fact": "Ken Cameron, from Cleveland, Ohio, commanded STS-74 which docked with Mir space station",
+    "date": "1995-11-12"
+  },
+  {
+    "fact": "Donald McMonagle, from Flint, Michigan (near Ohio border), commanded STS-66",
+    "date": "1994-11-03"
+  },
+  {
+    "fact": "Jack Lousma, from Ann Arbor, Michigan, spent 59 days on Skylab 3 and commanded STS-3",
+    "date": "1973-07-28"
+  },
+  {
+    "fact": "Brewster Shaw, from Cass City, Michigan, commanded three Space Shuttle missions",
+    "date": "1983-11-28"
+  },
+  {
+    "fact": "James Adamson, from Warsaw, New York (grew up in Michigan), flew on STS-28 and STS-43",
+    "date": "1989-08-08"
+  },
+  {
+    "fact": "Roger Chaffee, from Grand Rapids, Michigan, was killed in the Apollo 1 fire before his first spaceflight",
+    "date": "1967-01-27"
+  },
+  {
+    "fact": "Buzz Aldrin was born in Glen Ridge, New Jersey but his family has strong Midwest connections",
+    "date": "1969-07-20"
+  },
+  {
+    "fact": "The ISS travels at 7.66 km/s (17,150 mph), orbiting Earth once every 92 minutes",
+    "date": "2000-11-02"
+  },
+  {
+    "fact": "The ISS is the most expensive object ever built by humanity, costing over $150 billion",
+    "date": "2010-01-01"
+  },
+  {
+    "fact": "Astronauts on the ISS see 16 sunrises and sunsets every 24 hours due to the station's orbital speed",
+    "date": "2000-11-02"
+  },
+  {
+    "fact": "The ISS weighs approximately 420,000 kg (925,000 lb), about the same as 320 automobiles",
+    "date": "2011-07-21"
+  },
+  {
+    "fact": "The Zarya module was the first component of the ISS, launched by Russia on November 20, 1998",
+    "date": "1998-11-20"
+  },
+  {
+    "fact": "Falcon 9 achieved its 200th consecutive successful booster landing during a Starlink mission",
+    "date": "2024-02-15"
+  },
+  {
+    "fact": "SpaceX launched three rockets within 24 hours for the first time on March 4, 2024",
+    "date": "2024-03-04"
+  },
+  {
+    "fact": "SpaceX set the record for shortest time between two Falcon launches at 1 hour 51 minutes",
+    "date": "2024-03-04"
+  },
+  {
+    "fact": "Axiom-3 launched with the first Turkish astronaut Alper Gezeravcı aboard SpaceX Crew Dragon",
+    "date": "2024-01-18",
+    "time_local": "16:49",
+    "time_utc": "21:49",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "NASA's PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) satellite launched to study Earth's oceans and atmosphere",
+    "date": "2024-02-08",
+    "time_local": "01:33",
+    "time_utc": "06:33",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "SpaceX Crew-8 launched four astronauts to the ISS, marking the 50th person flown by SpaceX Crew Dragon",
+    "date": "2024-03-04",
+    "time_local": "22:53",
+    "time_utc": "03:53",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Falcon 9 rockets from the family have been launched over 600 times with a 99.5% success rate",
+    "date": "2026-01-01"
+  },
+  {
+    "fact": "The first GPS Block III satellite was launched by SpaceX in 2018, modernizing the navigation constellation",
+    "date": "2018-12-23",
+    "time_local": "08:51",
+    "time_utc": "13:51",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "NASA's Ice, Cloud and land Elevation Satellite-2 (ICESat-2) launched to measure ice sheet changes",
+    "date": "2018-09-15",
+    "time_local": "09:02",
+    "time_utc": "13:02",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Parker Solar Probe became the fastest human-made object, reaching speeds over 690,000 km/h",
+    "date": "2024-12-24"
+  },
+  {
+    "fact": "Parker Solar Probe flew within 6.1 million km of the Sun's surface, the closest any spacecraft has approached",
+    "date": "2024-12-24"
+  },
+  {
+    "fact": "Scott Kelly and cosmonaut Mikhail Kornienko completed a 340-day mission studying long-duration spaceflight effects",
+    "date": "2016-03-01"
+  },
+  {
+    "fact": "The Twins Study compared Scott Kelly's biology to his twin brother Mark during the year-long ISS mission",
+    "date": "2016-03-01"
+  },
+  {
+    "fact": "Oleg Kononenko holds the all-time record for total time in space with over 1,000 days across five missions",
+    "date": "2024-02-04"
+  },
+  {
+    "fact": "Gennady Padalka held the previous record for total time in space at 879 days across five missions",
+    "date": "2015-09-12"
+  },
+  {
+    "fact": "Anatoli Solovyev holds the record for most spacewalks by any astronaut with 16 EVAs totaling 82 hours",
+    "date": "1997-10-06"
+  },
+  {
+    "fact": "Michael López-Alegría holds the American record for total spacewalk time at 67 hours 40 minutes",
+    "date": "2007-02-22"
+  },
+  {
+    "fact": "Robert Curbeam performed four spacewalks in a single mission during STS-116, an American record",
+    "date": "2006-12-18"
+  },
+  {
+    "fact": "Valeri Polyakov spent 437 days continuously in space aboard Mir, the longest single spaceflight ever",
+    "date": "1995-03-22"
+  },
+  {
+    "fact": "SpaceX demonstrated Starship's ability to catch its Super Heavy booster with the launch tower's 'chopsticks'",
+    "date": "2024-10-13"
+  },
+  {
+    "fact": "SpaceX Starship completed its fifth test flight with successful booster catch and ocean splashdown",
+    "date": "2024-10-13"
+  },
+  {
+    "fact": "Starship's Super Heavy booster is the most powerful rocket stage ever built, generating 74 MN of thrust",
+    "date": "2024-10-13"
+  },
+  {
+    "fact": "NASA selected SpaceX Starship as the Human Landing System for Artemis III, the first Moon landing since Apollo",
+    "date": "2021-04-16"
+  },
+  {
+    "fact": "The Lunar Gateway's Power and Propulsion Element is scheduled to launch no earlier than 2025",
+    "date": "2025-01-01"
+  },
+  {
+    "fact": "Artemis II will carry four astronauts around the Moon, the first crewed lunar mission since Apollo 17",
+    "date": "2025-01-01"
+  },
+  {
+    "fact": "NASA's Roman Space Telescope is planned to launch in 2027 to study dark energy and exoplanets",
+    "date": "2027-01-01"
+  },
+  {
+    "fact": "The Dragonfly rotorcraft lander will launch to Saturn's moon Titan in 2028",
+    "date": "2028-01-01"
+  },
+  {
+    "fact": "SpaceX plans to launch uncrewed Starships to Mars in 2026 during the next Mars transfer window",
+    "date": "2026-01-01"
+  },
+  {
+    "fact": "Blue Origin's New Glenn rocket completed its first launch in early 2025 after years of development",
+    "date": "2025-01-17"
   }
 ]
