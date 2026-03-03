@@ -1,0 +1,2035 @@
+[
+  {
+    "fact": "Orville Wright made the first powered, sustained, and controlled airplane flight, covering 120 feet in 12 seconds at Kill Devil Hills, North Carolina",
+    "date": "1903-12-17",
+    "time_local": "10:35",
+    "time_utc": "15:35",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Wilbur Wright made the longest flight of the day on December 17, 1903, covering 852 feet in 59 seconds",
+    "date": "1903-12-17",
+    "time_local": "12:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Wright Brothers were from Dayton, Ohio, where they ran a bicycle repair and manufacturing shop before turning to aviation",
+    "date": "1892-01-01"
+  },
+  {
+    "fact": "The Wright Flyer, the aircraft used for the first powered flight, had a wingspan of 40 feet 4 inches and weighed 605 pounds",
+    "date": "1903-12-17"
+  },
+  {
+    "fact": "Only five people witnessed the Wright Brothers' first flight at Kill Devil Hills - three members of the Kill Devil Hills Life-Saving Station, a local businessman, and a teenage boy",
+    "date": "1903-12-17"
+  },
+  {
+    "fact": "The Wright Brothers' first flight was powered by a 12-horsepower gasoline engine they built themselves",
+    "date": "1903-12-17"
+  },
+  {
+    "fact": "Alberto Santos-Dumont flew around the Eiffel Tower in his airship No. 6, winning the Deutsch Prize of 100,000 francs",
+    "date": "1901-10-19",
+    "time_local": "14:30",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "fact": "Santos-Dumont made the first officially witnessed heavier-than-air flight in Europe with the 14-bis, flying 60 meters at Bagatelle, Paris",
+    "date": "1906-10-23"
+  },
+  {
+    "fact": "Santos-Dumont flew 220 meters at a height of 6 meters with the 14-bis, setting the first official aviation record certified by the A\u00e9ro-Club de France",
+    "date": "1906-11-12"
+  },
+  {
+    "fact": "Charles Lindbergh completed the first solo non-stop transatlantic flight from New York to Paris in the Spirit of St. Louis",
+    "date": "1927-05-20",
+    "time_local": "07:52",
+    "time_utc": "12:52",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Charles Lindbergh landed at Le Bourget Field in Paris after flying 3,600 miles in 33 hours and 30 minutes",
+    "date": "1927-05-21",
+    "time_local": "22:22",
+    "time_utc": "21:22",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "fact": "The Spirit of St. Louis was a custom-built Ryan NYP monoplane with a single Wright Whirlwind J-5C engine",
+    "date": "1927-05-20"
+  },
+  {
+    "fact": "Lindbergh won the $25,000 Orteig Prize for the first non-stop flight between New York and Paris",
+    "date": "1927-05-21"
+  },
+  {
+    "fact": "Amelia Earhart became the first woman to fly solo across the Atlantic Ocean, landing in Londonderry, Northern Ireland",
+    "date": "1932-05-21",
+    "time_local": "13:46",
+    "timezone": "Europe/London"
+  },
+  {
+    "fact": "Amelia Earhart took off from Harbour Grace, Newfoundland for her solo transatlantic flight",
+    "date": "1932-05-20",
+    "time_local": "19:00",
+    "timezone": "America/St_Johns"
+  },
+  {
+    "fact": "Amelia Earhart was the first woman passenger to cross the Atlantic by air, flying from Newfoundland to Wales",
+    "date": "1928-06-17"
+  },
+  {
+    "fact": "Amelia Earhart set the women's altitude record of 14,000 feet in an autogyro",
+    "date": "1931-04-08"
+  },
+  {
+    "fact": "Amelia Earhart became the first person to fly solo from Honolulu, Hawaii to Oakland, California",
+    "date": "1935-01-11"
+  },
+  {
+    "fact": "Amelia Earhart disappeared over the Pacific Ocean during her attempt to circumnavigate the globe near Howland Island",
+    "date": "1937-07-02"
+  },
+  {
+    "fact": "Amelia Earhart's final radio transmission was received at 08:43 local time on July 2, 1937",
+    "date": "1937-07-02",
+    "time_local": "08:43",
+    "timezone": "Pacific/Majuro"
+  },
+  {
+    "fact": "Chuck Yeager became the first pilot to break the sound barrier in level flight, flying the Bell X-1 rocket plane at Mach 1.06",
+    "date": "1947-10-14",
+    "time_local": "10:26",
+    "time_utc": "17:26",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Chuck Yeager named his Bell X-1 aircraft 'Glamorous Glennis' after his wife",
+    "date": "1947-10-14"
+  },
+  {
+    "fact": "The Bell X-1 was dropped from a B-29 bomber at 20,000 feet before Yeager ignited its rocket engines",
+    "date": "1947-10-14"
+  },
+  {
+    "fact": "Chuck Yeager reached Mach 2.44 (1,650 mph) in the Bell X-1A, setting a new speed record",
+    "date": "1953-12-12"
+  },
+  {
+    "fact": "The X-15 rocket plane reached a maximum speed of Mach 6.7 (4,520 mph), piloted by Pete Knight",
+    "date": "1967-10-03"
+  },
+  {
+    "fact": "X-15 pilot Joe Walker set an altitude record of 354,200 feet (67 miles), qualifying as spaceflight",
+    "date": "1963-08-22"
+  },
+  {
+    "fact": "The X-15 program made 199 flights between 1959 and 1968, contributing crucial data for spacecraft design",
+    "date": "1968-10-24"
+  },
+  {
+    "fact": "The first X-15 powered flight was made by Scott Crossfield at Edwards Air Force Base",
+    "date": "1959-09-17"
+  },
+  {
+    "fact": "Glenn Curtiss won the first international air race, the Gordon Bennett Cup, at Reims, France, flying at 46.5 mph",
+    "date": "1909-08-28"
+  },
+  {
+    "fact": "Glenn Curtiss made the first long-distance flight between two major U.S. cities, flying 137 miles from Albany to New York City",
+    "date": "1910-05-29"
+  },
+  {
+    "fact": "Glenn Curtiss flew the first practical seaplane from the water in the United States at San Diego",
+    "date": "1911-01-26"
+  },
+  {
+    "fact": "Glenn Curtiss set an unofficial world motorcycle speed record of 136.36 mph on his V-8 motorcycle at Ormond Beach, Florida",
+    "date": "1907-01-24"
+  },
+  {
+    "fact": "Glenn Curtiss received U.S. Pilot's License #1 from the Aero Club of America (licenses were issued alphabetically)",
+    "date": "1911-06-08"
+  },
+  {
+    "fact": "Eugene Ely made the first airplane takeoff from a ship, launching from the deck of USS Birmingham",
+    "date": "1910-11-14",
+    "time_local": "15:16",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Eugene Ely made the first airplane landing on a ship, landing on USS Pennsylvania in San Francisco Bay using the first arresting gear system",
+    "date": "1911-01-18"
+  },
+  {
+    "fact": "The de Havilland Comet became the world's first commercial jet airliner, entering service with BOAC",
+    "date": "1952-05-02"
+  },
+  {
+    "fact": "The de Havilland Comet made its maiden commercial flight from London to Johannesburg via Rome, Beirut, Khartoum, Entebbe, and Livingstone",
+    "date": "1952-05-02",
+    "time_local": "15:12",
+    "time_utc": "14:12",
+    "timezone": "Europe/London"
+  },
+  {
+    "fact": "Two de Havilland Comet aircraft broke apart in flight due to metal fatigue around square windows, killing 56 people total, leading to the grounding of the entire fleet",
+    "date": "1954-04-08"
+  },
+  {
+    "fact": "The Boeing 707 made its first commercial flight, carrying passengers from New York to Paris for Pan American World Airways",
+    "date": "1958-10-26"
+  },
+  {
+    "fact": "The Boeing 747 'Jumbo Jet' made its maiden flight from Everett, Washington",
+    "date": "1969-02-09",
+    "time_local": "11:34",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Pan Am operated the first commercial Boeing 747 flight from New York JFK to London Heathrow",
+    "date": "1970-01-22",
+    "time_local": "19:29",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Boeing 747 was the first wide-body commercial airliner, capable of carrying over 400 passengers",
+    "date": "1969-02-09"
+  },
+  {
+    "fact": "The Douglas DC-3 made its maiden flight at Clover Field in Santa Monica, California",
+    "date": "1935-12-17"
+  },
+  {
+    "fact": "The Douglas DC-3 revolutionized air transport and became the first airliner to make a profit carrying passengers alone, without airmail subsidies",
+    "date": "1936-06-25"
+  },
+  {
+    "fact": "American Airlines operated the first DC-3 passenger flight, flying from Chicago to New York",
+    "date": "1936-06-25"
+  },
+  {
+    "fact": "Over 16,000 DC-3s and military variants (C-47s) were built, more than any other transport aircraft",
+    "date": "1945-12-31"
+  },
+  {
+    "fact": "The Concorde supersonic airliner made its maiden flight at Toulouse, France",
+    "date": "1969-03-02",
+    "time_local": "15:38",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "fact": "The Concorde entered commercial service simultaneously for British Airways and Air France, flying London-Bahrain and Paris-Rio de Janeiro",
+    "date": "1976-01-21",
+    "time_local": "11:40",
+    "timezone": "Europe/London"
+  },
+  {
+    "fact": "Concorde set the record for the fastest transatlantic crossing by a commercial aircraft, flying from New York to London in 2 hours, 52 minutes, and 59 seconds",
+    "date": "1996-02-07"
+  },
+  {
+    "fact": "Air France Flight 4590, a Concorde, crashed shortly after takeoff from Paris Charles de Gaulle Airport, killing 113 people and leading to the end of Concorde service",
+    "date": "2000-07-25",
+    "time_local": "16:44",
+    "time_utc": "14:44",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "fact": "The last commercial Concorde flight was operated by British Airways from New York JFK to London Heathrow",
+    "date": "2003-10-24",
+    "time_local": "17:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Bessie Coleman became the first Black woman and first Native American woman to hold a pilot's license",
+    "date": "1921-06-15"
+  },
+  {
+    "fact": "Bessie Coleman earned her pilot's license from the F\u00e9d\u00e9ration A\u00e9ronautique Internationale in France because American flight schools refused to admit her",
+    "date": "1921-06-15"
+  },
+  {
+    "fact": "Bessie Coleman was killed in a plane crash during a rehearsal for an aerial show in Jacksonville, Florida, when she fell from her plane at 2,000 feet",
+    "date": "1926-04-30",
+    "time_local": "19:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Harriet Quimby became the first woman to obtain a U.S. pilot's license",
+    "date": "1911-08-01"
+  },
+  {
+    "fact": "Harriet Quimby became the first woman to fly across the English Channel, flying from Dover to Hardelot, France",
+    "date": "1912-04-16",
+    "time_local": "05:30",
+    "timezone": "Europe/London"
+  },
+  {
+    "fact": "Harriet Quimby was killed when she was thrown from her plane during a flying meet at Boston Harbor",
+    "date": "1912-07-01"
+  },
+  {
+    "fact": "Jacqueline Cochran became the first woman to break the sound barrier, flying an F-86 Sabre at Edwards Air Force Base",
+    "date": "1953-05-18"
+  },
+  {
+    "fact": "Jacqueline Cochran set more speed, altitude, and distance records than any pilot in aviation history, male or female",
+    "date": "1980-08-09"
+  },
+  {
+    "fact": "Jacqueline Cochran led the Women Airforce Service Pilots (WASP) during World War II, overseeing over 1,000 women pilots",
+    "date": "1943-08-05"
+  },
+  {
+    "fact": "Jerrie Mock became the first woman to fly solo around the world, completing the journey in 29 days",
+    "date": "1964-04-17"
+  },
+  {
+    "fact": "Jerrie Mock took off from Columbus, Ohio in her single-engine Cessna 180 named 'Spirit of Columbus' to begin her around-the-world flight",
+    "date": "1964-03-19",
+    "time_local": "09:31",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Tuskegee Airmen were the first Black military aviators in the U.S. Army Air Corps, trained at Tuskegee Army Air Field in Alabama",
+    "date": "1941-03-22"
+  },
+  {
+    "fact": "The 332nd Fighter Group (Tuskegee Airmen) flew over 15,000 sorties during World War II and never lost a bomber they were escorting to enemy fighters",
+    "date": "1945-05-08"
+  },
+  {
+    "fact": "Benjamin O. Davis Jr. became the first Black general in the United States Air Force and commanded the Tuskegee Airmen in combat",
+    "date": "1954-10-27"
+  },
+  {
+    "fact": "The Tuskegee Airmen shot down over 100 enemy aircraft during World War II and destroyed many more on the ground",
+    "date": "1945-05-08"
+  },
+  {
+    "fact": "The Hindenburg disaster killed 36 people when the German passenger airship caught fire and was destroyed while attempting to land at Lakehurst, New Jersey",
+    "date": "1937-05-06",
+    "time_local": "19:25",
+    "time_utc": "00:25",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Herbert Morrison's famous radio broadcast 'Oh, the humanity!' was recorded as he watched the Hindenburg burn",
+    "date": "1937-05-06",
+    "time_local": "19:25",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Hindenburg was 804 feet long and was the largest aircraft ever built, filled with 7 million cubic feet of hydrogen",
+    "date": "1936-03-04"
+  },
+  {
+    "fact": "TWA Flight 800 exploded and crashed into the Atlantic Ocean off Long Island, New York, killing all 230 people aboard",
+    "date": "1996-07-17",
+    "time_local": "20:31",
+    "time_utc": "00:31",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "American Airlines Flight 191 crashed at Chicago O'Hare Airport shortly after takeoff when an engine separated from the wing, killing 273 people in the deadliest aviation accident on U.S. soil",
+    "date": "1979-05-25",
+    "time_local": "15:04",
+    "time_utc": "20:04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "United Airlines Flight 232 crash-landed at Sioux City, Iowa after total loss of hydraulic controls, with 184 of 296 passengers surviving thanks to the crew's heroic efforts",
+    "date": "1989-07-19",
+    "time_local": "16:00",
+    "time_utc": "21:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "ValuJet Flight 592 crashed into the Florida Everglades 10 minutes after takeoff from Miami, killing all 110 aboard when oxygen generators in the cargo hold caught fire",
+    "date": "1996-05-11",
+    "time_local": "14:13",
+    "time_utc": "18:13",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "American Airlines Flight 11 was hijacked and crashed into the North Tower of the World Trade Center, killing all 92 aboard and approximately 1,600 people in the building",
+    "date": "2001-09-11",
+    "time_local": "08:46",
+    "time_utc": "12:46",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "United Airlines Flight 175 was hijacked and crashed into the South Tower of the World Trade Center at 9:03 AM, killing all 65 aboard and approximately 900 people in the building",
+    "date": "2001-09-11",
+    "time_local": "09:03",
+    "time_utc": "13:03",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "American Airlines Flight 77 was hijacked and crashed into the Pentagon, killing all 64 aboard and 125 people in the building",
+    "date": "2001-09-11",
+    "time_local": "09:37",
+    "time_utc": "13:37",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "United Airlines Flight 93 was hijacked and crashed in a field near Shanksville, Pennsylvania after passengers attempted to retake the aircraft from the hijackers",
+    "date": "2001-09-11",
+    "time_local": "10:03",
+    "time_utc": "14:03",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Flight attendant Betty Ong made a crucial phone call from American Airlines Flight 11 during the hijacking, providing vital information to authorities",
+    "date": "2001-09-11",
+    "time_local": "08:19",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The attack on Pearl Harbor began when 353 Japanese aircraft in two waves attacked the U.S. Pacific Fleet, killing 2,403 Americans",
+    "date": "1941-12-07",
+    "time_local": "07:48",
+    "time_utc": "17:48",
+    "timezone": "Pacific/Honolulu"
+  },
+  {
+    "fact": "The Japanese attack on Pearl Harbor sank or damaged 21 U.S. Navy ships, including 8 battleships, and destroyed 188 aircraft",
+    "date": "1941-12-07",
+    "time_local": "07:48",
+    "timezone": "Pacific/Honolulu"
+  },
+  {
+    "fact": "The Doolittle Raid was the first air operation to strike the Japanese Home Islands during World War II, with 16 B-25 bombers launching from USS Hornet",
+    "date": "1942-04-18",
+    "time_local": "08:20",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "fact": "Lieutenant Colonel Jimmy Doolittle led the audacious raid on Tokyo, boosting American morale four months after Pearl Harbor",
+    "date": "1942-04-18"
+  },
+  {
+    "fact": "The Enola Gay, a B-29 Superfortress, dropped the first atomic bomb 'Little Boy' on Hiroshima, Japan",
+    "date": "1945-08-06",
+    "time_local": "08:15",
+    "time_utc": "23:15",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "fact": "The Enola Gay was piloted by Colonel Paul Tibbets, who named the aircraft after his mother",
+    "date": "1945-08-06"
+  },
+  {
+    "fact": "Bockscar dropped the second atomic bomb 'Fat Man' on Nagasaki, Japan, effectively ending World War II",
+    "date": "1945-08-09",
+    "time_local": "11:02",
+    "time_utc": "02:02",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "fact": "The first Allied airborne invasion of D-Day began with British and American paratroopers landing in Normandy",
+    "date": "1944-06-06",
+    "time_local": "00:16",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "fact": "Over 13,000 aircraft supported the D-Day invasion, the largest amphibious assault in history",
+    "date": "1944-06-06"
+  },
+  {
+    "fact": "Howard Hughes set a new transcontinental speed record, flying from Los Angeles to Newark in 7 hours, 28 minutes, and 25 seconds",
+    "date": "1937-01-19"
+  },
+  {
+    "fact": "Howard Hughes flew around the world in 3 days, 19 hours, and 17 minutes, setting a new circumnavigation record",
+    "date": "1938-07-14",
+    "time_local": "14:37",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Howard Hughes piloted the Hughes H-4 Hercules 'Spruce Goose' on its only flight, traveling about one mile at 70 feet altitude over Long Beach Harbor",
+    "date": "1947-11-02"
+  },
+  {
+    "fact": "The Hughes H-4 Hercules has the largest wingspan of any aircraft ever flown at 320 feet, and was built almost entirely of birch wood due to wartime restrictions",
+    "date": "1947-11-02"
+  },
+  {
+    "fact": "Wiley Post became the first pilot to fly solo around the world, completing the journey in 7 days, 18 hours, and 49 minutes in his Lockheed Vega 'Winnie Mae'",
+    "date": "1933-07-22"
+  },
+  {
+    "fact": "Wiley Post made the first around-the-world flight with a navigator, Harold Gatty, in 8 days, 15 hours, and 51 minutes",
+    "date": "1931-07-01"
+  },
+  {
+    "fact": "Wiley Post pioneered high-altitude flight, developing one of the first pressure suits to fly in the stratosphere",
+    "date": "1934-12-07"
+  },
+  {
+    "fact": "Wiley Post and humorist Will Rogers were killed when their aircraft crashed near Point Barrow, Alaska",
+    "date": "1935-08-15",
+    "time_local": "20:18",
+    "timezone": "America/Anchorage"
+  },
+  {
+    "fact": "O'Hare International Airport in Chicago was named after Edward 'Butch' O'Hare, the U.S. Navy's first flying ace and Medal of Honor recipient in World War II",
+    "date": "1949-01-01"
+  },
+  {
+    "fact": "Chicago O'Hare Airport opened in February 1944 as a manufacturing plant for Douglas C-54 Skymasters during World War II",
+    "date": "1944-02-01"
+  },
+  {
+    "fact": "O'Hare International Airport held the distinction as the world's busiest airport by passenger traffic from 1963 to 1998",
+    "date": "1963-01-01"
+  },
+  {
+    "fact": "The first scheduled jet service at O'Hare was an American Airlines Boeing 707 from New York to Chicago to San Francisco",
+    "date": "1959-03-22"
+  },
+  {
+    "fact": "O'Hare was the site of the world's first jet bridge in 1958, revolutionizing passenger boarding",
+    "date": "1958-01-01"
+  },
+  {
+    "fact": "Chicago Midway Airport was once nicknamed 'the busiest square mile in the world' before O'Hare took over",
+    "date": "1955-01-01"
+  },
+  {
+    "fact": "Pan American World Airways was founded, becoming the principal international air carrier of the United States",
+    "date": "1927-03-14"
+  },
+  {
+    "fact": "United Airlines was formed from a merger of four airlines: Boeing Air Transport, Pacific Air Transport, National Air Transport, and Varney Air Lines",
+    "date": "1931-07-01"
+  },
+  {
+    "fact": "American Airlines was created from the merger of several smaller carriers under the Aviation Corporation",
+    "date": "1930-01-25"
+  },
+  {
+    "fact": "Delta Air Lines began as a crop dusting operation called Huff Daland Dusters",
+    "date": "1925-03-02"
+  },
+  {
+    "fact": "Delta Air Lines made its first passenger flight from Dallas, Texas to Jackson, Mississippi",
+    "date": "1929-06-17"
+  },
+  {
+    "fact": "The Airline Deregulation Act was signed into law by President Jimmy Carter, removing federal control over airline routes and fares",
+    "date": "1978-10-24"
+  },
+  {
+    "fact": "The first U.S. Contract Air Mail service began when a pilot flew mail from Pasco, Washington to Elko, Nevada for Varney Air Lines",
+    "date": "1926-04-06"
+  },
+  {
+    "fact": "The Wright Brothers opened the first civilian flying school at Huffman Prairie, near Dayton, Ohio",
+    "date": "1910-05-01"
+  },
+  {
+    "fact": "Wilbur Wright died of typhoid fever at age 45 in Dayton, Ohio",
+    "date": "1912-05-30"
+  },
+  {
+    "fact": "Orville Wright lived to witness the dawn of supersonic flight and died at age 76 in Dayton, Ohio",
+    "date": "1948-01-30"
+  },
+  {
+    "fact": "The Montgolfier brothers made the first manned free balloon flight, ascending over Paris",
+    "date": "1783-11-21"
+  },
+  {
+    "fact": "Jean-Fran\u00e7ois Pil\u00e2tre de Rozier and the Marquis d'Arlandes were the first humans to fly, aboard a Montgolfier hot air balloon",
+    "date": "1783-11-21",
+    "time_local": "13:54",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "fact": "Jacques Charles and Nicolas-Louis Robert made the first manned hydrogen balloon flight, traveling 36 km from Paris",
+    "date": "1783-12-01"
+  },
+  {
+    "fact": "Jean-Pierre Blanchard and John Jeffries made the first aerial crossing of the English Channel by balloon",
+    "date": "1785-01-07"
+  },
+  {
+    "fact": "Henri Giffard flew the first powered airship, traveling 17 miles from Paris to \u00c9lancourt",
+    "date": "1852-09-24"
+  },
+  {
+    "fact": "Otto Lilienthal made over 2,000 successful glider flights before his fatal crash, pioneering controlled flight",
+    "date": "1896-08-09"
+  },
+  {
+    "fact": "Otto Lilienthal died the day after his glider crashed at Rhinow, Germany, reportedly saying 'Small sacrifices must be made'",
+    "date": "1896-08-10"
+  },
+  {
+    "fact": "Samuel Langley's Aerodrome A crashed into the Potomac River on its second attempt, just 9 days before the Wright Brothers' successful flight",
+    "date": "1903-12-08"
+  },
+  {
+    "fact": "Louis Bl\u00e9riot made the first airplane flight across the English Channel, winning the \u00a31,000 prize offered by the Daily Mail",
+    "date": "1909-07-25",
+    "time_local": "04:41",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "fact": "Louis Bl\u00e9riot flew from Les Baraques near Calais to Dover in 36 minutes, landing near Dover Castle",
+    "date": "1909-07-25",
+    "time_local": "05:17",
+    "timezone": "Europe/London"
+  },
+  {
+    "fact": "The first scheduled airline service began when a Benoist flying boat flew from St. Petersburg to Tampa, Florida, with one passenger",
+    "date": "1914-01-01",
+    "time_local": "10:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Tony Jannus piloted the first scheduled airline flight, a 23-minute journey across Tampa Bay for the St. Petersburg-Tampa Airboat Line",
+    "date": "1914-01-01"
+  },
+  {
+    "fact": "The Wright Brothers sold their first airplane to the U.S. Army Signal Corps for $30,000 after successful flight trials at Fort Myer",
+    "date": "1909-08-02"
+  },
+  {
+    "fact": "Lieutenant Thomas Selfridge became the first person to die in a powered airplane crash, when the Wright Flyer crashed during Army trials",
+    "date": "1908-09-17",
+    "time_local": "17:14",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Orville Wright was seriously injured but survived the same crash that killed Thomas Selfridge at Fort Myer, Virginia",
+    "date": "1908-09-17"
+  },
+  {
+    "fact": "Cal Rodgers completed the first transcontinental flight across the United States, taking 84 days to fly from New York to Long Beach, California",
+    "date": "1911-11-05"
+  },
+  {
+    "fact": "Cal Rodgers' transcontinental flight covered 4,231 miles with 70 stops, including numerous crash landings and repairs",
+    "date": "1911-11-05"
+  },
+  {
+    "fact": "The first in-flight movie was shown on an Aeromarine Airways flight from New York to Atlantic City",
+    "date": "1921-01-01"
+  },
+  {
+    "fact": "The first female flight attendant, Ellen Church, began working for Boeing Air Transport",
+    "date": "1930-05-15"
+  },
+  {
+    "fact": "Lockheed produced the P-38 Lightning, the first fighter aircraft to fly over 400 mph in level flight",
+    "date": "1939-01-27"
+  },
+  {
+    "fact": "The Messerschmitt Me 262 became the world's first operational jet-powered fighter aircraft, entering combat",
+    "date": "1944-07-26"
+  },
+  {
+    "fact": "The Gloster Meteor became the first British jet fighter and the only Allied jet to see combat in World War II",
+    "date": "1944-07-27"
+  },
+  {
+    "fact": "The North American P-51 Mustang, often considered the best propeller fighter of World War II, first flew",
+    "date": "1940-10-26"
+  },
+  {
+    "fact": "The Boeing B-17 Flying Fortress first flew, becoming one of the most important heavy bombers of World War II",
+    "date": "1935-07-28"
+  },
+  {
+    "fact": "The Boeing B-29 Superfortress, the most advanced bomber of World War II, made its first flight",
+    "date": "1942-09-21"
+  },
+  {
+    "fact": "The Curtiss NC-4 became the first aircraft to cross the Atlantic Ocean, flying from Newfoundland to Lisbon via the Azores",
+    "date": "1919-05-27"
+  },
+  {
+    "fact": "John Alcock and Arthur Whitten Brown completed the first non-stop transatlantic flight, from Newfoundland to Ireland in 16 hours 12 minutes",
+    "date": "1919-06-15",
+    "time_local": "16:12",
+    "time_utc": "15:12",
+    "timezone": "Europe/London"
+  },
+  {
+    "fact": "Alcock and Brown crash-landed in a bog at Clifden, Ireland after flying through fog, rain, and ice in their Vickers Vimy bomber",
+    "date": "1919-06-15",
+    "time_local": "08:40",
+    "timezone": "Europe/London"
+  },
+  {
+    "fact": "The first non-stop around-the-world flight without refueling was completed by Dick Rutan and Jeana Yeager in Voyager",
+    "date": "1986-12-23"
+  },
+  {
+    "fact": "Dick Rutan and Jeana Yeager took off from Edwards Air Force Base and returned 9 days, 3 minutes, and 44 seconds later after circling the globe",
+    "date": "1986-12-14",
+    "time_local": "08:01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Voyager aircraft landed with only 5 gallons of fuel remaining after its record-breaking circumnavigation",
+    "date": "1986-12-23"
+  },
+  {
+    "fact": "Steve Fossett became the first person to fly solo non-stop around the world without refueling in the GlobalFlyer",
+    "date": "2005-03-03"
+  },
+  {
+    "fact": "The SR-71 Blackbird set the absolute speed record for a piloted air-breathing jet aircraft at 2,193 mph (Mach 3.32)",
+    "date": "1976-07-28"
+  },
+  {
+    "fact": "The SR-71 Blackbird also set the altitude record for horizontal flight at 85,069 feet on the same day as its speed record",
+    "date": "1976-07-28"
+  },
+  {
+    "fact": "The F-117 Nighthawk, the first operational aircraft designed around stealth technology, made its maiden flight",
+    "date": "1981-06-18"
+  },
+  {
+    "fact": "The B-2 Spirit stealth bomber made its first public flight at Palmdale, California",
+    "date": "1989-07-17"
+  },
+  {
+    "fact": "The Lockheed U-2 'Dragon Lady' spy plane was shot down over the Soviet Union, creating an international incident",
+    "date": "1960-05-01"
+  },
+  {
+    "fact": "Gary Powers, the U-2 pilot, was captured by the Soviets and later exchanged for Soviet spy Rudolf Abel",
+    "date": "1962-02-10"
+  },
+  {
+    "fact": "The first helicopter flight by a practical single-rotor helicopter was made by Igor Sikorsky in the VS-300",
+    "date": "1939-09-14"
+  },
+  {
+    "fact": "Igor Sikorsky emigrated from Russia to the United States and revolutionized aviation with his helicopter designs",
+    "date": "1919-03-30"
+  },
+  {
+    "fact": "The Wright Brothers used Huffman Prairie, an 84-acre cow pasture outside Dayton, Ohio, to perfect their flying techniques after Kitty Hawk",
+    "date": "1904-05-23"
+  },
+  {
+    "fact": "The first night airmail flight was conducted between Chicago and Cheyenne, Wyoming",
+    "date": "1921-02-22"
+  },
+  {
+    "fact": "Jimmy Doolittle performed the first completely blind flight, taking off, flying, and landing using only instruments",
+    "date": "1929-09-24"
+  },
+  {
+    "fact": "The first transcontinental air service began with combined rail and air travel from New York to San Francisco taking 48 hours",
+    "date": "1920-09-08"
+  },
+  {
+    "fact": "The Lockheed Constellation entered commercial service, becoming the first pressurized airliner in widespread use",
+    "date": "1943-01-09"
+  },
+  {
+    "fact": "TWA Flight 2 and United Airlines Flight 718 collided over the Grand Canyon, killing all 128 people and leading to the creation of the FAA",
+    "date": "1956-06-30",
+    "time_local": "10:31",
+    "timezone": "America/Phoenix"
+  },
+  {
+    "fact": "The Federal Aviation Agency (later Administration) was established as a direct result of the Grand Canyon mid-air collision",
+    "date": "1958-08-23"
+  },
+  {
+    "fact": "The first Boeing 737, which would become the best-selling jet airliner in history, made its maiden flight",
+    "date": "1967-04-09"
+  },
+  {
+    "fact": "Over 10,000 Boeing 737s have been delivered, making it the most produced large commercial jet",
+    "date": "2018-03-13"
+  },
+  {
+    "fact": "The Airbus A380, the world's largest passenger aircraft, made its first commercial flight for Singapore Airlines from Singapore to Sydney",
+    "date": "2007-10-25"
+  },
+  {
+    "fact": "The Airbus A380 can carry up to 853 passengers in an all-economy configuration",
+    "date": "2005-04-27"
+  },
+  {
+    "fact": "The Boeing 787 Dreamliner, the first major airliner made primarily of composite materials, completed its first flight",
+    "date": "2009-12-15"
+  },
+  {
+    "fact": "The first commercial drone delivery was made by Amazon Prime Air in Cambridge, UK",
+    "date": "2016-12-07"
+  },
+  {
+    "fact": "The Predator drone conducted its first armed reconnaissance mission in Afghanistan",
+    "date": "2001-10-07"
+  },
+  {
+    "fact": "The Solar Impulse 2 completed the first solar-powered circumnavigation of the Earth, taking 16 months",
+    "date": "2016-07-26"
+  },
+  {
+    "fact": "Bertrand Piccard landed Solar Impulse 2 in Abu Dhabi, completing the 26,744-mile journey",
+    "date": "2016-07-26",
+    "time_local": "04:05",
+    "timezone": "Asia/Dubai"
+  },
+  {
+    "fact": "The tilt-rotor V-22 Osprey, which can take off like a helicopter and fly like a plane, entered operational service with the Marine Corps",
+    "date": "2007-06-13"
+  },
+  {
+    "fact": "Pan Am Flight 103 was destroyed by a bomb over Lockerbie, Scotland, killing all 259 aboard and 11 on the ground",
+    "date": "1988-12-21",
+    "time_local": "19:03",
+    "timezone": "Europe/London"
+  },
+  {
+    "fact": "The Tenerife airport disaster killed 583 people when two Boeing 747s collided on the runway in the deadliest accident in aviation history",
+    "date": "1977-03-27",
+    "time_local": "17:06",
+    "timezone": "Atlantic/Canary"
+  },
+  {
+    "fact": "A KLM 747 attempted to take off while a Pan Am 747 was still on the runway in dense fog at Los Rodeos Airport, Tenerife",
+    "date": "1977-03-27"
+  },
+  {
+    "fact": "Japan Airlines Flight 123 crashed into a mountain after a catastrophic decompression, killing 520 in the deadliest single-aircraft accident",
+    "date": "1985-08-12",
+    "time_local": "18:56",
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "fact": "Four crew members survived the Japan Airlines Flight 123 crash, rescued 14 hours after the accident",
+    "date": "1985-08-13"
+  },
+  {
+    "fact": "Air France Flight 447 crashed into the Atlantic Ocean during a flight from Rio de Janeiro to Paris, killing all 228 aboard",
+    "date": "2009-06-01",
+    "time_local": "02:14",
+    "time_utc": "02:14",
+    "timezone": "UTC"
+  },
+  {
+    "fact": "The black boxes from Air France Flight 447 were not recovered until nearly two years after the crash",
+    "date": "2011-05-01"
+  },
+  {
+    "fact": "Malaysia Airlines Flight 370 disappeared during a flight from Kuala Lumpur to Beijing, becoming one of aviation's greatest mysteries",
+    "date": "2014-03-08",
+    "time_local": "01:21",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  {
+    "fact": "Malaysia Airlines Flight 17 was shot down over eastern Ukraine, killing all 298 people aboard",
+    "date": "2014-07-17",
+    "time_local": "16:20",
+    "timezone": "Europe/Kiev"
+  },
+  {
+    "fact": "Germanwings Flight 9525 was deliberately crashed into the French Alps by the co-pilot, killing all 150 people aboard",
+    "date": "2015-03-24",
+    "time_local": "10:41",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "fact": "The first Boeing 747SP, a shortened long-range version, completed a record-breaking westbound around-the-world flight in 54 hours",
+    "date": "1988-01-28"
+  },
+  {
+    "fact": "Captain Chesley 'Sully' Sullenberger safely landed US Airways Flight 1549 on the Hudson River after both engines were disabled by bird strikes",
+    "date": "2009-01-15",
+    "time_local": "15:31",
+    "time_utc": "20:31",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "All 155 passengers and crew survived the 'Miracle on the Hudson' landing, making it one of the most successful emergency water landings",
+    "date": "2009-01-15"
+  },
+  {
+    "fact": "US Airways Flight 1549 was struck by a flock of Canada geese at approximately 2,800 feet, just minutes after takeoff from LaGuardia",
+    "date": "2009-01-15",
+    "time_local": "15:27",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Wright Brothers' first powered flight was shorter than the wingspan of a Boeing 747",
+    "date": "1903-12-17"
+  },
+  {
+    "fact": "Boeing was founded in Seattle by William Boeing as the Pacific Aero Products Co.",
+    "date": "1916-07-15"
+  },
+  {
+    "fact": "Boeing's corporate headquarters moved from Seattle to Chicago",
+    "date": "2001-09-04"
+  },
+  {
+    "fact": "Douglas Aircraft Company was founded in Santa Monica, California by Donald Douglas",
+    "date": "1921-07-22"
+  },
+  {
+    "fact": "Douglas Aircraft merged with McDonnell Aircraft to form McDonnell Douglas",
+    "date": "1967-04-28"
+  },
+  {
+    "fact": "Boeing acquired McDonnell Douglas, creating the largest aerospace company in the world",
+    "date": "1997-08-01"
+  },
+  {
+    "fact": "Lockheed Martin was formed by the merger of Lockheed Corporation and Martin Marietta",
+    "date": "1995-03-15"
+  },
+  {
+    "fact": "The Airbus consortium was formally established by European aerospace companies",
+    "date": "1970-12-18"
+  },
+  {
+    "fact": "The first Airbus aircraft, the A300, made its maiden flight as the world's first twin-engine wide-body",
+    "date": "1972-10-28"
+  },
+  {
+    "fact": "Southwest Airlines began operations with flights between Dallas, Houston, and San Antonio using three Boeing 737s",
+    "date": "1971-06-18"
+  },
+  {
+    "fact": "JetBlue Airways began operations with a flight from New York JFK to Fort Lauderdale",
+    "date": "2000-02-11"
+  },
+  {
+    "fact": "The first regularly scheduled supersonic passenger service began with Concorde flights from London and Paris to Bahrain and Rio",
+    "date": "1976-01-21"
+  },
+  {
+    "fact": "The Soviet Tupolev Tu-144 was the first supersonic transport to fly, beating Concorde by two months",
+    "date": "1968-12-31"
+  },
+  {
+    "fact": "The Tupolev Tu-144 made its first passenger flight from Moscow to Alma-Ata",
+    "date": "1977-11-01"
+  },
+  {
+    "fact": "The Tu-144 was withdrawn from passenger service after only 55 scheduled flights due to safety concerns",
+    "date": "1978-06-01"
+  },
+  {
+    "fact": "The first scheduled passenger helicopter service began between Cardiff and Liverpool",
+    "date": "1950-06-01"
+  },
+  {
+    "fact": "The Sikorsky S-42 flying boat set eight world records and pioneered transoceanic flight routes for Pan Am",
+    "date": "1934-08-01"
+  },
+  {
+    "fact": "The Boeing 314 Clipper began transpacific passenger service for Pan Am, flying from San Francisco to Hong Kong",
+    "date": "1939-02-23"
+  },
+  {
+    "fact": "Pan Am's 'China Clipper' Martin M-130 made the first commercial transpacific airmail flight from San Francisco to Manila",
+    "date": "1935-11-22"
+  },
+  {
+    "fact": "The Spirit of St. Louis completed 150 flights on goodwill tours of the United States and Latin America after Lindbergh's transatlantic success",
+    "date": "1928-04-30"
+  },
+  {
+    "fact": "Charles Lindbergh turned down a $1 million Hollywood movie offer after his transatlantic flight",
+    "date": "1927-06-01"
+  },
+  {
+    "fact": "The kidnapping and murder of Charles Lindbergh Jr., the 20-month-old son of Charles and Anne Morrow Lindbergh, shocked the nation",
+    "date": "1932-03-01"
+  },
+  {
+    "fact": "The first practical radar system was demonstrated in Britain by Robert Watson-Watt, revolutionizing aviation safety and warfare",
+    "date": "1935-02-26"
+  },
+  {
+    "fact": "The RAF's use of radar during the Battle of Britain proved decisive in detecting incoming German aircraft",
+    "date": "1940-07-10"
+  },
+  {
+    "fact": "The first commercial flight recorder (black box) was installed on a British aircraft following BOAC Comet crashes",
+    "date": "1958-01-01"
+  },
+  {
+    "fact": "David Warren invented the flight data recorder in Australia after investigating the mysterious crashes of the de Havilland Comet",
+    "date": "1953-01-01"
+  },
+  {
+    "fact": "The Traffic Collision Avoidance System (TCAS) became mandatory on all commercial aircraft in the United States with more than 30 seats",
+    "date": "1993-12-31"
+  },
+  {
+    "fact": "Ground Proximity Warning Systems became mandatory on large commercial aircraft following the Eastern Air Lines Flight 401 crash",
+    "date": "1974-01-01"
+  },
+  {
+    "fact": "Eastern Air Lines Flight 401 crashed into the Florida Everglades while the crew was distracted by a landing gear indicator light",
+    "date": "1972-12-29",
+    "time_local": "23:42",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The first autopilot, called the 'Automatic Pilot', was demonstrated by Lawrence Sperry aboard a Curtiss flying boat",
+    "date": "1914-06-18"
+  },
+  {
+    "fact": "Lawrence Sperry won a 50,000-franc prize for demonstrating his autopilot with both hands off the controls at a Paris aviation exhibition",
+    "date": "1914-06-18"
+  },
+  {
+    "fact": "The first aerial refueling occurred between two DH-4B aircraft over San Diego, extending the receiving aircraft's endurance",
+    "date": "1923-06-27"
+  },
+  {
+    "fact": "The Question Mark, a modified Fokker C-2, set an endurance record of 150 hours 40 minutes using aerial refueling over Los Angeles",
+    "date": "1929-01-07"
+  },
+  {
+    "fact": "The Wright Brothers' patent war against Glenn Curtiss and other aviators lasted until 1917, when the U.S. government forced a resolution",
+    "date": "1917-07-24"
+  },
+  {
+    "fact": "The Wright Brothers' basic patent for a 'flying machine' was granted after extensive legal battles",
+    "date": "1906-05-22"
+  },
+  {
+    "fact": "The first fatal commercial airline accident occurred when a DH.18 crashed into a DH.9 over Poix-de-Picardie, France, killing seven people",
+    "date": "1922-04-07"
+  },
+  {
+    "fact": "The world's first jet airliner passenger, H.J. Winsbury, flew aboard the de Havilland Comet from London to Johannesburg",
+    "date": "1952-05-02"
+  },
+  {
+    "fact": "The Boeing 707's distinctive swept wings were derived from research captured from Nazi Germany after World War II",
+    "date": "1958-01-01"
+  },
+  {
+    "fact": "The prototype Boeing 707, known as the Dash 80, performed a dramatic barrel roll during a demonstration piloted by test pilot Tex Johnston",
+    "date": "1955-08-07"
+  },
+  {
+    "fact": "The Fokker Dr.I triplane, made famous by the Red Baron, entered service with the German Air Force",
+    "date": "1917-08-21"
+  },
+  {
+    "fact": "Manfred von Richthofen, the 'Red Baron', was the highest-scoring ace of World War I with 80 confirmed victories before being killed in action",
+    "date": "1918-04-21",
+    "time_local": "11:00",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "fact": "Eddie Rickenbacker became America's top ace of World War I with 26 confirmed kills, flying a SPAD S.XIII",
+    "date": "1918-11-11"
+  },
+  {
+    "fact": "The first aircraft catapult launch from a ship was demonstrated on USS North Carolina",
+    "date": "1915-11-05"
+  },
+  {
+    "fact": "USS Langley became the U.S. Navy's first aircraft carrier, converted from the collier Jupiter",
+    "date": "1922-03-20"
+  },
+  {
+    "fact": "The first successful landing on a moving ship at sea was made on HMS Furious by Squadron Commander Edwin Dunning",
+    "date": "1917-08-02"
+  },
+  {
+    "fact": "Edwin Dunning died five days later attempting to repeat his historic landing when his aircraft was blown overboard",
+    "date": "1917-08-07"
+  },
+  {
+    "fact": "The Grumman F6F Hellcat achieved an 19:1 kill ratio against Japanese aircraft in World War II, one of the highest in aviation history",
+    "date": "1945-08-15"
+  },
+  {
+    "fact": "The first flight of a jet aircraft, the Heinkel He 178, took place in Germany",
+    "date": "1939-08-27",
+    "time_local": "06:00",
+    "timezone": "Europe/Berlin"
+  },
+  {
+    "fact": "Frank Whittle ran his first turbojet engine in England, though the Germans beat him to the first jet flight",
+    "date": "1937-04-12"
+  },
+  {
+    "fact": "The British Gloster E.28/39 made the first British jet flight powered by a Whittle W.1 engine",
+    "date": "1941-05-15"
+  },
+  {
+    "fact": "The Bell P-59 Airacomet made the first American jet flight at Muroc Dry Lake (now Edwards AFB)",
+    "date": "1942-10-01"
+  },
+  {
+    "fact": "The Korean War saw the first jet-versus-jet combat when a U.S. F-80 shot down a North Korean MiG-15",
+    "date": "1950-11-08"
+  },
+  {
+    "fact": "The North American F-86 Sabre and Soviet MiG-15 dominated the skies over Korea, with U.S. pilots achieving a 10:1 kill ratio",
+    "date": "1953-07-27"
+  },
+  {
+    "fact": "The Berlin Airlift began, with American and British aircraft delivering supplies to West Berlin for 15 months",
+    "date": "1948-06-24"
+  },
+  {
+    "fact": "At the peak of the Berlin Airlift, an aircraft landed at Tempelhof Airport every 30 seconds",
+    "date": "1949-04-16"
+  },
+  {
+    "fact": "The Berlin Airlift delivered over 2.3 million tons of cargo in 278,000 flights before the Soviet blockade ended",
+    "date": "1949-05-12"
+  },
+  {
+    "fact": "The first transatlantic jet passenger service was operated by BOAC Comet 4 from London to New York",
+    "date": "1958-10-04"
+  },
+  {
+    "fact": "Pan Am beat BOAC to be the first U.S. airline to offer transatlantic jet service, starting Boeing 707 flights three weeks later",
+    "date": "1958-10-26"
+  },
+  {
+    "fact": "The Lockheed Electra turboprop entered commercial service, becoming the first American-built turboprop airliner",
+    "date": "1959-01-12"
+  },
+  {
+    "fact": "Two fatal crashes led to speed restrictions on the Lockheed Electra until the cause (whirl mode) was identified and fixed",
+    "date": "1960-03-17"
+  },
+  {
+    "fact": "The first flight around the world following a polar route was completed by a Pan Am Boeing 747SP",
+    "date": "1977-10-29"
+  },
+  {
+    "fact": "The Boeing 747-400 set a new distance record for a commercial aircraft, flying 10,000 miles non-stop from London to Sydney",
+    "date": "1989-08-16"
+  },
+  {
+    "fact": "Qantas operated the first non-stop commercial flight from Australia to London, covering 9,009 miles in about 17 hours on a Boeing 787",
+    "date": "2019-10-20"
+  },
+  {
+    "fact": "The first commercial flight of the Boeing 777, the largest twin-engine jet, was operated by United Airlines from London to Washington",
+    "date": "1995-06-07"
+  },
+  {
+    "fact": "The first passenger flight of an all-electric aircraft was made by Harbour Air using a retrofitted de Havilland Beaver in Vancouver",
+    "date": "2019-12-10"
+  },
+  {
+    "fact": "SpaceShipOne became the first privately funded spacecraft to reach space, winning the $10 million Ansari X Prize",
+    "date": "2004-10-04"
+  },
+  {
+    "fact": "Virgin Galactic's SpaceShipTwo reached space with paying passengers for the first time",
+    "date": "2021-07-11"
+  },
+  {
+    "fact": "The first fatal space tourist accident occurred when Virgin Galactic's SpaceShipTwo broke apart over the Mojave Desert during a test flight",
+    "date": "2014-10-31"
+  },
+  {
+    "fact": "The Rutan Voyager was built almost entirely of composite materials to save weight for its around-the-world flight",
+    "date": "1984-06-22"
+  },
+  {
+    "fact": "Burt Rutan, designer of the Voyager, also designed SpaceShipOne and numerous other innovative aircraft",
+    "date": "2004-10-04"
+  },
+  {
+    "fact": "The Gossamer Condor won the Kremer Prize as the first human-powered aircraft to complete a figure-eight course",
+    "date": "1977-08-23"
+  },
+  {
+    "fact": "Bryan Allen pedaled the Gossamer Albatross across the English Channel, winning the second Kremer Prize for human-powered flight",
+    "date": "1979-06-12",
+    "time_local": "05:51",
+    "timezone": "Europe/London"
+  },
+  {
+    "fact": "The first successful parachute jump from an airplane was made by Captain Albert Berry over St. Louis",
+    "date": "1912-03-01"
+  },
+  {
+    "fact": "Georgia 'Tiny' Broadwick became the first woman to parachute from an airplane",
+    "date": "1913-06-21"
+  },
+  {
+    "fact": "The first emergency parachute jump was made by Harold Harris when his aircraft became uncontrollable",
+    "date": "1922-10-20"
+  },
+  {
+    "fact": "The ejection seat was first used operationally by a German pilot escaping a burning Heinkel He 219",
+    "date": "1944-01-13"
+  },
+  {
+    "fact": "Colonel Joseph Kittinger made the highest parachute jump at the time, falling from 102,800 feet in the Excelsior project",
+    "date": "1960-08-16",
+    "time_local": "07:12",
+    "timezone": "America/Denver"
+  },
+  {
+    "fact": "Felix Baumgartner broke Kittinger's record by jumping from 128,100 feet, breaking the sound barrier during freefall",
+    "date": "2012-10-14"
+  },
+  {
+    "fact": "Alan Eustace set the current highest altitude jump record at 135,890 feet, surpassing Baumgartner",
+    "date": "2014-10-24"
+  },
+  {
+    "fact": "The Wright Brothers flew their first public demonstration at Huffman Prairie for an audience that included Octave Chanute",
+    "date": "1904-09-20"
+  },
+  {
+    "fact": "Octave Chanute, the 'Father of Aviation' who mentored the Wright Brothers, published 'Progress in Flying Machines' which surveyed all prior attempts at flight",
+    "date": "1894-01-01"
+  },
+  {
+    "fact": "The Smithsonian Institution initially refused to recognize the Wright Brothers' achievement, falsely claiming Samuel Langley flew first",
+    "date": "1914-01-01"
+  },
+  {
+    "fact": "The Wright Flyer was displayed at the Science Museum in London from 1928 to 1948 because of the Smithsonian controversy",
+    "date": "1928-01-01"
+  },
+  {
+    "fact": "The Wright Flyer was finally installed at the Smithsonian Institution after the museum acknowledged the Wrights' achievement",
+    "date": "1948-12-17"
+  },
+  {
+    "fact": "A piece of fabric from the original Wright Flyer was carried to the moon aboard Apollo 11",
+    "date": "1969-07-20"
+  },
+  {
+    "fact": "A piece of the Wright Flyer's propeller and wing fabric flew on Mars aboard the Ingenuity helicopter",
+    "date": "2021-04-19"
+  },
+  {
+    "fact": "The Ingenuity helicopter made the first powered controlled flight on another planet, flying for 39.1 seconds on Mars",
+    "date": "2021-04-19",
+    "time_local": "12:33",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Wright Brothers' first airplane engine developed only 12 horsepower but weighed just 180 pounds, an excellent power-to-weight ratio for its time",
+    "date": "1903-12-17"
+  },
+  {
+    "fact": "The Wright Brothers tested over 200 wing designs in a wind tunnel they built in their Dayton bicycle shop",
+    "date": "1901-10-01"
+  },
+  {
+    "fact": "Alberto Santos-Dumont committed suicide in 1932, reportedly distraught over the use of aircraft as weapons of war in the Brazilian Civil War",
+    "date": "1932-07-23"
+  },
+  {
+    "fact": "Santos-Dumont designed the Demoiselle, considered the first series-produced aircraft, offering the plans for free to encourage aviation",
+    "date": "1908-11-16"
+  },
+  {
+    "fact": "Santos-Dumont's friend Louis Cartier designed the first practical wristwatch for him so he could check time while flying",
+    "date": "1904-01-01"
+  },
+  {
+    "fact": "Boeing Air Transport introduced the first flight attendants, hiring registered nurses to care for passengers and calm their fears",
+    "date": "1930-05-15"
+  },
+  {
+    "fact": "TWA Flight 2 and United Airlines Flight 718 collided over the Grand Canyon because air traffic control coverage did not extend over the sparsely populated area",
+    "date": "1956-06-30"
+  },
+  {
+    "fact": "The collision over the Grand Canyon led Congress to establish the Federal Aviation Agency to manage civil aviation and airspace",
+    "date": "1958-08-23"
+  },
+  {
+    "fact": "Boeing rolled out the first 747 on September 30, 1968, with 26 airlines having already ordered the revolutionary aircraft",
+    "date": "1968-09-30"
+  },
+  {
+    "fact": "The Boeing 747's upper deck was originally designed as a cargo hold, giving the aircraft its distinctive hump",
+    "date": "1969-02-09"
+  },
+  {
+    "fact": "The first pilot to fly a Boeing 747 in commercial service was Captain Virgil Vaughn for Pan Am",
+    "date": "1970-01-22"
+  },
+  {
+    "fact": "EgyptAir Flight 990 crashed into the Atlantic Ocean after a co-pilot deliberately put the aircraft into a dive, killing all 217 aboard",
+    "date": "1999-10-31",
+    "time_local": "01:50",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "SilkAir Flight 185 crashed into a river in Indonesia after the captain deliberately crashed the plane, killing all 104 aboard",
+    "date": "1997-12-19",
+    "time_local": "16:05",
+    "timezone": "Asia/Jakarta"
+  },
+  {
+    "fact": "The first woman airline pilot in the United States was Helen Richey, hired by Central Airlines",
+    "date": "1934-12-31"
+  },
+  {
+    "fact": "Emily Howell Warner became the first woman to be hired as a pilot by a major U.S. commercial airline (Frontier Airlines)",
+    "date": "1973-01-29"
+  },
+  {
+    "fact": "Beverley Bass became the first female captain of a major U.S. airline (American Airlines)",
+    "date": "1986-01-01"
+  },
+  {
+    "fact": "The Tuskegee Airmen's 332nd Fighter Group adopted distinctive red tail markings, earning them the nickname 'Red Tails'",
+    "date": "1944-06-01"
+  },
+  {
+    "fact": "The 99th Pursuit Squadron, the first Tuskegee Airmen unit, flew its first combat mission over the Mediterranean",
+    "date": "1943-06-02"
+  },
+  {
+    "fact": "Charles McGee of the Tuskegee Airmen flew 409 combat missions across World War II, Korea, and Vietnam - one of the highest totals in Air Force history",
+    "date": "1973-01-01"
+  },
+  {
+    "fact": "The Tuskegee Airmen were awarded the Congressional Gold Medal collectively for their service",
+    "date": "2007-03-29"
+  },
+  {
+    "fact": "President Harry Truman signed Executive Order 9981, desegregating the U.S. Armed Forces, influenced partly by the Tuskegee Airmen's success",
+    "date": "1948-07-26"
+  },
+  {
+    "fact": "The first African American to earn a pilot's license in the United States was Emory Malick",
+    "date": "1912-01-01"
+  },
+  {
+    "fact": "Willa Brown became the first African American woman to earn a commercial pilot's license in the United States",
+    "date": "1937-01-01"
+  },
+  {
+    "fact": "The first African American airline pilot for a major U.S. carrier was David Harris, hired by American Airlines",
+    "date": "1964-01-01"
+  },
+  {
+    "fact": "Patrice Clarke Washington became the first Black female captain for a major U.S. airline (United Parcel Service)",
+    "date": "1994-01-01"
+  },
+  {
+    "fact": "The deadliest year in commercial aviation history was 1972, with 2,429 fatalities in multiple accidents",
+    "date": "1972-12-31"
+  },
+  {
+    "fact": "The year 2017 was the safest year in commercial aviation history with zero fatal accidents on scheduled passenger jets",
+    "date": "2017-12-31"
+  },
+  {
+    "fact": "Aloha Airlines Flight 243 landed safely despite losing a large section of its fuselage in flight, demonstrating improved aircraft design",
+    "date": "1988-04-28",
+    "time_local": "13:48",
+    "timezone": "Pacific/Honolulu"
+  },
+  {
+    "fact": "Flight attendant Clarabelle Lansing was the only fatality when she was swept out of Aloha Airlines Flight 243 during the explosive decompression",
+    "date": "1988-04-28"
+  },
+  {
+    "fact": "British Airways Flight 5390 landed safely after the captain was partially sucked out of a blown-out windscreen, held by crew until landing",
+    "date": "1990-06-10",
+    "time_local": "08:33",
+    "timezone": "Europe/London"
+  },
+  {
+    "fact": "DHL Flight 611 safely landed after being struck by a surface-to-air missile over Baghdad, the first successful landing of a civilian aircraft hit by a missile",
+    "date": "2003-11-22"
+  },
+  {
+    "fact": "Qantas Flight 32 safely landed with over 650 holes in its wings and fuselage after an engine exploded, in one of the most remarkable saves in aviation history",
+    "date": "2010-11-04",
+    "time_local": "10:01",
+    "timezone": "Asia/Singapore"
+  },
+  {
+    "fact": "American Airlines retired its fleet of McDonnell Douglas MD-80s after 36 years of service, marking the end of an era",
+    "date": "2019-09-04"
+  },
+  {
+    "fact": "The Boeing 727, which dominated short-haul aviation for decades, made its last commercial passenger flight",
+    "date": "2003-01-15"
+  },
+  {
+    "fact": "The final Boeing 747 was delivered to Atlas Air, ending production of the 'Queen of the Skies' after 54 years",
+    "date": "2023-01-31"
+  },
+  {
+    "fact": "Airbus delivered its 10,000th aircraft, an A350-900 to Singapore Airlines",
+    "date": "2016-10-14"
+  },
+  {
+    "fact": "Boeing delivered its 10,000th 737 to Southwest Airlines",
+    "date": "2018-03-13"
+  },
+  {
+    "fact": "The Embraer E190 became the first commercial airliner designed with fly-by-wire technology outside Boeing and Airbus",
+    "date": "2004-03-12"
+  },
+  {
+    "fact": "The first commercial aircraft to have winglets as standard equipment was the Boeing 747-400",
+    "date": "1988-04-29"
+  },
+  {
+    "fact": "NASA's X-59 Quiet SuperSonic Technology aircraft was designed to reduce sonic booms to a quiet thump, potentially reviving supersonic commercial flight",
+    "date": "2024-01-12"
+  },
+  {
+    "fact": "The last flight of the SR-71 Blackbird set speed records from Los Angeles to Washington D.C. in 1 hour, 4 minutes, and 20 seconds",
+    "date": "1990-03-06"
+  },
+  {
+    "fact": "The Reno Air Races, featuring aircraft flying at over 500 mph just feet above the ground, began at Reno Stead Airport",
+    "date": "1964-09-12"
+  },
+  {
+    "fact": "The National Air Races were discontinued after a modified P-51 Mustang crashed into spectators at the Reno Air Races, killing 11 people",
+    "date": "2011-09-16"
+  },
+  {
+    "fact": "The Ford Trimotor 'Tin Goose', one of the first all-metal commercial aircraft, made its first flight",
+    "date": "1926-06-11"
+  },
+  {
+    "fact": "Admiral Richard Byrd claimed to have made the first flight over the North Pole, though the claim remains disputed",
+    "date": "1926-05-09"
+  },
+  {
+    "fact": "Roald Amundsen, Lincoln Ellsworth, and Umberto Nobile made the first verified flight over the North Pole in the airship Norge",
+    "date": "1926-05-12"
+  },
+  {
+    "fact": "Richard Byrd made the first flight over the South Pole in a Ford Trimotor",
+    "date": "1929-11-29"
+  },
+  {
+    "fact": "The first nonstop flight across the Pacific Ocean from Japan to the United States was completed by Clyde Pangborn and Hugh Herndon",
+    "date": "1931-10-05"
+  },
+  {
+    "fact": "Pangborn and Herndon jettisoned their landing gear over Japan to reduce weight and later belly-landed in Washington state after 41 hours in the air",
+    "date": "1931-10-05"
+  },
+  {
+    "fact": "The first regular transatlantic passenger service began between New York and Marseilles using flying boats",
+    "date": "1939-06-28"
+  },
+  {
+    "fact": "BOAC and Qantas began the first regular passenger service between Britain and Australia using flying boats",
+    "date": "1938-07-04"
+  },
+  {
+    "fact": "The last scheduled seaplane airline service in the United States ended when Chalk's International Airlines ceased operations",
+    "date": "2007-07-31"
+  },
+  {
+    "fact": "Leonardo da Vinci sketched designs for flying machines including an ornithopter and aerial screw around 1485",
+    "date": "1485-01-01"
+  },
+  {
+    "fact": "George Cayley built and flew the first successful human-carrying glider, piloted by his coachman",
+    "date": "1853-01-01"
+  },
+  {
+    "fact": "The coachman reportedly quit after landing Cayley's glider, saying 'I was hired to drive, not fly'",
+    "date": "1853-01-01"
+  },
+  {
+    "fact": "Percy Pilcher died in a glider crash, possibly just weeks away from attempting powered flight before the Wright Brothers",
+    "date": "1899-09-30"
+  },
+  {
+    "fact": "Gustave Whitehead claimed to have made a powered flight in Connecticut two years before the Wright Brothers, though this claim is disputed",
+    "date": "1901-08-14"
+  },
+  {
+    "fact": "The F\u00e9d\u00e9ration A\u00e9ronautique Internationale officially recognized the Wright Brothers as the first to achieve powered, controlled flight",
+    "date": "1905-10-14"
+  },
+  {
+    "fact": "The first aircraft radio communication was demonstrated by Frederick Baldwin and John McCurdy flying Alexander Graham Bell's Silver Dart",
+    "date": "1910-08-27"
+  },
+  {
+    "fact": "The first successful air mail delivery was made by Fred Wiseman, flying from Petaluma to Santa Rosa, California",
+    "date": "1911-02-17"
+  },
+  {
+    "fact": "The first official U.S. air mail service was established between Washington D.C. and New York, with a stop in Philadelphia",
+    "date": "1918-05-15"
+  },
+  {
+    "fact": "The first pilot of the U.S. air mail service flew the wrong direction on his inaugural flight, landing in Maryland instead of Philadelphia",
+    "date": "1918-05-15"
+  },
+  {
+    "fact": "Night air mail service required construction of beacon towers every 10 miles to guide pilots across the country",
+    "date": "1924-07-01"
+  },
+  {
+    "fact": "Charles Lindbergh flew the mail route between St. Louis and Chicago before his famous transatlantic flight",
+    "date": "1926-04-15"
+  },
+  {
+    "fact": "The first hostile act of aerial warfare occurred when Italian pilot Giulio Gavotti dropped grenades on Turkish troops in Libya",
+    "date": "1911-11-01"
+  },
+  {
+    "fact": "The first aerial dogfight occurred during World War I when pilots began shooting at each other with pistols and rifles",
+    "date": "1914-10-05"
+  },
+  {
+    "fact": "Roland Garros became the first pilot to shoot down an enemy aircraft using a forward-firing machine gun with metal deflector plates on the propeller",
+    "date": "1915-04-01"
+  },
+  {
+    "fact": "Anthony Fokker developed the interrupter gear allowing machine guns to fire through spinning propellers without hitting the blades",
+    "date": "1915-05-01"
+  },
+  {
+    "fact": "The Fokker Eindecker monoplane with synchronized machine gun caused the 'Fokker Scourge' period of German air superiority",
+    "date": "1915-07-01"
+  },
+  {
+    "fact": "Boeing delivered the first production B-52 Stratofortress to the U.S. Air Force",
+    "date": "1955-06-29"
+  },
+  {
+    "fact": "The B-52 Stratofortress has been in continuous service for over 70 years and is expected to remain operational until the 2050s",
+    "date": "1955-06-29"
+  },
+  {
+    "fact": "The first landing of an aircraft on a ship underway was made by Edwin Dunning on HMS Furious",
+    "date": "1917-08-02"
+  },
+  {
+    "fact": "The first purpose-built aircraft carrier, HMS Argus, entered service with a full-length flight deck",
+    "date": "1918-09-16"
+  },
+  {
+    "fact": "The U.S. Navy's first aircraft, the Curtiss A-1 Triad, was delivered to the Navy",
+    "date": "1911-07-01"
+  },
+  {
+    "fact": "The Navy's first pilot, Lieutenant Theodore G. Ellyson, received pilot certificate No. 28 from the Aero Club of America",
+    "date": "1911-01-28"
+  },
+  {
+    "fact": "The Curtiss JN-4 'Jenny' became the standard trainer for World War I pilots, with over 6,800 produced",
+    "date": "1915-01-01"
+  },
+  {
+    "fact": "Surplus Jennys after World War I created the barnstorming era, with pilots performing stunts and offering rides across America",
+    "date": "1919-01-01"
+  },
+  {
+    "fact": "Charles Lindbergh flew as a barnstormer and parachutist before becoming a mail pilot and eventually crossing the Atlantic",
+    "date": "1922-01-01"
+  },
+  {
+    "fact": "The Wright Brothers made four flights on December 17, 1903, with the fourth and final flight covering 852 feet",
+    "date": "1903-12-17"
+  },
+  {
+    "fact": "Lincoln Beachey became America's most famous stunt pilot, known as the 'Master Birdman' before his death in 1915",
+    "date": "1915-03-14"
+  },
+  {
+    "fact": "Lincoln Beachey died when his aircraft broke apart during a dive at the Panama-Pacific Exposition in San Francisco",
+    "date": "1915-03-14",
+    "time_local": "14:30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Cal Rodgers drank grape soda during his transcontinental flight, leading to a sponsorship by Vin Fiz grape soda",
+    "date": "1911-09-17"
+  },
+  {
+    "fact": "The Vin Fiz Flyer required nearly 70 repairs and replacements during its 84-day transcontinental journey",
+    "date": "1911-11-05"
+  },
+  {
+    "fact": "Air France was created by the merger of five French airlines",
+    "date": "1933-10-07"
+  },
+  {
+    "fact": "British European Airways and British Overseas Airways Corporation merged to form British Airways",
+    "date": "1974-03-31"
+  },
+  {
+    "fact": "Lufthansa resumed commercial operations after being re-founded following World War II",
+    "date": "1955-04-01"
+  },
+  {
+    "fact": "Japan Airlines was founded and began domestic operations",
+    "date": "1951-08-01"
+  },
+  {
+    "fact": "Singapore Airlines was established after splitting from Malaysia-Singapore Airlines",
+    "date": "1972-10-01"
+  },
+  {
+    "fact": "Emirates airline was founded in Dubai with backing from the Dubai royal family",
+    "date": "1985-03-25"
+  },
+  {
+    "fact": "Ryanair, Europe's largest low-cost carrier, was founded in Ireland",
+    "date": "1984-11-28"
+  },
+  {
+    "fact": "EasyJet, a British low-cost carrier, made its first flight from London Luton to Glasgow",
+    "date": "1995-11-10"
+  },
+  {
+    "fact": "Spirit Airlines pioneered the ultra-low-cost carrier model in the United States",
+    "date": "1992-01-01"
+  },
+  {
+    "fact": "The first Around-the-World air route was established by Pan Am",
+    "date": "1947-06-17"
+  },
+  {
+    "fact": "The first polar route commercial flight was operated by Scandinavian Airlines from Copenhagen to Los Angeles",
+    "date": "1954-11-15"
+  },
+  {
+    "fact": "The Gimli Glider incident occurred when an Air Canada Boeing 767 ran out of fuel and glided to a safe landing",
+    "date": "1983-07-23",
+    "time_local": "20:38",
+    "timezone": "America/Winnipeg"
+  },
+  {
+    "fact": "The Gimli Glider ran out of fuel due to a confusion between metric and imperial fuel calculations",
+    "date": "1983-07-23"
+  },
+  {
+    "fact": "Captain Robert Pearson glided the Boeing 767 to an emergency landing on a former RCAF runway in Gimli, Manitoba",
+    "date": "1983-07-23"
+  },
+  {
+    "fact": "The first use of GPS navigation on a commercial aircraft was demonstrated by Continental Airlines",
+    "date": "1993-01-01"
+  },
+  {
+    "fact": "The Boeing 757 was certified for Extended Twin Operations (ETOPS) allowing twin-engine aircraft on long overwater routes",
+    "date": "1986-01-01"
+  },
+  {
+    "fact": "The first commercial ETOPS flight was operated by TWA from Boston to Paris using a Boeing 767",
+    "date": "1985-02-01"
+  },
+  {
+    "fact": "Singapore Airlines launched the world's longest non-stop flight from Singapore to Newark using an A340-500",
+    "date": "2004-06-28"
+  },
+  {
+    "fact": "The longest non-stop commercial flight as of 2024 is Singapore Airlines' Singapore to New York JFK route at 9,527 miles",
+    "date": "2018-10-11"
+  },
+  {
+    "fact": "Qantas has never had a fatal accident involving a jet aircraft in its history",
+    "date": "2020-01-01"
+  },
+  {
+    "fact": "The last fatal accident involving a major U.S. airline was Colgan Air Flight 3407 near Buffalo, New York",
+    "date": "2009-02-12",
+    "time_local": "22:17",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Colgan Air Flight 3407 crashed killing 50 people, leading to major changes in pilot training requirements",
+    "date": "2009-02-12"
+  },
+  {
+    "fact": "The first successful auto-land system was demonstrated on a BEA Trident at London Heathrow",
+    "date": "1965-06-10"
+  },
+  {
+    "fact": "The first fully automatic landing in commercial service was performed by a BEA Trident in fog at Heathrow",
+    "date": "1972-11-04"
+  },
+  {
+    "fact": "The first aircraft to exceed 1,000 mph was the Bell X-1A piloted by Chuck Yeager",
+    "date": "1953-12-12"
+  },
+  {
+    "fact": "The McDonnell Douglas F-15 Eagle achieved a 104-0 kill ratio in air-to-air combat, never being shot down by an enemy aircraft",
+    "date": "2020-01-01"
+  },
+  {
+    "fact": "The F-22 Raptor became the world's first operational fifth-generation stealth fighter",
+    "date": "2005-12-15"
+  },
+  {
+    "fact": "The F-35 Lightning II made its first flight at Fort Worth, Texas",
+    "date": "2006-12-15"
+  },
+  {
+    "fact": "The A-10 Thunderbolt II 'Warthog' was designed specifically for close air support with its 30mm GAU-8 cannon",
+    "date": "1977-03-10"
+  },
+  {
+    "fact": "The AC-130 gunship first entered combat during the Vietnam War",
+    "date": "1967-09-21"
+  },
+  {
+    "fact": "The C-130 Hercules has been in continuous production longer than any other military aircraft",
+    "date": "1956-12-09"
+  },
+  {
+    "fact": "The first aerial combat victory using a guided missile was scored by a Taiwanese F-86 using an AIM-9 Sidewinder against a Chinese MiG-17",
+    "date": "1958-09-24"
+  },
+  {
+    "fact": "The USAF Thunderbirds demonstration team was established",
+    "date": "1953-05-25"
+  },
+  {
+    "fact": "The Blue Angels, the U.S. Navy's flight demonstration squadron, was established",
+    "date": "1946-04-24"
+  },
+  {
+    "fact": "The Red Arrows, the Royal Air Force aerobatic team, performed their first public display",
+    "date": "1965-05-06"
+  },
+  {
+    "fact": "The Snowbirds, Canada's military aerobatic team, was formed",
+    "date": "1971-01-01"
+  },
+  {
+    "fact": "The first in-flight refueling boom system was developed by Boeing for the KC-97 tanker",
+    "date": "1950-01-01"
+  },
+  {
+    "fact": "The KC-135 Stratotanker entered service, becoming the backbone of U.S. aerial refueling capability",
+    "date": "1957-06-28"
+  },
+  {
+    "fact": "AWACS (Airborne Warning and Control System) entered service with the U.S. Air Force aboard the E-3 Sentry",
+    "date": "1977-03-24"
+  },
+  {
+    "fact": "The first flight of a tiltrotor aircraft was made by the Bell XV-3",
+    "date": "1955-08-11"
+  },
+  {
+    "fact": "The AH-64 Apache attack helicopter entered service with the U.S. Army",
+    "date": "1984-04-01"
+  },
+  {
+    "fact": "The UH-60 Black Hawk helicopter entered service, replacing the UH-1 Huey",
+    "date": "1979-06-01"
+  },
+  {
+    "fact": "The UH-1 Huey became iconic during the Vietnam War, with over 7,000 deployed in the conflict",
+    "date": "1959-10-01"
+  },
+  {
+    "fact": "The CH-47 Chinook heavy-lift helicopter made its first flight",
+    "date": "1961-09-21"
+  },
+  {
+    "fact": "The MV-22 Osprey achieved initial operational capability with the Marine Corps after decades of development",
+    "date": "2007-06-13"
+  },
+  {
+    "fact": "The RQ-4 Global Hawk became the first unmanned aircraft to cross the Pacific Ocean",
+    "date": "2001-04-24"
+  },
+  {
+    "fact": "The MQ-1 Predator drone first flew over Bosnia during peacekeeping operations",
+    "date": "1995-07-01"
+  },
+  {
+    "fact": "The Wright Military Flyer became the world's first military aircraft after acceptance by the U.S. Army",
+    "date": "1909-08-02"
+  },
+  {
+    "fact": "The SPAD S.XIII became the most-produced French fighter of World War I with over 8,400 built",
+    "date": "1917-04-01"
+  },
+  {
+    "fact": "The Sopwith Camel, famous for shooting down more enemy aircraft than any other Allied fighter in WWI, first flew",
+    "date": "1916-12-22"
+  },
+  {
+    "fact": "The Supermarine Spitfire, Britain's iconic World War II fighter, made its first flight",
+    "date": "1936-03-05"
+  },
+  {
+    "fact": "The Hawker Hurricane actually shot down more aircraft during the Battle of Britain than the Spitfire",
+    "date": "1940-10-31"
+  },
+  {
+    "fact": "The Mitsubishi A6M Zero dominated the Pacific at the start of WWII with its exceptional range and maneuverability",
+    "date": "1940-04-01"
+  },
+  {
+    "fact": "The Republic P-47 Thunderbolt became the largest and heaviest single-engine piston fighter ever built",
+    "date": "1941-05-06"
+  },
+  {
+    "fact": "The Vought F4U Corsair achieved an 11:1 kill ratio against Japanese aircraft in World War II",
+    "date": "1942-02-28"
+  },
+  {
+    "fact": "The Lockheed P-80 Shooting Star became the first operational jet fighter in U.S. service",
+    "date": "1945-02-01"
+  },
+  {
+    "fact": "The Mikoyan-Gurevich MiG-21 became the most-produced supersonic aircraft in aviation history with over 11,000 built",
+    "date": "1956-06-16"
+  },
+  {
+    "fact": "The General Dynamics F-16 Fighting Falcon became one of the most successful fighter programs with over 4,600 produced",
+    "date": "1974-01-20"
+  },
+  {
+    "fact": "The first supersonic bomber, the Convair B-58 Hustler, entered service",
+    "date": "1960-03-15"
+  },
+  {
+    "fact": "The North American XB-70 Valkyrie reached Mach 3, the fastest bomber ever built, but the program was cancelled",
+    "date": "1964-09-21"
+  },
+  {
+    "fact": "The Rockwell B-1 Lancer supersonic bomber entered service after years of political controversy",
+    "date": "1986-10-01"
+  },
+  {
+    "fact": "The Northrop Grumman B-2 Spirit stealth bomber costs approximately $2.1 billion per aircraft, the most expensive aircraft ever built",
+    "date": "1997-04-01"
+  },
+  {
+    "fact": "The de Havilland Mosquito, built largely of wood, became one of the fastest and most versatile aircraft of World War II",
+    "date": "1940-11-25"
+  },
+  {
+    "fact": "The Douglas SBD Dauntless sank more Japanese shipping than any other aircraft during World War II",
+    "date": "1940-04-01"
+  },
+  {
+    "fact": "The Grumman TBF Avenger torpedo bomber, flown by future President George H.W. Bush, entered service",
+    "date": "1942-01-30"
+  },
+  {
+    "fact": "American pilot Joseph P. Kennedy Jr., older brother of JFK, was killed when his explosives-laden aircraft detonated prematurely over England",
+    "date": "1944-08-12"
+  },
+  {
+    "fact": "The Wright Cyclone R-1820 engine powered many famous aircraft including the B-17 Flying Fortress",
+    "date": "1931-01-01"
+  },
+  {
+    "fact": "The Pratt & Whitney R-2800 Double Wasp was the most powerful radial engine of World War II",
+    "date": "1939-01-01"
+  },
+  {
+    "fact": "The Rolls-Royce Merlin engine powered the Spitfire, Hurricane, Lancaster, and P-51 Mustang",
+    "date": "1936-01-01"
+  },
+  {
+    "fact": "The General Electric CF6 engine became one of the most successful large turbofans, powering Boeing 747s and 767s",
+    "date": "1971-01-01"
+  },
+  {
+    "fact": "The Pratt & Whitney JT9D was the first high-bypass turbofan engine, developed for the Boeing 747",
+    "date": "1966-12-01"
+  },
+  {
+    "fact": "The Rolls-Royce Trent engine family has powered Airbus and Boeing wide-body aircraft for over 30 years",
+    "date": "1990-01-01"
+  },
+  {
+    "fact": "The CFM International CFM56 became the best-selling jet engine in history with over 30,000 delivered",
+    "date": "1974-06-20"
+  },
+  {
+    "fact": "The General Electric GE90 holds the record as the most powerful jet engine ever, producing over 115,000 pounds of thrust",
+    "date": "1995-03-09"
+  },
+  {
+    "fact": "Pan American World Airways ceased operations after 64 years, ending an era in American aviation",
+    "date": "1991-12-04"
+  },
+  {
+    "fact": "TWA (Trans World Airlines) was acquired by American Airlines, ending another legendary airline",
+    "date": "2001-04-09"
+  },
+  {
+    "fact": "Eastern Air Lines, once one of the 'Big Four' U.S. airlines, ceased operations",
+    "date": "1991-01-18"
+  },
+  {
+    "fact": "Braniff International Airways, known for colorful aircraft liveries, ceased operations",
+    "date": "1982-05-12"
+  },
+  {
+    "fact": "Continental Airlines merged with United Airlines, creating one of the world's largest airlines",
+    "date": "2010-10-01"
+  },
+  {
+    "fact": "US Airways merged with American Airlines, completing the consolidation of major U.S. carriers",
+    "date": "2013-12-09"
+  },
+  {
+    "fact": "Northwest Airlines merged with Delta Air Lines in the largest airline merger at that time",
+    "date": "2010-01-31"
+  },
+  {
+    "fact": "Southwest Airlines became the world's largest low-cost carrier by passengers carried",
+    "date": "2010-01-01"
+  },
+  {
+    "fact": "The TSA (Transportation Security Administration) was created in response to the September 11 attacks",
+    "date": "2001-11-19"
+  },
+  {
+    "fact": "The first sky marshals (armed law enforcement on aircraft) were deployed by the U.S. in response to hijackings",
+    "date": "1968-01-01"
+  },
+  {
+    "fact": "The D.B. Cooper hijacking occurred when a man parachuted from a Boeing 727 with $200,000 in ransom and was never found",
+    "date": "1971-11-24",
+    "time_local": "20:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Air France Flight 8969 hijacking was ended by French special forces storming the aircraft in Marseille",
+    "date": "1994-12-26",
+    "time_local": "17:12",
+    "timezone": "Europe/Paris"
+  },
+  {
+    "fact": "The Entebbe raid rescued 102 hostages from a hijacked Air France aircraft at Entebbe Airport, Uganda",
+    "date": "1976-07-04",
+    "time_local": "23:00",
+    "timezone": "Africa/Kampala"
+  },
+  {
+    "fact": "Ethiopian Airlines Flight 961 crashed in the Indian Ocean after hijackers refused to allow refueling, killing 125 of 175 aboard",
+    "date": "1996-11-23",
+    "time_local": "15:20",
+    "timezone": "Africa/Nairobi"
+  },
+  {
+    "fact": "The first reinforced cockpit doors became mandatory on commercial aircraft following the 9/11 attacks",
+    "date": "2002-04-09"
+  },
+  {
+    "fact": "The 'sterile cockpit' rule, prohibiting non-essential activities below 10,000 feet, was implemented after Eastern Air Lines Flight 212 crash",
+    "date": "1981-01-01"
+  },
+  {
+    "fact": "The first Crew Resource Management (CRM) training was developed after the United Airlines Flight 173 fuel exhaustion accident",
+    "date": "1979-01-01"
+  },
+  {
+    "fact": "The Gulfstream G650 became the fastest civilian aircraft in production, capable of Mach 0.925",
+    "date": "2009-11-25"
+  },
+  {
+    "fact": "The Cessna 172 Skyhawk became the most produced aircraft in history with over 44,000 built",
+    "date": "1956-01-01"
+  },
+  {
+    "fact": "The Piper J-3 Cub trained more pilots than any other aircraft during World War II",
+    "date": "1938-01-01"
+  },
+  {
+    "fact": "The Beechcraft Bonanza has been in continuous production since 1947, the longest of any aircraft",
+    "date": "1947-01-01"
+  },
+  {
+    "fact": "The Learjet 23, the first mass-produced business jet, entered service",
+    "date": "1964-10-13"
+  },
+  {
+    "fact": "Bill Lear founded Learjet and revolutionized business aviation with small, fast executive jets",
+    "date": "1963-01-01"
+  },
+  {
+    "fact": "The Cirrus SR22 became the best-selling single-engine piston aircraft in the world",
+    "date": "2001-01-01"
+  },
+  {
+    "fact": "The Cirrus Airframe Parachute System (CAPS) has saved over 200 lives through whole-aircraft parachute deployments",
+    "date": "2020-01-01"
+  },
+  {
+    "fact": "The Robinson R22 became the best-selling light helicopter, making rotorcraft accessible to many pilots",
+    "date": "1979-01-01"
+  },
+  {
+    "fact": "The Bell 206 JetRanger became one of the most successful commercial helicopters with over 7,000 built",
+    "date": "1966-01-08"
+  },
+  {
+    "fact": "Sikorsky delivered the first production S-76 executive helicopter",
+    "date": "1979-03-13"
+  },
+  {
+    "fact": "Air ambulance service using helicopters was pioneered during the Korean War, saving thousands of wounded soldiers",
+    "date": "1950-06-25"
+  },
+  {
+    "fact": "The first commercial helicopter airline service was established by Los Angeles Airways using Sikorsky S-51s",
+    "date": "1947-10-01"
+  },
+  {
+    "fact": "Chicago Helicopter Airways became one of the first successful scheduled helicopter airlines in the United States",
+    "date": "1949-09-08"
+  },
+  {
+    "fact": "The AN-225 Mriya, the largest aircraft ever built, made its first flight in Kiev, Ukraine",
+    "date": "1988-12-21"
+  },
+  {
+    "fact": "The AN-225 Mriya was destroyed during the Russian invasion of Ukraine at Hostomel Airport",
+    "date": "2022-02-27"
+  },
+  {
+    "fact": "The Antonov An-124 Ruslan is the world's largest production aircraft still in service",
+    "date": "1982-12-26"
+  },
+  {
+    "fact": "The Hughes H-1 Racer set the world landplane speed record of 352 mph, flown by Howard Hughes",
+    "date": "1935-09-13"
+  },
+  {
+    "fact": "The Supermarine S.6B set the world speed record of 407 mph and won the Schneider Trophy permanently for Britain",
+    "date": "1931-09-13"
+  },
+  {
+    "fact": "The Schneider Trophy races drove rapid advances in aircraft design and directly led to the Spitfire fighter",
+    "date": "1931-01-01"
+  },
+  {
+    "fact": "The first aircraft exceeding 600 mph in level flight was the Gloster Meteor F.4",
+    "date": "1945-11-07"
+  },
+  {
+    "fact": "The Douglas D-558-II Skyrocket became the first aircraft to exceed Mach 2",
+    "date": "1953-11-20"
+  }
+]
