@@ -1,0 +1,3191 @@
+[
+  {
+    "fact": "The Great Chicago Fire broke out in a barn on DeKoven Street, eventually destroying over 3 square miles of the city and leaving 100,000 residents homeless",
+    "date": "1871-10-08",
+    "time_local": "21:00",
+    "time_utc": "03:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Great Chicago Fire was finally extinguished after burning for two days, having killed approximately 300 people and destroyed 17,500 buildings",
+    "date": "1871-10-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Peshtigo Fire, the deadliest wildfire in recorded history, killed between 1,500-2,500 people in Wisconsin on the same night as the Great Chicago Fire",
+    "date": "1871-10-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "A bomb was thrown at police during the Haymarket labor rally in Chicago, killing seven officers and at least four civilians in what became known as the Haymarket Affair",
+    "date": "1886-05-04",
+    "time_local": "22:30",
+    "time_utc": "04:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "President Grover Cleveland signed the bill establishing Labor Day as a federal holiday, partly in response to the aftermath of the Pullman Strike in Illinois",
+    "date": "1894-06-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The World's Columbian Exposition opened in Chicago, celebrating the 400th anniversary of Columbus's arrival in the New World with over 200 new buildings in the 'White City'",
+    "date": "1893-05-01",
+    "time_local": "12:00",
+    "time_utc": "18:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The World's Columbian Exposition closed after attracting over 27 million visitors, showcasing innovations like the Ferris wheel and alternating current electricity",
+    "date": "1893-10-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "George Washington Gale Ferris Jr.'s original Ferris Wheel debuted at the World's Columbian Exposition, standing 264 feet tall with 36 cars capable of holding 60 passengers each",
+    "date": "1893-06-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Seven members of Chicago's North Side Gang were lined up against a garage wall and gunned down in what became known as the St. Valentine's Day Massacre",
+    "date": "1929-02-14",
+    "time_local": "10:30",
+    "time_utc": "16:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "President Abraham Lincoln was shot by John Wilkes Booth while watching 'Our American Cousin' at Ford's Theatre in Washington, D.C.",
+    "date": "1865-04-14",
+    "time_local": "22:13",
+    "time_utc": "03:13",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "President Abraham Lincoln died at the Petersen House across the street from Ford's Theatre, becoming the first U.S. president to be assassinated",
+    "date": "1865-04-15",
+    "time_local": "07:22",
+    "time_utc": "12:22",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Abraham Lincoln's funeral train departed Washington, D.C. for Springfield, Illinois, beginning a 1,700-mile journey that would take 13 days",
+    "date": "1865-04-21",
+    "time_local": "08:00",
+    "time_utc": "13:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Abraham Lincoln was laid to rest at Oak Ridge Cemetery in Springfield, Illinois, the city where he had practiced law and launched his political career",
+    "date": "1865-05-04",
+    "time_local": "12:00",
+    "time_utc": "18:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Eugene Williams, a 17-year-old African American, drowned after being struck by stones for swimming past an unofficial racial boundary at Lake Michigan, sparking the Chicago Race Riot of 1919",
+    "date": "1919-07-27",
+    "time_local": "14:00",
+    "time_utc": "20:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Race Riot of 1919 ended after 13 days of violence, leaving 38 dead, 537 injured, and 1,000 Black families homeless",
+    "date": "1919-08-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Police began clearing anti-war protesters from Grant Park during the Democratic National Convention, leading to what was later called a 'police riot'",
+    "date": "1968-08-28",
+    "time_local": "19:00",
+    "time_utc": "01:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The 1968 Democratic National Convention nominated Vice President Hubert Humphrey for president as chaos erupted in the streets of Chicago",
+    "date": "1968-08-28",
+    "time_local": "23:00",
+    "time_utc": "05:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Emmett Till, a 14-year-old African American from Chicago, was brutally murdered in Mississippi, galvanizing the Civil Rights Movement",
+    "date": "1955-08-28",
+    "time_local": "02:00",
+    "time_utc": "08:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Emmett Till's mother Mamie Till insisted on an open-casket funeral in Chicago, exposing his mutilated body to the public and shocking the nation",
+    "date": "1955-09-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Warrior Black Hawk surrendered to U.S. forces near Prairie du Chien, ending the Black Hawk War and Native American resistance east of the Mississippi in the Northwest Territory",
+    "date": "1832-08-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Bad Axe Massacre occurred when U.S. forces attacked fleeing Sauk and Fox Indians at the Mississippi River, killing an estimated 150-300 men, women, and children",
+    "date": "1832-08-02",
+    "time_local": "09:00",
+    "time_utc": "15:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Abraham Lincoln delivered his famous 'House Divided' speech at the Illinois Republican State Convention in Springfield, launching his campaign against Stephen Douglas",
+    "date": "1858-06-16",
+    "time_local": "20:00",
+    "time_utc": "02:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first Lincoln-Douglas debate took place in Ottawa, Illinois, attracting over 10,000 spectators to watch the candidates debate slavery",
+    "date": "1858-08-21",
+    "time_local": "14:30",
+    "time_utc": "20:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The second Lincoln-Douglas debate took place in Freeport, Illinois, where Douglas articulated the 'Freeport Doctrine' on popular sovereignty",
+    "date": "1858-08-27",
+    "time_local": "14:30",
+    "time_utc": "20:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The third Lincoln-Douglas debate was held in Jonesboro, in southern Illinois, the smallest of all the debate venues",
+    "date": "1858-09-15",
+    "time_local": "14:30",
+    "time_utc": "20:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The fourth Lincoln-Douglas debate took place in Charleston, Illinois, drawing approximately 12,000 spectators",
+    "date": "1858-09-18",
+    "time_local": "14:30",
+    "time_utc": "20:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The fifth Lincoln-Douglas debate was held in Galesburg, Illinois, on the Knox College campus with over 15,000 in attendance",
+    "date": "1858-10-07",
+    "time_local": "14:30",
+    "time_utc": "20:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The sixth Lincoln-Douglas debate took place in Quincy, Illinois, with an estimated 10,000-15,000 spectators",
+    "date": "1858-10-13",
+    "time_local": "14:30",
+    "time_utc": "20:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The seventh and final Lincoln-Douglas debate was held in Alton, Illinois, concluding the most famous series of political debates in American history",
+    "date": "1858-10-15",
+    "time_local": "14:30",
+    "time_utc": "20:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Cahokia, the largest pre-Columbian settlement north of Mexico, reached its peak population of 10,000-20,000 residents in the Mississippian period near present-day Collinsville, Illinois",
+    "date": "1100-01-01"
+  },
+  {
+    "fact": "Monks Mound at Cahokia, the largest prehistoric earthwork in the Americas, was completed with a base larger than the Great Pyramid of Giza",
+    "date": "1100-01-01"
+  },
+  {
+    "fact": "The Union Stock Yards opened on Christmas Day in Chicago, beginning the city's dominance of the American meatpacking industry",
+    "date": "1865-12-25",
+    "time_local": "06:00",
+    "time_utc": "12:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Union Stock Yards in Chicago officially closed after 106 years, having processed over a billion animals in its history",
+    "date": "1971-07-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first Indianapolis 500 automobile race was held at the Indianapolis Motor Speedway, with Ray Harroun winning in his Marmon Wasp at an average speed of 74.6 mph",
+    "date": "1911-05-30",
+    "time_local": "10:00",
+    "time_utc": "15:00",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Orville Wright made the first successful powered airplane flight near Kitty Hawk, North Carolina, traveling 120 feet in 12 seconds, completing his Ohio bicycle shop dream",
+    "date": "1903-12-17",
+    "time_local": "10:35",
+    "time_utc": "15:35",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Wilbur Wright made the longest flight of the day at Kitty Hawk, traveling 852 feet in 59 seconds on the fourth attempt",
+    "date": "1903-12-17",
+    "time_local": "12:00",
+    "time_utc": "17:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Wright brothers opened their bicycle repair and sales shop in Dayton, Ohio, which would fund their aviation experiments",
+    "date": "1892-12-01",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Chess Records was founded in Chicago by Leonard and Phil Chess, eventually becoming the premier label for Chicago blues and launching careers of Muddy Waters and Chuck Berry",
+    "date": "1950-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Muddy Waters recorded 'Rollin' Stone' at Chess Records in Chicago, a song that would inspire the name of a rock band and a magazine",
+    "date": "1950-04-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "U.S. Route 66, the 'Mother Road' from Chicago to Los Angeles, was officially established as part of the U.S. Highway System",
+    "date": "1926-11-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Route 66 was officially decommissioned after being replaced by the Interstate Highway System, ending its 59-year run as an American icon",
+    "date": "1985-06-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Berry Gordy founded Motown Records in Detroit with an $800 loan from his family, launching the careers of The Supremes, Stevie Wonder, and Marvin Gaye",
+    "date": "1959-01-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Gateway Arch in St. Louis, designed by Eero Saarinen, was completed when the final triangular section was placed 630 feet above the ground",
+    "date": "1965-10-28",
+    "time_local": "11:00",
+    "time_utc": "17:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Gateway Arch officially opened to visitors, with tram rides to the observation deck beginning on July 24, 1967",
+    "date": "1967-07-24",
+    "time_local": "10:00",
+    "time_utc": "15:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Fermilab in Batavia, Illinois began operations, becoming the premier particle physics laboratory in the United States",
+    "date": "1967-06-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Scientists at Fermilab announced the discovery of the top quark, completing the Standard Model of particle physics",
+    "date": "1995-03-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Martin Luther King Jr. moved into a Chicago slum apartment to draw attention to housing discrimination in northern cities, launching the Chicago Freedom Movement",
+    "date": "1966-01-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Martin Luther King Jr. led the March Against Fear through Chicago's Marquette Park, where he was struck by a rock thrown by angry white protesters",
+    "date": "1966-08-05",
+    "time_local": "14:00",
+    "time_utc": "19:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Enrico Fermi and his team achieved the first controlled, self-sustaining nuclear chain reaction at the University of Chicago's Stagg Field squash courts",
+    "date": "1942-12-02",
+    "time_local": "15:25",
+    "time_utc": "21:25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Physicist Arthur Compton sent a coded message to the Manhattan Project confirming nuclear success: 'The Italian navigator has just landed in the new world'",
+    "date": "1942-12-02",
+    "time_local": "15:53",
+    "time_utc": "21:53",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Fire broke out during a performance at Chicago's Iroquois Theatre, killing 602 people in the deadliest single-building fire in U.S. history",
+    "date": "1903-12-30",
+    "time_local": "15:15",
+    "time_utc": "21:15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The SS Eastland capsized in the Chicago River while carrying Western Electric employees on a company picnic, killing 844 passengers and crew",
+    "date": "1915-07-24",
+    "time_local": "07:28",
+    "time_utc": "13:28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Tri-State Tornado, the deadliest tornado in U.S. history, tore through Missouri, Illinois, and Indiana, killing 695 people along its 219-mile path",
+    "date": "1925-03-18",
+    "time_local": "13:01",
+    "time_utc": "19:01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Tri-State Tornado destroyed the town of Murphysboro, Illinois, killing 234 residents and making it the deadliest single tornado strike on any U.S. city",
+    "date": "1925-03-18",
+    "time_local": "14:30",
+    "time_utc": "20:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Henry Ford incorporated the Ford Motor Company in Detroit with $28,000 in capital from twelve investors",
+    "date": "1903-06-16",
+    "time_local": "10:00",
+    "time_utc": "15:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The first Ford Model T rolled off the assembly line at the Piquette Avenue Plant in Detroit, revolutionizing American manufacturing",
+    "date": "1908-10-01",
+    "time_local": "06:00",
+    "time_utc": "11:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ford's Highland Park plant began moving assembly line production, reducing Model T assembly time from 12 hours to 93 minutes",
+    "date": "1913-12-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Antoine de la Mothe Cadillac founded Fort Pontchartrain du D\u00e9troit, which would grow into the city of Detroit",
+    "date": "1701-07-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Barack Obama was elected the 44th President of the United States, becoming the first African American to hold the office",
+    "date": "2008-11-04",
+    "time_local": "22:00",
+    "time_utc": "04:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "President-elect Barack Obama delivered his victory speech to 240,000 supporters gathered in Chicago's Grant Park",
+    "date": "2008-11-04",
+    "time_local": "23:00",
+    "time_utc": "05:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Fire swept through Our Lady of the Angels School on Chicago's West Side, killing 92 students and 3 nuns and transforming fire safety codes nationwide",
+    "date": "1958-12-01",
+    "time_local": "14:42",
+    "time_utc": "20:42",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Workers at the Pullman Palace Car Company began a strike that would spread to become a nationwide railroad boycott involving 250,000 workers",
+    "date": "1894-05-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Federal troops arrived in Chicago to break the Pullman Strike, leading to violent clashes that killed 30 workers",
+    "date": "1894-07-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Al Capone was sentenced to 11 years in federal prison for income tax evasion, ending his reign as Chicago's most powerful crime boss",
+    "date": "1931-10-24",
+    "time_local": "14:00",
+    "time_utc": "20:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "FBI agents shot and killed notorious bank robber John Dillinger outside Chicago's Biograph Theater after a tip from the 'Lady in Red'",
+    "date": "1934-07-22",
+    "time_local": "22:30",
+    "time_utc": "04:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs won the World Series for the first time in 108 years, defeating the Cleveland Indians 8-7 in a 10-inning Game 7",
+    "date": "2016-11-03",
+    "time_local": "00:47",
+    "time_utc": "06:47",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Home Insurance Building, considered the world's first skyscraper with its steel-frame construction, opened in Chicago",
+    "date": "1885-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Lewis and Clark's Corps of Discovery set out from Camp Dubois, Illinois, beginning their expedition to explore the Louisiana Purchase and reach the Pacific Ocean",
+    "date": "1804-05-14",
+    "time_local": "16:00",
+    "time_utc": "22:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "O'Hare International Airport opened to commercial air traffic, eventually becoming the busiest airport in the world",
+    "date": "1944-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Camp Douglas, the Union's largest prisoner-of-war camp in the Midwest, opened in Chicago, eventually holding up to 12,000 Confederate soldiers",
+    "date": "1862-02-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ernest Hemingway was born in Oak Park, Illinois, in the home his grandfather built on North Oak Park Avenue",
+    "date": "1899-07-21",
+    "time_local": "08:00",
+    "time_utc": "14:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "A record-breaking blizzard struck Chicago, dumping 23 inches of snow and paralyzing the city for days",
+    "date": "1967-01-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "John Deere invented the steel plow in Grand Detour, Illinois, revolutionizing prairie farming across the Midwest",
+    "date": "1837-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "John Deere moved his plow manufacturing business to Moline, Illinois, where it would grow into an agricultural equipment giant",
+    "date": "1848-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Caterpillar Tractor Company was formed in California, later relocating its headquarters to Peoria, Illinois, where it would become the world's largest construction equipment manufacturer",
+    "date": "1925-04-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ohio became the 17th state admitted to the Union, the first state created from the Northwest Territory",
+    "date": "1803-03-01",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Minnesota became the 32nd state admitted to the Union, with St. Paul as its capital",
+    "date": "1858-05-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Mall of America opened in Bloomington, Minnesota, becoming the largest shopping mall in the United States",
+    "date": "1992-08-11",
+    "time_local": "10:00",
+    "time_utc": "15:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "American Airlines Flight 191, a DC-10, crashed during takeoff at O'Hare International Airport, killing all 271 aboard and 2 on the ground in the deadliest aviation accident in U.S. history at that time",
+    "date": "1979-05-25",
+    "time_local": "15:04",
+    "time_utc": "20:04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Great Lakes Storm of 1913, known as the 'White Hurricane,' began battering the Great Lakes with hurricane-force winds, ultimately killing over 250 people and destroying 19 ships",
+    "date": "1913-11-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Great Lakes Storm of 1913 reached its peak intensity, sinking 12 ships on Lake Huron in a single day",
+    "date": "1913-11-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Willis Tower (originally Sears Tower) opened in Chicago as the world's tallest building at 1,451 feet, a record it held for 25 years",
+    "date": "1973-09-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Great Flood of 1993 crested at St. Louis, with the Mississippi River reaching nearly 20 feet above flood stage",
+    "date": "1993-08-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Dakota War of 1862 began when Dakota warriors attacked the Lower Sioux Agency in Minnesota, starting five weeks of violence that would kill over 600 settlers and soldiers",
+    "date": "1862-08-18",
+    "time_local": "05:00",
+    "time_utc": "11:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Thirty-eight Dakota men were hanged in Mankato, Minnesota, in the largest mass execution in U.S. history, ordered by President Lincoln",
+    "date": "1862-12-26",
+    "time_local": "10:00",
+    "time_utc": "16:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls defeated the Los Angeles Lakers 108-101 in Game 5 to win their first NBA Championship, beginning a dynasty",
+    "date": "1991-06-12",
+    "time_local": "21:30",
+    "time_utc": "02:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox won their first World Series in 88 years, sweeping the Houston Astros with a 1-0 victory in Game 4",
+    "date": "2005-10-26",
+    "time_local": "22:45",
+    "time_utc": "03:45",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Chicago police fired on striking steelworkers and their families during a Memorial Day demonstration outside Republic Steel, killing 10 and wounding 30",
+    "date": "1937-05-30",
+    "time_local": "16:00",
+    "time_utc": "22:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Wrigley Field, originally called Weeghman Park, opened for its first game as the home of the Chicago Whales",
+    "date": "1914-04-23",
+    "time_local": "15:00",
+    "time_utc": "21:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first night game at Wrigley Field was played 74 years after the stadium opened, ending the Cubs' status as the last MLB team without lights",
+    "date": "1988-08-08",
+    "time_local": "18:05",
+    "time_utc": "23:05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The 1995 Chicago heat wave began, with temperatures reaching 106\u00b0F and eventually killing 739 people over five days",
+    "date": "1995-07-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The deadliest day of the 1995 Chicago heat wave occurred when temperatures stayed above 100\u00b0F and humidity created a heat index of 125\u00b0F",
+    "date": "1995-07-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Palm Sunday tornado outbreak spawned 55 tornadoes across the Midwest, killing 266 people in Indiana, Ohio, Michigan, and Wisconsin",
+    "date": "1965-04-11",
+    "time_local": "14:00",
+    "time_utc": "20:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "An EF5 tornado devastated Joplin, Missouri, killing 158 people and causing $2.8 billion in damage, making it the costliest single tornado in U.S. history",
+    "date": "2011-05-22",
+    "time_local": "17:34",
+    "time_utc": "22:34",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Soldier Field opened as Municipal Grant Park Stadium in Chicago with a college football game between Notre Dame and Nebraska",
+    "date": "1924-10-09",
+    "time_local": "14:00",
+    "time_utc": "20:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Illinois was admitted to the Union as the 21st state, with Kaskaskia as its first state capital",
+    "date": "1818-12-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Chicago's first elevated railroad line, the 'L', opened for service on the South Side with steam-powered trains",
+    "date": "1892-06-06",
+    "time_local": "06:00",
+    "time_utc": "12:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Riots erupted on Chicago's West Side following news of Martin Luther King Jr.'s assassination, eventually killing 11 people and causing extensive damage",
+    "date": "1968-04-05",
+    "time_local": "16:00",
+    "time_utc": "22:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Cincinnati Reds defeated the Chicago White Sox in Game 8 of the 1919 World Series, a series later revealed to have been fixed in the Black Sox Scandal",
+    "date": "1919-10-09",
+    "time_local": "14:00",
+    "time_utc": "19:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Eight White Sox players, including 'Shoeless Joe' Jackson, were banned from baseball for life by Commissioner Kenesaw Mountain Landis for their role in the 1919 World Series fix",
+    "date": "1921-08-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Treaty of Greenville was signed, ending the Northwest Indian War and opening much of Ohio and parts of Indiana to American settlement",
+    "date": "1795-08-03",
+    "time_local": "12:00",
+    "time_utc": "17:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Fort Dearborn was established at the mouth of the Chicago River, marking the beginning of permanent American settlement in what would become Chicago",
+    "date": "1803-08-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Potawatomi warriors attacked the Fort Dearborn evacuation party, killing 52 soldiers, women, and children in the Battle of Fort Dearborn",
+    "date": "1812-08-15",
+    "time_local": "09:00",
+    "time_utc": "15:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs won their last World Series of the 20th century, defeating the Detroit Tigers, beginning a 108-year championship drought",
+    "date": "1908-10-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Babe Ruth allegedly 'called his shot' before hitting a home run against the Chicago Cubs in Game 3 of the World Series at Wrigley Field",
+    "date": "1932-10-01",
+    "time_local": "15:30",
+    "time_utc": "20:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michigan became the 26th state admitted to the Union after a boundary dispute with Ohio was resolved",
+    "date": "1837-01-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Indiana became the 19th state admitted to the Union, with Corydon as its first capital",
+    "date": "1816-12-11",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Wisconsin became the 30th state admitted to the Union, with Madison as its capital",
+    "date": "1848-05-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Iowa became the 29th state admitted to the Union as the first free state formed from the Louisiana Purchase",
+    "date": "1846-12-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Missouri became the 24th state admitted to the Union under the Missouri Compromise, entering as a slave state",
+    "date": "1821-08-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "French explorers Jacques Marquette and Louis Jolliet became the first Europeans to reach the upper Mississippi River, traveling through what is now Illinois",
+    "date": "1673-06-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Illinois Central Railroad was chartered by Congress, becoming the first land-grant railroad in the United States",
+    "date": "1851-02-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first transcontinental railroad was completed at Promontory Summit, Utah, connecting the Midwest to California",
+    "date": "1869-05-10",
+    "time_local": "12:47",
+    "time_utc": "19:47",
+    "timezone": "America/Denver"
+  },
+  {
+    "fact": "The Rock Island Bridge, the first bridge across the Mississippi River, opened connecting Rock Island, Illinois to Davenport, Iowa",
+    "date": "1856-04-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The steamboat Effie Afton crashed into the Rock Island Bridge two weeks after it opened, leading to a lawsuit in which Abraham Lincoln successfully defended the bridge's legality",
+    "date": "1856-05-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Great Chicago Flood occurred when a construction worker punctured an old freight tunnel under the Chicago River, flooding downtown basements with 250 million gallons of water",
+    "date": "1992-04-13",
+    "time_local": "05:57",
+    "time_utc": "11:57",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Seven trial began, prosecuting anti-war activists for conspiracy charges related to the 1968 Democratic Convention protests",
+    "date": "1969-09-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Richard J. Daley was first elected Mayor of Chicago, beginning a 21-year tenure as one of the most powerful urban political bosses in American history",
+    "date": "1955-04-05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Richard J. Daley died of a heart attack after 21 years as Chicago's mayor, leaving a political machine that had shaped the city for decades",
+    "date": "1976-12-20",
+    "time_local": "14:15",
+    "time_utc": "20:15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Harold Washington was elected as Chicago's first African American mayor, defeating Republican Bernard Epton",
+    "date": "1983-04-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Harold Washington died of a heart attack in his City Hall office, shocking Chicago eight months into his second term as mayor",
+    "date": "1987-11-25",
+    "time_local": "11:00",
+    "time_utc": "17:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jane Addams opened Hull House on Chicago's Near West Side, pioneering the American settlement house movement",
+    "date": "1889-09-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jane Addams became the first American woman to win the Nobel Peace Prize for her work at Hull House and her advocacy for peace",
+    "date": "1931-12-10",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "fact": "The Great Migration began as African Americans started leaving the rural South for industrial cities like Chicago, Detroit, and Cleveland",
+    "date": "1916-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Defender, the most influential African American newspaper, published the famous 'The Great Northern Drive' editorial encouraging Southern Blacks to migrate north",
+    "date": "1917-05-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Walt Disney was born in Chicago's Hermosa neighborhood, later creating the most famous entertainment company in the world",
+    "date": "1901-12-05",
+    "time_local": "00:35",
+    "time_utc": "06:35",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "McDonald's was incorporated as a company in Illinois, beginning its transformation from a single restaurant into a global fast-food empire",
+    "date": "1955-04-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ray Kroc opened his first McDonald's franchise in Des Plaines, Illinois, the restaurant that would launch the company's national expansion",
+    "date": "1955-04-15",
+    "time_local": "10:00",
+    "time_utc": "16:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears won the NFL Championship, defeating the Washington Redskins 73-0 in the most lopsided championship game in NFL history",
+    "date": "1940-12-08",
+    "time_local": "14:00",
+    "time_utc": "20:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Chicago Bears played their first game at Wrigley Field, which would remain their home for 50 years",
+    "date": "1921-10-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "George Halas played in his final game as Bears head coach, ending a career that spanned four decades and earned him the title 'Papa Bear'",
+    "date": "1967-12-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears won Super Bowl XX, crushing the New England Patriots 46-10 behind their dominant '46 Defense'",
+    "date": "1986-01-26",
+    "time_local": "17:00",
+    "time_utc": "23:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Bud Billiken Parade, the oldest and largest African American parade in the United States, was held for the first time in Chicago's Bronzeville neighborhood",
+    "date": "1929-08-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls won their sixth NBA Championship in eight years, completing their second three-peat with a 87-86 victory over the Utah Jazz",
+    "date": "1998-06-14",
+    "time_local": "21:30",
+    "time_utc": "02:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan hit 'The Last Shot' to give the Chicago Bulls their sixth NBA Championship, concluding the Bulls dynasty",
+    "date": "1998-06-14",
+    "time_local": "21:25",
+    "time_utc": "02:25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first self-sustaining nuclear chain reaction was documented in a graph by physicist Herbert L. Anderson at the University of Chicago",
+    "date": "1942-12-02",
+    "time_local": "15:25",
+    "time_utc": "21:25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Argonne National Laboratory was established southwest of Chicago, becoming one of the U.S. Department of Energy's largest research laboratories",
+    "date": "1946-07-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Illinois moved its state capital from Vandalia to Springfield, where it has remained ever since",
+    "date": "1839-07-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Abraham Lincoln arrived in New Salem, Illinois, marking the beginning of his life on the Illinois frontier",
+    "date": "1831-07-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Abraham Lincoln was first elected to the Illinois General Assembly, beginning his political career at age 25",
+    "date": "1834-08-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Abraham Lincoln was admitted to the Illinois bar, allowing him to practice law throughout the state",
+    "date": "1836-09-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Abraham Lincoln moved to Springfield, Illinois, beginning his career as a successful lawyer and politician",
+    "date": "1837-04-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Abraham Lincoln married Mary Todd in Springfield, Illinois, in a ceremony at her sister's home",
+    "date": "1842-11-04",
+    "time_local": "18:00",
+    "time_utc": "00:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Abraham Lincoln delivered his first inaugural address on the steps of the U.S. Capitol, declaring 'We are not enemies, but friends'",
+    "date": "1861-03-04",
+    "time_local": "13:00",
+    "time_utc": "18:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Abraham Lincoln issued the preliminary Emancipation Proclamation, giving Confederate states 100 days to return to the Union or lose their slaves",
+    "date": "1862-09-22",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Emancipation Proclamation took effect, freeing all slaves in Confederate territory and transforming the Civil War into a fight for freedom",
+    "date": "1863-01-01",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Abraham Lincoln delivered the Gettysburg Address at the dedication of the Soldiers' National Cemetery in Pennsylvania",
+    "date": "1863-11-19",
+    "time_local": "14:00",
+    "time_utc": "19:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Abraham Lincoln was re-elected president, defeating Democrat George McClellan with 55% of the popular vote",
+    "date": "1864-11-08",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Abraham Lincoln delivered his second inaugural address, calling for 'malice toward none' and 'charity for all'",
+    "date": "1865-03-04",
+    "time_local": "12:00",
+    "time_utc": "17:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Dred Scott decision was announced by the Supreme Court, ruling that African Americans could not be citizens and that Congress could not ban slavery in territories",
+    "date": "1857-03-06",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Illinois and Michigan Canal opened, connecting Lake Michigan to the Mississippi River and spurring Chicago's growth as a transportation hub",
+    "date": "1848-04-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Chicago incorporated as a city with a population of about 4,170 residents",
+    "date": "1837-03-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Great Lakes Naval Training Center opened in North Chicago, Illinois, eventually becoming the Navy's only boot camp",
+    "date": "1911-07-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ulysses S. Grant's birthplace in Point Pleasant, Ohio, became a National Historic Landmark, honoring the Civil War general and 18th president",
+    "date": "1822-04-27",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "William McKinley was born in Niles, Ohio, the seventh Ohioan to become President of the United States",
+    "date": "1843-01-29",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Rutherford B. Hayes was born in Delaware, Ohio, later becoming the 19th President of the United States",
+    "date": "1822-10-04",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "James A. Garfield was born in Moreland Hills, Ohio, the last president to be born in a log cabin",
+    "date": "1831-11-19",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "William Howard Taft was born in Cincinnati, Ohio, later becoming both President and Chief Justice of the Supreme Court",
+    "date": "1857-09-15",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Warren G. Harding was born in Blooming Grove, Ohio, later becoming the 29th President of the United States",
+    "date": "1865-11-02",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The first Pro Football Hall of Fame inductees were enshrined in Canton, Ohio, including Jim Thorpe and Red Grange",
+    "date": "1963-09-07",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The National Football League was founded in Canton, Ohio, at the Hupmobile automobile showroom",
+    "date": "1920-09-17",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Detroit Tigers won their first World Series, defeating the Chicago Cubs four games to one",
+    "date": "1935-10-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Rosa Parks was born in Tuskegee, Alabama, but later lived in Detroit where she continued her civil rights work until her death in 2005",
+    "date": "1913-02-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Detroit race riot of 1967 began, eventually killing 43 people and requiring federal troops to restore order",
+    "date": "1967-07-23",
+    "time_local": "03:45",
+    "time_utc": "08:45",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "General Motors was founded in Flint, Michigan, by William C. Durant, eventually becoming the world's largest automaker",
+    "date": "1908-09-16",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The first Chevrolet automobile rolled off the assembly line in Detroit, beginning one of America's most iconic car brands",
+    "date": "1911-11-03",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Henry Ford announced he would pay workers $5 per day, more than double the industry standard, revolutionizing American labor",
+    "date": "1914-01-05",
+    "time_local": "09:00",
+    "time_utc": "14:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Battle of the Overpass occurred at Ford's River Rouge plant when company security brutally beat UAW organizers, including Walter Reuther",
+    "date": "1937-05-26",
+    "time_local": "14:00",
+    "time_utc": "19:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The sit-down strike at General Motors' Flint plants ended after 44 days, winning union recognition for the UAW",
+    "date": "1937-02-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Minneapolis-Saint Paul metropolitan area was struck by a devastating tornado that killed 6 people and caused over $200 million in damage",
+    "date": "1965-05-06",
+    "time_local": "18:00",
+    "time_utc": "23:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The I-35W Mississippi River bridge collapsed during rush hour in Minneapolis, killing 13 people and injuring 145",
+    "date": "2007-08-01",
+    "time_local": "18:05",
+    "time_utc": "23:05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Mary Tyler Moore Show premiered, making Minneapolis famous as the home of the fictional WJM-TV newsroom",
+    "date": "1970-09-19",
+    "time_local": "21:30",
+    "time_utc": "02:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Prince Rogers Nelson was born in Minneapolis, later becoming one of the most influential musicians in pop history",
+    "date": "1958-06-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Bob Dylan was born Robert Allen Zimmerman in Duluth, Minnesota, later revolutionizing American folk and rock music",
+    "date": "1941-05-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Minneapolis Flour Milling District explosion destroyed Washburn A Mill, killing 18 workers in the worst flour mill disaster in history",
+    "date": "1878-05-02",
+    "time_local": "19:00",
+    "time_utc": "01:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Pillsbury Company was founded in Minneapolis, eventually becoming one of the largest flour milling and food companies in the world",
+    "date": "1869-09-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "General Mills was created through a merger of five flour milling companies in Minneapolis, eventually producing iconic brands like Cheerios and Betty Crocker",
+    "date": "1928-06-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Wisconsin Territory was created, with Belmont as its first capital before moving to Madison",
+    "date": "1836-07-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Republican Party held its first official meeting in Ripon, Wisconsin, unifying anti-slavery forces",
+    "date": "1854-03-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Green Bay Packers won their first NFL Championship, beginning a dynasty that would earn them eleven total championships",
+    "date": "1929-12-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Lambeau Field opened in Green Bay, Wisconsin, becoming known as 'The Frozen Tundra' and one of the most iconic stadiums in sports",
+    "date": "1957-09-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Ice Bowl was played at Lambeau Field with temperatures of -13\u00b0F and a wind chill of -48\u00b0F, ending with Bart Starr's famous quarterback sneak",
+    "date": "1967-12-31",
+    "time_local": "13:00",
+    "time_utc": "19:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Edmund Fitzgerald, a Great Lakes freighter, sank during a November storm on Lake Superior, killing all 29 crew members",
+    "date": "1975-11-10",
+    "time_local": "19:10",
+    "time_utc": "01:10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Gordon Lightfoot released 'The Wreck of the Edmund Fitzgerald,' commemorating the ship's sinking and becoming a radio classic",
+    "date": "1976-06-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first Iowa Caucus was held, beginning Iowa's tradition as the first state to vote in presidential primaries",
+    "date": "1972-01-24",
+    "time_local": "19:00",
+    "time_utc": "01:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Herbert Hoover was born in West Branch, Iowa, becoming the first president born west of the Mississippi River",
+    "date": "1874-08-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Field of Dreams was built near Dyersville, Iowa, for the 1989 movie, becoming a tourist attraction and later hosting an actual MLB game",
+    "date": "1989-04-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first MLB game at the Field of Dreams site in Iowa was played between the Chicago White Sox and New York Yankees",
+    "date": "2021-08-12",
+    "time_local": "19:00",
+    "time_utc": "00:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The St. Louis Cardinals won their first World Series, defeating the Philadelphia Athletics in seven games",
+    "date": "1926-10-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Stan Musial played his final game for the St. Louis Cardinals after 22 seasons, having collected 3,630 hits",
+    "date": "1963-09-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Mark McGwire hit his record-breaking 62nd home run of the season at Busch Stadium, surpassing Roger Maris's 37-year-old record",
+    "date": "1998-09-08",
+    "time_local": "20:18",
+    "time_utc": "01:18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Dred Scott case originated in St. Louis, where the enslaved man first sued for his freedom based on having lived in free territories",
+    "date": "1847-04-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Louisiana Purchase Exposition, also known as the St. Louis World's Fair, opened to celebrate the centennial of the Louisiana Purchase",
+    "date": "1904-04-30",
+    "time_local": "13:00",
+    "time_utc": "19:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first Olympic Games held in the United States opened in St. Louis as part of the Louisiana Purchase Exposition",
+    "date": "1904-07-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Mississippi River Commission was created by Congress to improve navigation and control flooding on America's greatest river",
+    "date": "1879-06-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Great Mississippi Flood of 1927 began devastating the Lower Mississippi Valley, eventually displacing over 500,000 people",
+    "date": "1927-04-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Construction began on the Gateway Arch in St. Louis, designed by Finnish-American architect Eero Saarinen",
+    "date": "1963-02-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Battle of Fallen Timbers was fought in northwest Ohio, resulting in a decisive American victory over the Western Confederacy of Native Americans",
+    "date": "1794-08-20",
+    "time_local": "10:00",
+    "time_utc": "15:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Tecumseh, the Shawnee leader, was killed at the Battle of the Thames in Canada, ending the dream of a united Native American confederacy in the Midwest",
+    "date": "1813-10-05",
+    "time_local": "15:00",
+    "time_utc": "20:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Northwest Ordinance was passed by Congress, establishing the Northwest Territory and banning slavery in the region that would become Ohio, Indiana, Illinois, Michigan, and Wisconsin",
+    "date": "1787-07-13",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Cyrus McCormick demonstrated his mechanical reaper near Steele's Tavern, Virginia, but it was his move to Chicago in 1847 that made the company an agricultural giant",
+    "date": "1831-07-01",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The McCormick Reaper Works in Chicago was targeted during the labor unrest that led to the Haymarket Affair",
+    "date": "1886-05-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Upton Sinclair's novel 'The Jungle' was published, exposing unsanitary conditions in Chicago's meatpacking industry and spurring federal food safety legislation",
+    "date": "1906-02-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "President Theodore Roosevelt signed the Meat Inspection Act and the Pure Food and Drug Act, prompted by revelations about Chicago's meatpacking plants",
+    "date": "1906-06-30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Chicago River was reversed to flow away from Lake Michigan, one of the greatest engineering feats of the era",
+    "date": "1900-01-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Sanitary and Ship Canal opened, permanently reversing the Chicago River's flow and preventing sewage from contaminating the city's water supply",
+    "date": "1900-01-17",
+    "time_local": "09:00",
+    "time_utc": "15:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Reliance Building opened in Chicago, featuring an innovative steel frame and large glass windows that influenced modern skyscraper design",
+    "date": "1895-03-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Auditorium Building, designed by Louis Sullivan and Dankmar Adler, opened in Chicago with President Benjamin Harrison in attendance",
+    "date": "1889-12-09",
+    "time_local": "20:00",
+    "time_utc": "02:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Frank Lloyd Wright opened his studio in Oak Park, Illinois, beginning the development of his Prairie School architectural style",
+    "date": "1898-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Robie House, Frank Lloyd Wright's masterpiece of Prairie School architecture, was completed in Chicago's Hyde Park neighborhood",
+    "date": "1910-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Wainwright Building in St. Louis, designed by Louis Sullivan, opened as one of the first true skyscrapers with a steel frame",
+    "date": "1891-03-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ludwig Mies van der Rohe became director of the architecture program at Illinois Institute of Technology in Chicago, shaping modernist architecture",
+    "date": "1938-08-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Lake Shore Drive Apartments, designed by Mies van der Rohe, were completed in Chicago, becoming icons of the International Style",
+    "date": "1951-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Hugh Hefner published the first issue of Playboy magazine from his Chicago apartment, featuring Marilyn Monroe on the cover",
+    "date": "1953-12-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Oprah Winfrey's talk show went national from Chicago, eventually becoming the highest-rated daytime talk show in American history",
+    "date": "1986-09-08",
+    "time_local": "09:00",
+    "time_utc": "14:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first Taste of Chicago food festival was held in Grant Park, eventually becoming the world's largest food festival",
+    "date": "1980-07-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Deep-dish pizza was invented at Pizzeria Uno in Chicago by Ike Sewell and Ric Riccardo",
+    "date": "1943-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first Vienna Beef hot dog stand opened at the World's Columbian Exposition, beginning Chicago's famous hot dog tradition",
+    "date": "1893-05-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Garrett Popcorn Shops opened in Chicago, later becoming famous for mixing caramel and cheese popcorn in the 'Chicago Mix'",
+    "date": "1949-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cultural Center opened as the city's first central public library, featuring the world's largest Tiffany dome",
+    "date": "1897-10-09",
+    "time_local": "14:00",
+    "time_utc": "20:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Art Institute of Chicago opened in its present building, constructed for the World's Columbian Exposition",
+    "date": "1893-12-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Field Museum of Natural History opened its current building in Chicago, featuring the dinosaur skeleton later named Sue",
+    "date": "1921-05-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sue, the largest and most complete Tyrannosaurus rex fossil ever found, went on display at the Field Museum in Chicago",
+    "date": "2000-05-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Museum of Science and Industry opened in Chicago in the former Palace of Fine Arts from the 1893 World's Fair",
+    "date": "1933-06-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Shedd Aquarium opened in Chicago as the largest indoor aquarium in the world at the time",
+    "date": "1930-05-30",
+    "time_local": "10:00",
+    "time_utc": "16:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Adler Planetarium opened in Chicago as the first planetarium in the Western Hemisphere",
+    "date": "1930-05-12",
+    "time_local": "10:00",
+    "time_utc": "16:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Millennium Park opened in Chicago, featuring the Cloud Gate sculpture (known as 'The Bean') that would become the city's most photographed attraction",
+    "date": "2004-07-16",
+    "time_local": "10:00",
+    "time_utc": "15:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Navy Pier opened in Chicago as the world's largest pier at 3,300 feet long",
+    "date": "1916-07-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks won their first Stanley Cup since 1961, defeating the Philadelphia Flyers in Game 6",
+    "date": "2010-06-09",
+    "time_local": "21:00",
+    "time_utc": "02:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Detroit Red Wings won their first Stanley Cup, defeating the New York Rangers to begin a hockey dynasty",
+    "date": "1936-04-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Gordie Howe played his final NHL game for the Detroit Red Wings at age 52, ending a career that spanned five decades",
+    "date": "1980-04-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Cleveland Browns won the NFL Championship, defeating the Los Angeles Rams 30-28 in their final season before the NFL-AFL merger",
+    "date": "1950-12-24",
+    "time_local": "14:00",
+    "time_utc": "19:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Jim Brown played his final game for the Cleveland Browns, retiring as the NFL's all-time leading rusher at age 29",
+    "date": "1965-12-26",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "LeBron James was drafted first overall by the Cleveland Cavaliers, the team located near his hometown of Akron, Ohio",
+    "date": "2003-06-26",
+    "time_local": "19:30",
+    "time_utc": "23:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Cleveland Cavaliers won their first NBA Championship, defeating the Golden State Warriors in seven games with LeBron James leading the comeback from a 3-1 deficit",
+    "date": "2016-06-19",
+    "time_local": "22:30",
+    "time_utc": "02:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Cuyahoga River in Cleveland caught fire due to industrial pollution, helping spark the modern environmental movement",
+    "date": "1969-06-22",
+    "time_local": "11:56",
+    "time_utc": "16:56",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Rock and Roll Hall of Fame opened in Cleveland, chosen as the location because disc jockey Alan Freed coined the term 'rock and roll' there",
+    "date": "1995-09-01",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Thomas Edison was born in Milan, Ohio, later becoming America's most prolific inventor",
+    "date": "1847-02-11",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "John Glenn became the first American to orbit Earth, a milestone for the Ohio native who later represented his state in the U.S. Senate",
+    "date": "1962-02-20",
+    "time_local": "09:47",
+    "time_utc": "14:47",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Neil Armstrong became the first human to walk on the Moon, famously declaring 'That's one small step for man, one giant leap for mankind' - the Ohioan made history",
+    "date": "1969-07-20",
+    "time_local": "22:56",
+    "time_utc": "02:56",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Neil Armstrong was born in Wapakoneta, Ohio, eventually becoming the first person to walk on the Moon",
+    "date": "1930-08-05",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Ohio State Fair began in Columbus, becoming one of the largest state fairs in the country",
+    "date": "1850-10-02",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Cedar Point amusement park in Sandusky, Ohio opened, eventually becoming known as the 'Roller Coaster Capital of the World'",
+    "date": "1870-01-01",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Ohio River flood of 1937 crested at Cincinnati at a record 80 feet, submerging 10% of the city",
+    "date": "1937-01-26",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Kent State University students were shot by Ohio National Guard troops during an anti-war protest, killing four and wounding nine",
+    "date": "1970-05-04",
+    "time_local": "12:24",
+    "time_utc": "17:24",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Kent State shootings occurred during protests against the Cambodia Campaign, fundamentally changing the American anti-war movement",
+    "date": "1970-05-04",
+    "time_local": "12:24",
+    "time_utc": "17:24",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Steubenville steel mills that had made the Ohio Valley a center of American industry began closing, marking the decline of the Rust Belt",
+    "date": "1977-09-19",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The first commercial radio broadcast in the world was made from Pittsburgh, Pennsylvania, when KDKA reported Warren Harding's presidential election victory",
+    "date": "1920-11-02",
+    "time_local": "18:00",
+    "time_utc": "23:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Kansas City Chiefs won Super Bowl IV, defeating the Minnesota Vikings 23-7 as the last AFL champion before the NFL-AFL merger",
+    "date": "1970-01-11",
+    "time_local": "14:00",
+    "time_utc": "20:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Minnesota Twins won the World Series for the first time since moving from Washington, defeating the Atlanta Braves in seven games",
+    "date": "1991-10-27",
+    "time_local": "22:30",
+    "time_utc": "04:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Minneapolis Lakers won their first NBA Championship, led by George Mikan, who dominated the sport's early years",
+    "date": "1950-04-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Minneapolis Lakers relocated to Los Angeles, beginning the franchise's West Coast era but leaving Minnesota without an NBA team until the Timberwolves in 1989",
+    "date": "1960-04-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Milwaukee Braves won the World Series, defeating the New York Yankees behind Lew Burdette's three complete-game victories",
+    "date": "1957-10-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Milwaukee Bucks won the NBA Championship in only their third season of existence, led by Kareem Abdul-Jabbar and Oscar Robertson",
+    "date": "1971-04-30",
+    "time_local": "21:00",
+    "time_utc": "02:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Harley-Davidson Motor Company was officially incorporated in Milwaukee, Wisconsin, becoming an iconic American motorcycle brand",
+    "date": "1907-09-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first Harley-Davidson motorcycle was built in a small wooden shed in Milwaukee by William Harley and Arthur Davidson",
+    "date": "1903-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Milwaukee Art Museum's Quadracci Pavilion opened, featuring a movable 'brise soleil' with a 217-foot wingspan designed by Santiago Calatrava",
+    "date": "2001-10-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Indiana State Fair Coliseum collapsed during a Sugarland concert, killing seven people and injuring 58 when the stage rigging fell during a storm",
+    "date": "2011-08-13",
+    "time_local": "21:49",
+    "time_utc": "01:49",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "The Soldiers' and Sailors' Monument was dedicated in Indianapolis, becoming the iconic centerpiece of Monument Circle",
+    "date": "1902-05-15",
+    "time_local": "12:00",
+    "time_utc": "17:00",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "The Indianapolis Motor Speedway opened for automobile testing, featuring a 2.5-mile oval that would become 'The Brickyard'",
+    "date": "1909-08-12",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "The Indianapolis Colts won Super Bowl XLI, defeating the Chicago Bears 29-17 with Peyton Manning winning Super Bowl MVP",
+    "date": "2007-02-04",
+    "time_local": "18:25",
+    "time_utc": "23:25",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Notre Dame Fighting Irish football team played their final home game at Cartier Field before moving to the new Notre Dame Stadium",
+    "date": "1929-11-16",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Notre Dame Stadium, known as 'The House That Rockne Built,' opened with a 14-0 victory over SMU",
+    "date": "1930-10-04",
+    "time_local": "14:00",
+    "time_utc": "19:00",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Knute Rockne, the legendary Notre Dame football coach, died in a plane crash in Kansas at age 43",
+    "date": "1931-03-31",
+    "time_local": "10:30",
+    "time_utc": "16:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Marathon was run for the first time, eventually growing into one of the World Marathon Majors",
+    "date": "1977-09-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Joan Benoit won the first women's Olympic marathon in Los Angeles, but the Chicago native had trained extensively on the lakefront paths",
+    "date": "1984-08-05",
+    "time_local": "08:00",
+    "time_utc": "15:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Carl Sandburg was born in Galesburg, Illinois, later winning three Pulitzer Prizes and earning the title 'Poet of the People'",
+    "date": "1878-01-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Saul Bellow, who lived most of his life in Chicago, won the Nobel Prize in Literature for works that explored modern urban experience",
+    "date": "1976-10-21",
+    "timezone": "Europe/Stockholm"
+  },
+  {
+    "fact": "Gwendolyn Brooks became the first African American to win a Pulitzer Prize, for her poetry collection 'Annie Allen' about life in Chicago's South Side",
+    "date": "1950-05-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Studs Terkel's oral history 'Working' was published, documenting the lives of ordinary Americans in conversations largely conducted in Chicago",
+    "date": "1974-03-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Second City comedy theater opened in Chicago, eventually launching the careers of John Belushi, Dan Aykroyd, Tina Fey, and Stephen Colbert",
+    "date": "1959-12-16",
+    "time_local": "20:00",
+    "time_utc": "02:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Steppenwolf Theatre Company was founded in Chicago, eventually winning multiple Tony Awards and launching the careers of John Malkovich and Gary Sinise",
+    "date": "1976-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Symphony Orchestra gave its first performance under conductor Theodore Thomas at the Auditorium Theatre",
+    "date": "1891-10-16",
+    "time_local": "20:00",
+    "time_utc": "02:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Lyric Opera of Chicago performed its first season, quickly becoming one of the leading opera companies in America",
+    "date": "1954-11-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Blues Brothers film was released, showcasing Chicago's blues heritage and featuring Aretha Franklin, Ray Charles, and James Brown",
+    "date": "1980-06-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Howlin' Wolf recorded his final album in Chicago, ending a career that helped define Chicago blues",
+    "date": "1972-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blues Festival, the largest free blues festival in the world, was held for the first time in Grant Park",
+    "date": "1984-06-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "House music emerged from Chicago's Warehouse nightclub, with DJ Frankie Knuckles pioneering the genre that would influence dance music worldwide",
+    "date": "1983-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kanye West's debut album 'The College Dropout' was released, launching the Chicago producer and rapper to international stardom",
+    "date": "2004-02-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Common released 'Be,' produced by Kanye West, cementing Chicago's place in hip-hop's golden era of the 2000s",
+    "date": "2005-05-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Chance the Rapper became the first artist to win a Grammy Award (Best New Artist) for a streaming-only album, representing Chicago's new generation of hip-hop",
+    "date": "2017-02-12",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 1985 Chicago Bears recorded 'The Super Bowl Shuffle,' a rap song that became a cultural phenomenon before they had even reached the Super Bowl",
+    "date": "1985-11-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks held their first practice in preparation for their inaugural NHL season",
+    "date": "1926-11-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cardinals won the NFL Championship, defeating the Philadelphia Eagles 28-21 in the last championship for the franchise before moving to St. Louis",
+    "date": "1947-12-28",
+    "time_local": "14:00",
+    "time_utc": "20:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The St. Louis Cardinals (football) announced their move to Phoenix, ending 28 years in St. Louis and 60 years in the city of Chicago before that",
+    "date": "1988-01-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Fire MLS team won the MLS Cup and U.S. Open Cup double in their inaugural season, the only expansion team to accomplish this feat",
+    "date": "1998-10-25",
+    "time_local": "15:00",
+    "time_utc": "21:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Sky won the WNBA Championship, defeating the Phoenix Mercury to bring the city its first major women's professional sports title",
+    "date": "2021-10-17",
+    "time_local": "15:00",
+    "time_utc": "20:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Great Chicago Flood began when a construction piling punctured a freight tunnel under the Chicago River, flooding basements throughout the Loop",
+    "date": "1992-04-13",
+    "time_local": "05:57",
+    "time_utc": "11:57",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The 'Blizzard of the Century' struck Chicago, dropping 21.6 inches of snow and paralyzing the city",
+    "date": "1999-01-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Groundhog Day blizzard struck Chicago, dropping over 20 inches of snow and stranding motorists on Lake Shore Drive for up to 12 hours",
+    "date": "2011-02-01",
+    "time_local": "17:00",
+    "time_utc": "23:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The polar vortex caused Chicago temperatures to plunge to -23\u00b0F with wind chills reaching -52\u00b0F, the coldest temperatures in decades",
+    "date": "2019-01-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The deadliest heat wave in Chicago history ended after five days of extreme heat and humidity killed 739 people, mostly elderly residents",
+    "date": "1995-07-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Cook County Medical Examiner's office ran out of space for bodies during the 1995 heat wave, requiring refrigerated trucks to store the deceased",
+    "date": "1995-07-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "A devastating tornado struck Plainfield, Illinois, killing 29 people and becoming the only F5 tornado to hit the Chicago metropolitan area in recorded history",
+    "date": "1990-08-28",
+    "time_local": "15:28",
+    "time_utc": "20:28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Oak Lawn tornado outbreak struck the Chicago suburbs on Palm Sunday, killing 33 people",
+    "date": "1967-04-21",
+    "time_local": "17:30",
+    "time_utc": "22:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Xenia, Ohio tornado killed 34 people as part of the 1974 Super Outbreak, the worst tornado outbreak in U.S. history at that time",
+    "date": "1974-04-03",
+    "time_local": "16:40",
+    "time_utc": "21:40",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The 1974 Super Outbreak spawned 148 tornadoes in 13 states, killing 335 people across the Midwest and South",
+    "date": "1974-04-03",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The 2011 Super Outbreak produced 362 tornadoes in 21 states, breaking the 1974 record and killing 324 people",
+    "date": "2011-04-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Washington, Illinois tornado struck during the November 2013 tornado outbreak, killing 3 people and destroying over 1,000 homes on the same day that a tornado hit the town of Gifford",
+    "date": "2013-11-17",
+    "time_local": "11:10",
+    "time_utc": "17:10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Henryville, Indiana tornado killed 11 people as an EF4 storm devastated the southern Indiana town",
+    "date": "2012-03-02",
+    "time_local": "15:10",
+    "time_utc": "20:10",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "The Woodward, Iowa tornado killed 7 people in 1913, one of the deadliest tornadoes in Iowa history",
+    "date": "1913-04-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Flint-Beecher tornado killed 116 people in Michigan, the deadliest tornado in Michigan history and one of the deadliest in U.S. history",
+    "date": "1953-06-08",
+    "time_local": "20:30",
+    "time_utc": "01:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Ruskin Heights tornado killed 44 people in the Kansas City suburb during a deadly tornado outbreak",
+    "date": "1957-05-20",
+    "time_local": "19:23",
+    "time_utc": "00:23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Topeka tornado killed 17 people and caused $100 million in damage, striking the Kansas capital during evening rush hour",
+    "date": "1966-06-08",
+    "time_local": "19:00",
+    "time_utc": "00:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first U.S. weather satellite, TIROS-1, was launched, revolutionizing severe weather prediction for the tornado-prone Midwest",
+    "date": "1960-04-01",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Storm Prediction Center moved to Norman, Oklahoma from Kansas City, Missouri, centralizing severe weather forecasting for the nation",
+    "date": "1997-10-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first Doppler weather radar was installed at a National Weather Service office in Norman, Oklahoma, improving tornado detection across the Midwest",
+    "date": "1988-06-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago transit strike stranded 2 million daily riders when bus and rapid transit workers walked off the job",
+    "date": "1979-12-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Transit Authority was created to consolidate and operate the city's public transportation systems",
+    "date": "1947-10-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first segment of the Interstate Highway System in Illinois opened, bringing modern expressways to the Chicago area",
+    "date": "1958-11-05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Dan Ryan Expressway opened in Chicago, eventually becoming one of the busiest highways in the United States",
+    "date": "1962-12-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Kennedy Expressway extension opened, completing Chicago's modern expressway system",
+    "date": "1960-11-05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Illinois Governor Rod Blagojevich was arrested at his Chicago home on federal corruption charges, including allegedly trying to sell Barack Obama's vacated Senate seat",
+    "date": "2008-12-09",
+    "time_local": "06:15",
+    "time_utc": "12:15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Four Illinois governors were convicted of crimes related to their time in office: Otto Kerner, Dan Walker, George Ryan, and Rod Blagojevich",
+    "date": "2011-06-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Former Illinois Governor George Ryan was convicted on racketeering and fraud charges related to licenses-for-bribes scandals",
+    "date": "2006-04-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Chicago City Council passed the Human Rights Ordinance, becoming one of the first major cities to ban discrimination based on sexual orientation",
+    "date": "1988-12-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Illinois became the first state to ratify the Thirteenth Amendment abolishing slavery, reflecting Lincoln's home state's commitment to ending the institution",
+    "date": "1865-02-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Illinois became the first state to ratify the Nineteenth Amendment granting women's suffrage, continuing its tradition of supporting expanded rights",
+    "date": "1919-06-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The University of Chicago was founded with a $600,000 gift from John D. Rockefeller, eventually becoming one of the world's leading research universities",
+    "date": "1890-09-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The University of Illinois opened in Champaign-Urbana as Illinois Industrial University, later becoming one of the nation's largest public universities",
+    "date": "1868-03-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Northwestern University was chartered in Evanston, Illinois, later becoming one of the leading private research universities in the country",
+    "date": "1851-01-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first class graduated from Northwestern University's law school, beginning its tradition of legal education that continues today",
+    "date": "1859-06-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The University of Michigan was founded in Detroit before later moving to Ann Arbor, eventually becoming one of America's most prestigious public universities",
+    "date": "1817-08-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ohio State University was established in Columbus as the Ohio Agricultural and Mechanical College, growing into one of the largest universities in the country",
+    "date": "1870-03-22",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The University of Wisconsin was established in Madison, eventually developing the 'Wisconsin Idea' that university research should benefit society",
+    "date": "1848-07-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first Big Ten Conference football game was played, beginning over a century of intense Midwestern college football rivalries",
+    "date": "1896-11-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The University of Illinois won the first Big Ten basketball tournament, held in Chicago",
+    "date": "1908-03-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Wabash College and DePauw University played the first Monon Bell football game, beginning one of college football's oldest and most unique rivalries",
+    "date": "1890-11-01",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "The Chicago Public Schools system was established, eventually becoming the third-largest school district in the United States",
+    "date": "1837-03-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first kindergarten in the United States was opened in Watertown, Wisconsin, by Margarethe Meyer Schurz",
+    "date": "1856-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The 4-H youth development organization was founded in Clark County, Ohio, eventually becoming one of the largest youth organizations in the world",
+    "date": "1902-01-15",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The last public execution by hanging in Chicago took place at the Cook County Jail, when four Haymarket defendants were executed",
+    "date": "1887-11-11",
+    "time_local": "12:00",
+    "time_utc": "18:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Leopold and Loeb, two wealthy University of Chicago students, murdered 14-year-old Bobby Franks in what they called the 'perfect crime,' shocking the nation",
+    "date": "1924-05-21",
+    "time_local": "17:00",
+    "time_utc": "23:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Clarence Darrow delivered his 12-hour closing argument to save Leopold and Loeb from the death penalty, one of the most famous legal speeches in American history",
+    "date": "1924-08-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Richard Speck murdered eight student nurses in their Chicago townhouse, one of the most notorious mass murders in American history at that time",
+    "date": "1966-07-14",
+    "time_local": "23:00",
+    "time_utc": "04:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "John Wayne Gacy was arrested at his Des Plaines, Illinois home, eventually being convicted of murdering 33 young men and boys",
+    "date": "1978-12-21",
+    "time_local": "23:30",
+    "time_utc": "05:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ted Kaczynski, the Unabomber, targeted Northwestern University with his first two bombs, beginning a 17-year bombing campaign",
+    "date": "1978-05-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Tylenol bottles laced with cyanide killed seven people in the Chicago area, leading to nationwide recalls and the development of tamper-resistant packaging",
+    "date": "1982-09-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Cook County Jail became the largest jail in the country, with a capacity exceeding 10,000 inmates",
+    "date": "1973-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Aurora, Illinois experienced a mass shooting at the Henry Pratt Company warehouse that killed five workers and wounded six others",
+    "date": "2019-02-15",
+    "time_local": "13:24",
+    "time_utc": "19:24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Highland Park Fourth of July parade shooting killed seven people and wounded 48 others in the Chicago suburb",
+    "date": "2022-07-04",
+    "time_local": "10:14",
+    "time_utc": "15:14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Cicero race riot erupted when Black families attempted to move into the all-white Chicago suburb, requiring the National Guard to restore order",
+    "date": "1951-07-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Fred Hampton, chairman of the Illinois Black Panther Party, was killed in a predawn raid by Chicago police and FBI agents",
+    "date": "1969-12-04",
+    "time_local": "04:45",
+    "time_utc": "10:45",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Freedom Movement reached the Summit Agreement with Mayor Daley, promising open housing but largely failing to end residential segregation",
+    "date": "1966-08-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jesse Jackson founded Operation PUSH (People United to Serve Humanity) in Chicago, continuing his civil rights activism",
+    "date": "1971-12-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jesse Jackson announced his first presidential campaign from Chicago, becoming the first African American to mount a significant bid for a major party nomination",
+    "date": "1983-11-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Nation of Islam's headquarters, Mosque Maryam, was dedicated in Chicago, cementing the city as the center of the religious movement",
+    "date": "1972-02-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Elijah Muhammad, leader of the Nation of Islam, died in Chicago, leaving behind a religious movement he had led for over 40 years",
+    "date": "1975-02-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Louis Farrakhan led the Million Man March in Washington, D.C., but the Nation of Islam leader was based in Chicago where the movement is headquartered",
+    "date": "1995-10-16",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Great Lakes Brewing Company opened in Cleveland, helping spark the craft beer revolution in the Midwest",
+    "date": "1988-09-06",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Goose Island Beer Company was founded in Chicago, eventually becoming one of the most respected craft breweries in America before being acquired by Anheuser-Busch",
+    "date": "1988-05-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Milwaukee Beer Wars ended when Miller, Pabst, Schlitz, and Blatz had consolidated the city's brewing industry into a few major players",
+    "date": "1950-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Anheuser-Busch InBev announced it would move Goose Island's barrel-aged beer production to Chicago, maintaining the city's craft beer heritage",
+    "date": "2015-03-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Three Floyds Brewing Company opened in Munster, Indiana, eventually becoming one of the most sought-after craft breweries in the country",
+    "date": "1996-10-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Summit Brewing Company was founded in St. Paul, Minnesota, helping establish the Twin Cities as a craft beer destination",
+    "date": "1986-09-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Bell's Brewery opened in Kalamazoo, Michigan, eventually becoming one of the largest craft breweries in the country",
+    "date": "1985-09-19",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Founders Brewing Company opened in Grand Rapids, Michigan, contributing to the city's transformation into 'Beer City USA'",
+    "date": "1997-11-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The American Homebrewers Association was founded in Boulder, Colorado, but its impact was especially felt in the Midwest where many craft brewers got their start",
+    "date": "1978-12-01",
+    "timezone": "America/Denver"
+  },
+  {
+    "fact": "George Floyd was killed by Minneapolis police officer Derek Chauvin, sparking worldwide protests against police brutality",
+    "date": "2020-05-25",
+    "time_local": "20:19",
+    "time_utc": "01:19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Minneapolis City Council voted to disband its police department in the aftermath of George Floyd's death, though voters later rejected the measure",
+    "date": "2020-06-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Derek Chauvin was found guilty of murdering George Floyd, a verdict watched by millions across the nation",
+    "date": "2021-04-20",
+    "time_local": "16:00",
+    "time_utc": "21:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Picasso, an untitled monumental sculpture, was unveiled in Daley Plaza, becoming a symbol of the city",
+    "date": "1967-08-15",
+    "time_local": "12:00",
+    "time_utc": "17:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Anish Kapoor's Cloud Gate sculpture was dedicated in Chicago's Millennium Park, quickly becoming the city's most photographed attraction",
+    "date": "2006-05-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago River was dyed green for the first time to celebrate St. Patrick's Day, starting an annual tradition",
+    "date": "1962-03-17",
+    "time_local": "10:00",
+    "time_utc": "16:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Chicago hosted its first St. Patrick's Day Parade, beginning a tradition that continues to draw hundreds of thousands of spectators",
+    "date": "1843-03-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Great Lakes became protected from invasive species when the Chicago Sanitary and Ship Canal's electric barrier was activated",
+    "date": "2002-04-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Asian carp were first detected in the Chicago Sanitary and Ship Canal, threatening to invade the Great Lakes ecosystem",
+    "date": "2010-06-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Lake Michigan reached its record high water level, causing widespread flooding and erosion along the Chicago lakefront",
+    "date": "2020-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Eastland disaster claimed more lives than the Titanic's sinking relative to its passenger capacity, killing 844 of the 2,500 aboard",
+    "date": "1915-07-24",
+    "time_local": "07:28",
+    "time_utc": "13:28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Comedian John Belushi was born in Chicago's Humboldt Park neighborhood, later becoming a founding cast member of Saturday Night Live",
+    "date": "1949-01-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Harrison Ford was born in Chicago and attended Maine Township High School, later becoming one of Hollywood's most successful actors",
+    "date": "1942-07-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Bill Murray was born in Wilmette, Illinois, later becoming a legendary comedian and actor",
+    "date": "1950-09-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Robin Williams was born in Chicago before his family moved to California, where he would become a beloved comedian and actor",
+    "date": "1951-07-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Hillary Rodham Clinton was born in Chicago's Edgewater Hospital, later becoming First Lady, Senator, Secretary of State, and the first woman nominated for president by a major party",
+    "date": "1947-10-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ronald Reagan was born in Tampico, Illinois, later becoming the 40th President of the United States",
+    "date": "1911-02-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ulysses S. Grant moved to Galena, Illinois, and worked in his family's leather goods store before the Civil War made him a national hero",
+    "date": "1860-04-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first televised presidential debate was held between John F. Kennedy and Richard Nixon in Chicago, forever changing American politics",
+    "date": "1960-09-26",
+    "time_local": "20:30",
+    "time_utc": "01:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Motorola demonstrated the first handheld mobile phone in New York, but the Chicago-based company had developed it at their Illinois headquarters",
+    "date": "1973-04-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first controlled use of an implantable pacemaker was performed by doctors at the University of Minnesota",
+    "date": "1958-10-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first successful bone marrow transplant was performed at the University of Minnesota by E. Donnall Thomas",
+    "date": "1968-03-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Zipper was invented in Chicago by Whitcomb Judson, though it was originally called the 'clasp locker'",
+    "date": "1893-08-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The window envelope was patented in Chicago by Americus Callahan, revolutionizing business correspondence",
+    "date": "1902-06-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Spray paint in a can was invented in Chicago by Edward Seymour, enabling the rise of graffiti art decades later",
+    "date": "1949-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first blood bank in the United States opened at Cook County Hospital in Chicago",
+    "date": "1937-03-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The bifocal lens was invented by Benjamin Franklin while living in Philadelphia, but Chicago later became the center of American eyeglass manufacturing",
+    "date": "1784-05-23"
+  },
+  {
+    "fact": "The Twinkie was invented in Schiller Park, Illinois, by baker James Dewar at the Continental Baking Company",
+    "date": "1930-04-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Cracker Jack, the caramel-coated popcorn and peanut snack, was first sold at the World's Columbian Exposition in Chicago",
+    "date": "1893-05-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Wrigley's chewing gum began offering prizes with its products, pioneering the concept of promotional giveaways",
+    "date": "1891-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first drive-through restaurant, Red's Giant Hamburg, opened in Springfield, Missouri, near the Illinois border",
+    "date": "1947-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Steak 'n Shake opened in Normal, Illinois, pioneering the concept of made-to-order fast food",
+    "date": "1934-02-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Portillo's opened its first hot dog stand in Villa Park, Illinois, beginning a Chicago institution",
+    "date": "1963-04-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Lou Malnati's opened its first deep-dish pizza restaurant in Lincolnwood, Illinois",
+    "date": "1971-03-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Giordano's opened its first restaurant in Chicago, introducing its stuffed deep-dish pizza",
+    "date": "1974-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The original Gino's East opened on Superior Street in Chicago, becoming famous for graffiti-covered walls and deep-dish pizza",
+    "date": "1966-06-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Harold's Chicken Shack opened on the South Side of Chicago, becoming a beloved institution in the African American community",
+    "date": "1950-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Billy Goat Tavern opened under Michigan Avenue in Chicago, later inspiring the Saturday Night Live 'Cheeborger' sketch",
+    "date": "1964-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Superdawg opened on the Northwest Side of Chicago, with its iconic hot dog statues becoming a beloved landmark",
+    "date": "1948-05-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Gene & Jude's opened in River Grove, Illinois, serving its famous no-ketchup hot dogs",
+    "date": "1950-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jim's Original, the iconic Maxwell Street Polish sausage stand, opened in Chicago's Maxwell Street Market area",
+    "date": "1939-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The original Rainbow Cone ice cream shop opened on Chicago's South Side, serving its distinctive five-flavor cone",
+    "date": "1926-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Eli's Cheesecake Company was founded in Chicago, eventually becoming a nationally recognized brand",
+    "date": "1980-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Jelly Belly factory in North Chicago produces billions of jelly beans annually",
+    "date": "1976-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sara Lee Corporation was founded in Chicago, eventually becoming one of the largest food companies in the world",
+    "date": "1939-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Quaker Oats Company moved its headquarters to Chicago, becoming one of the city's most prominent food companies",
+    "date": "1901-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kraft Foods was founded in Chicago by James L. Kraft, growing from a cheese delivery service into a global food giant",
+    "date": "1903-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Oscar Mayer moved its headquarters from Madison, Wisconsin, to Chicago, consolidating its presence in the meatpacking industry",
+    "date": "1919-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Board of Trade was founded, becoming the world's oldest futures and options exchange",
+    "date": "1848-04-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Mercantile Exchange opened as the Chicago Butter and Egg Board, later becoming one of the largest derivatives exchanges in the world",
+    "date": "1898-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Stock Exchange was founded, eventually merging with other exchanges and becoming part of the national market system",
+    "date": "1882-05-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sears, Roebuck and Company was founded in Chicago, becoming the largest retailer in the United States for decades",
+    "date": "1893-09-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Montgomery Ward opened the first mail-order business in Chicago, revolutionizing retail by serving rural customers nationwide",
+    "date": "1872-08-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Marshall Field's department store opened on State Street in Chicago, becoming famous for its Christmas window displays",
+    "date": "1868-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Carson Pirie Scott opened its flagship store designed by Louis Sullivan on State Street in Chicago",
+    "date": "1899-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "State Street was designated 'that great street' after a streetscape improvement project made it Chicago's premier shopping destination",
+    "date": "1926-10-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Water Tower Place opened on North Michigan Avenue, pioneering the urban vertical shopping mall concept",
+    "date": "1975-11-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Magnificent Mile became Chicago's premier shopping district after North Michigan Avenue was widened and improved",
+    "date": "1947-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first enclosed shopping mall in the Midwest, Southdale Center, opened in Edina, Minnesota",
+    "date": "1956-10-08",
+    "time_local": "09:30",
+    "time_utc": "15:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Woodfield Mall opened in Schaumburg, Illinois, becoming one of the largest shopping centers in the United States",
+    "date": "1971-09-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first Walmart store opened in Rogers, Arkansas, but the company's Midwest expansion helped make it the world's largest retailer",
+    "date": "1962-07-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Target opened its first store in Roseville, Minnesota, beginning what would become a major national retail chain",
+    "date": "1962-05-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kmart opened its first store in Garden City, Michigan, pioneering the discount department store concept",
+    "date": "1962-03-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Walgreens opened its first store in Chicago, eventually becoming one of the largest pharmacy chains in the United States",
+    "date": "1901-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jewel-Osco opened its first store in Chicago, becoming the dominant supermarket chain in the region",
+    "date": "1899-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Dominick's Finer Foods opened its first store in Chicago, eventually becoming a major regional supermarket chain",
+    "date": "1918-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Aldi opened its first U.S. store in Iowa, beginning the German discount grocer's American expansion",
+    "date": "1976-06-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Trader Joe's opened its first Midwest store in Columbus, Ohio, bringing its unique grocery concept to the region",
+    "date": "2000-01-01",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Whole Foods Market opened its first Midwest store in Chicago, introducing natural and organic groceries to the region",
+    "date": "1998-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Mariano's Fresh Market opened its first store in Arlington Heights, Illinois, becoming a popular upscale grocery chain",
+    "date": "2010-11-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Meijer opened its first supercenter in Grand Rapids, Michigan, pioneering the one-stop shopping concept",
+    "date": "1962-01-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Menards opened its first home improvement store in Eau Claire, Wisconsin, becoming the dominant home improvement retailer in the Midwest",
+    "date": "1960-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Best Buy opened its first store in St. Paul, Minnesota, eventually becoming the largest electronics retailer in the United States",
+    "date": "1966-08-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "RadioShack opened its first store in Boston but became synonymous with electronics retailing in malls across the Midwest",
+    "date": "1921-01-01"
+  },
+  {
+    "fact": "Circuit City filed for bankruptcy, closing all stores and ending the competition that had defined consumer electronics retailing",
+    "date": "2008-11-10",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Sears filed for bankruptcy protection, marking the decline of the once-dominant Chicago retailer",
+    "date": "2018-10-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Tribune Tower was completed in Chicago, featuring stones from famous structures around the world embedded in its walls",
+    "date": "1925-07-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Tribune began publishing, eventually becoming one of the most influential newspapers in America",
+    "date": "1847-06-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Sun-Times began publishing as the Chicago Sun, later merging with the Times to create the city's tabloid daily",
+    "date": "1941-12-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Defender began publishing, becoming the most influential African American newspaper in the country",
+    "date": "1905-05-05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "WGN Radio began broadcasting in Chicago, with call letters standing for 'World's Greatest Newspaper'",
+    "date": "1924-03-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "WLS Radio signed on the air in Chicago, later becoming famous as the home of Dick Biondi and rock and roll radio",
+    "date": "1924-04-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "WBBM Radio became the first CBS affiliate, beginning Chicago's long relationship with network broadcasting",
+    "date": "1927-09-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "WGN-TV began broadcasting in Chicago, eventually becoming a superstation available nationwide via cable",
+    "date": "1948-04-05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "WTTW, Chicago's PBS station, began broadcasting, later producing shows like Siskel & Ebert",
+    "date": "1955-09-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Phil Donahue's talk show debuted in Dayton, Ohio, pioneering the audience participation format before moving to Chicago",
+    "date": "1967-11-06",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Jerry Springer's talk show debuted, eventually becoming infamous for its outrageous guests and on-air fights",
+    "date": "1991-09-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Siskel & Ebert at the Movies began airing from Chicago, with their 'two thumbs up' becoming a cultural touchstone",
+    "date": "1986-09-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Gene Siskel died of complications from brain surgery, ending one of television's most famous partnerships",
+    "date": "1999-02-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Roger Ebert died after a long battle with thyroid cancer, ending a career that had earned him a Pulitzer Prize",
+    "date": "2013-04-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Oprah Winfrey Show ended its 25-year run from Chicago, having become the most successful talk show in television history",
+    "date": "2011-05-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Jenny Jones Show taped its infamous episode that led to the murder of guest Scott Amedure",
+    "date": "1995-03-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jon Schmitt, appearing on Jenny Jones, murdered Scott Amedure three days after the taping in a case that highlighted talk show exploitation",
+    "date": "1995-03-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Bozo's Circus premiered in Chicago, becoming the longest-running locally produced children's show in television history",
+    "date": "1961-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Bozo's Circus ended its 40-year run on WGN-TV, marking the end of an era for Chicago children's television",
+    "date": "2001-06-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The soul train first appeared on WCIU-TV in Chicago before going national, becoming the longest-running first-run syndicated show in television history",
+    "date": "1970-08-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "American Bandstand began broadcasting from Philadelphia but its format influenced Chicago's own dance shows",
+    "date": "1952-10-07",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "MTV premiered, eventually changing music consumption and youth culture across the Midwest and nation",
+    "date": "1981-08-01",
+    "time_local": "00:01",
+    "time_utc": "05:01",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Real World: Chicago premiered on MTV, bringing reality television to the city",
+    "date": "2002-01-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "ER premiered on NBC, with its Chicago hospital setting making the city a backdrop for one of the most successful medical dramas",
+    "date": "1994-09-19",
+    "time_local": "22:00",
+    "time_utc": "03:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Good Wife premiered on CBS, depicting Chicago's political and legal scenes",
+    "date": "2009-09-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Chicago P.D. premiered on NBC, joining Chicago Fire and Chicago Med in the network's Chicago franchise",
+    "date": "2014-01-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Chicago Fire premiered on NBC, beginning a franchise of shows set in the city's emergency services",
+    "date": "2012-10-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Shameless premiered on Showtime, depicting life on Chicago's South Side through the dysfunctional Gallagher family",
+    "date": "2011-01-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Fugitive was filmed partly in Chicago, with its famous train wreck scene becoming one of the most spectacular practical effects in film history",
+    "date": "1993-08-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ferris Bueller's Day Off was released, showcasing Chicago landmarks and becoming a defining film of the 1980s",
+    "date": "1986-06-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Breakfast Club was released, with its suburban Chicago setting becoming iconic for a generation",
+    "date": "1985-02-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sixteen Candles was released, the first of John Hughes' beloved films set in suburban Chicago",
+    "date": "1984-05-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Home Alone was released, with its Chicago suburbs setting becoming instantly recognizable to audiences worldwide",
+    "date": "1990-11-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Dark Knight was filmed extensively in Chicago, transforming the city into Gotham",
+    "date": "2008-07-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Batman Begins used Chicago locations to portray Gotham City, beginning Christopher Nolan's acclaimed trilogy",
+    "date": "2005-06-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Transformers: Dark of the Moon filmed its climactic battle in Chicago, causing temporary street closures downtown",
+    "date": "2011-06-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Untouchables was released, depicting Al Capone's Chicago during Prohibition with Kevin Costner as Eliot Ness",
+    "date": "1987-06-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Public Enemies was released, with Johnny Depp portraying John Dillinger and scenes filmed at the actual Biograph Theater",
+    "date": "2009-07-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Road to Perdition was released, depicting 1930s Chicago gangland with Tom Hanks and Paul Newman",
+    "date": "2002-07-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Candyman was released, with its Cabrini-Green housing project setting bringing Chicago horror to the screen",
+    "date": "1992-10-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "High Fidelity was released, showcasing Chicago's Wicker Park neighborhood and record store culture",
+    "date": "2000-03-31",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Bob Newhart Show premiered, set in Chicago with Newhart playing a psychologist",
+    "date": "1972-09-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Married... with Children premiered, set in a fictional Chicago suburb and running for 11 seasons",
+    "date": "1987-04-05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Family Matters premiered, with Steve Urkel becoming one of the most iconic TV characters of the 1990s from fictional Chicago",
+    "date": "1989-09-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Perfect Strangers premiered, set in Chicago and eventually spinning off into Family Matters",
+    "date": "1986-03-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "WKRP in Cincinnati premiered, depicting life at a struggling radio station in Ohio",
+    "date": "1978-09-18",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "That '70s Show premiered, set in fictional Point Place, Wisconsin",
+    "date": "1998-08-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Happy Days premiered, set in 1950s Milwaukee and introducing the Fonz to American culture",
+    "date": "1974-01-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Laverne & Shirley premiered, a Happy Days spinoff set in 1950s Milwaukee",
+    "date": "1976-01-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Wonder Years premiered, partially filmed in the Chicago area",
+    "date": "1988-01-31",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Twin Peaks premiered, with its Pacific Northwest setting but Midwestern sensibility from creator David Lynch of Missoula, Montana",
+    "date": "1990-04-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Fargo premiered on FX, adapting the Coen Brothers film into a Minnesota-set anthology series",
+    "date": "2014-04-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Middle premiered, set in fictional Orson, Indiana, depicting middle-class Midwestern family life",
+    "date": "2009-09-30",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Parks and Recreation premiered, set in fictional Pawnee, Indiana",
+    "date": "2009-04-09",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Stranger Things premiered on Netflix, set in fictional Hawkins, Indiana, in the 1980s",
+    "date": "2016-07-15",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Freaks and Geeks premiered, set in suburban Detroit and becoming a cult classic despite its cancellation",
+    "date": "1999-09-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "8 Mile was released, depicting Eminem's Detroit upbringing and the city's hip-hop scene",
+    "date": "2002-11-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Gran Torino was released, with Clint Eastwood's character representing the decline of the auto industry in Highland Park, Michigan",
+    "date": "2008-12-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Roger & Me premiered, Michael Moore's documentary about GM plant closings in Flint, Michigan",
+    "date": "1989-09-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Bowling for Columbine was released, with significant portions filmed in Flint, Michigan, examining American gun culture",
+    "date": "2002-10-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Hoosiers was released, depicting Indiana high school basketball and becoming one of the most beloved sports films",
+    "date": "1986-11-14",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Breaking Away was released, set in Bloomington, Indiana, and depicting the Little 500 bicycle race",
+    "date": "1979-07-20",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Rudy was released, telling the true story of Daniel 'Rudy' Ruettiger's quest to play football for Notre Dame",
+    "date": "1993-10-13",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "A League of Their Own was released, depicting the All-American Girls Professional Baseball League that played throughout the Midwest",
+    "date": "1992-07-01",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Major League was released, set in Cleveland and featuring the fictional Indians' improbable run to the pennant",
+    "date": "1989-04-07",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Shawshank Redemption was filmed partly at the Ohio State Reformatory in Mansfield, Ohio",
+    "date": "1994-09-23",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "A Christmas Story was released, set in fictional Hohman, Indiana, based on Hammond, Indiana",
+    "date": "1983-11-18",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "A Christmas Story House in Cleveland opened as a museum, recreating the film's iconic setting",
+    "date": "2006-11-25",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Drew Carey Show premiered, set in Cleveland and featuring the city's landmarks",
+    "date": "1995-09-13",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Hot in Cleveland premiered, bringing Betty White and other actresses to a sitcom set in the city",
+    "date": "2010-06-16",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Cedar Point added Top Thrill Dragster, then the world's tallest and fastest roller coaster at 420 feet and 120 mph",
+    "date": "2003-05-04",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Cedar Point added Millennium Force, widely considered one of the best roller coasters in the world",
+    "date": "2000-05-13",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Six Flags Great America opened in Gurnee, Illinois, becoming the Chicago area's premier amusement park",
+    "date": "1976-05-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kings Island opened in Mason, Ohio, featuring the world's longest wooden roller coaster, The Beast",
+    "date": "1972-04-29",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Wisconsin Dells became known as the 'Waterpark Capital of the World' with the opening of Noah's Ark",
+    "date": "1979-06-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Indiana Dunes National Lakeshore was established, later becoming Indiana Dunes National Park",
+    "date": "1966-11-05",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Indiana Dunes National Lakeshore was redesignated as Indiana Dunes National Park, the state's first national park",
+    "date": "2019-02-15",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Starved Rock State Park was established in Illinois, featuring 18 canyons carved by glacial meltwater",
+    "date": "1911-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Boundary Waters Canoe Area Wilderness was established in Minnesota, protecting over a million acres of pristine lakes and forests",
+    "date": "1978-10-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Voyageurs National Park was established in Minnesota, the only national park in the contiguous U.S. accessible primarily by water",
+    "date": "1975-04-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Isle Royale National Park was established on Lake Superior, featuring the world's longest predator-prey study of wolves and moose",
+    "date": "1940-04-03",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Pictured Rocks National Lakeshore was established on Lake Superior, the first national lakeshore in the United States",
+    "date": "1966-10-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Sleeping Bear Dunes National Lakeshore was established in Michigan, later voted the 'Most Beautiful Place in America' by Good Morning America viewers",
+    "date": "1970-10-21",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Cuyahoga Valley National Park was established in Ohio, protecting 33,000 acres of natural and cultural resources",
+    "date": "2000-10-11",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Gateway Arch National Park was redesignated from Jefferson National Expansion Memorial, becoming Missouri's first national park",
+    "date": "2018-02-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Lincoln Home National Historic Site was established in Springfield, Illinois, preserving the only home Lincoln ever owned",
+    "date": "1971-08-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Lincoln Presidential Library and Museum opened in Springfield, Illinois, becoming one of the most visited presidential libraries",
+    "date": "2005-04-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Herbert Hoover Presidential Library and Museum opened in West Branch, Iowa, the first presidential library west of the Mississippi",
+    "date": "1962-08-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Harry S. Truman Presidential Library and Museum opened in Independence, Missouri",
+    "date": "1957-07-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Dwight D. Eisenhower Presidential Library and Museum opened in Abilene, Kansas",
+    "date": "1962-05-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Gerald R. Ford Presidential Museum opened in Grand Rapids, Michigan",
+    "date": "1981-09-18",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ronald Reagan Presidential Library was established, though located in California rather than his native Illinois",
+    "date": "1991-11-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Barack Obama Presidential Center groundbreaking took place in Chicago's Jackson Park",
+    "date": "2021-09-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Henry Ford Museum opened in Dearborn, Michigan, preserving American innovation and ingenuity",
+    "date": "1929-10-21",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Greenfield Village opened at The Henry Ford, featuring historic buildings from across America relocated to Dearborn",
+    "date": "1933-06-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Institute of Arts opened its current building, housing one of the largest and most significant art collections in the United States",
+    "date": "1927-10-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Institute of Arts unveiled Diego Rivera's 'Detroit Industry Murals,' among the most important works of art in North America",
+    "date": "1933-03-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Motown Historical Museum (Hitsville U.S.A.) opened in Detroit, preserving the studio where countless hits were recorded",
+    "date": "1985-01-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The National Museum of African American History and Culture opened in Washington, D.C., with significant holdings related to Chicago and the Great Migration",
+    "date": "2016-09-24",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The DuSable Museum of African American History opened in Chicago, becoming the oldest independent museum of Black American history",
+    "date": "1961-02-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago History Museum reopened after extensive renovations, chronicling the city's past from its founding to the present",
+    "date": "2006-09-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Illinois Holocaust Museum and Education Center opened in Skokie, Illinois, established by Holocaust survivors who had settled in the area",
+    "date": "2009-04-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Neo-Nazis announced plans to march in Skokie, Illinois, home to many Holocaust survivors, leading to a landmark First Amendment case",
+    "date": "1977-03-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The National Civil Rights Museum opened in Memphis, Tennessee, at the site of Martin Luther King Jr.'s assassination, but with significant connections to Chicago's civil rights history",
+    "date": "1991-09-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The National Veterans Memorial and Museum opened in Columbus, Ohio",
+    "date": "2018-10-27",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The National Underground Railroad Freedom Center opened in Cincinnati, Ohio",
+    "date": "2004-08-23",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Muhammad Ali Center opened in Louisville, Kentucky, celebrating the boxing champion's life and legacy",
+    "date": "2005-11-19",
+    "timezone": "America/Kentucky/Louisville"
+  },
+  {
+    "fact": "The Louisville Slugger Museum & Factory opened in Kentucky, featuring the world's largest baseball bat",
+    "date": "1996-07-01",
+    "timezone": "America/Kentucky/Louisville"
+  },
+  {
+    "fact": "Churchill Downs hosted its first Kentucky Derby, beginning the most famous tradition in American horse racing",
+    "date": "1875-05-17",
+    "timezone": "America/Kentucky/Louisville"
+  },
+  {
+    "fact": "Secretariat won the Kentucky Derby in record time of 1:59.40, a record that still stands",
+    "date": "1973-05-05",
+    "time_local": "17:30",
+    "time_utc": "22:30",
+    "timezone": "America/Kentucky/Louisville"
+  },
+  {
+    "fact": "The Indianapolis Children's Museum opened, eventually becoming the world's largest children's museum",
+    "date": "1925-01-01",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "The Eiteljorg Museum of American Indians and Western Art opened in Indianapolis",
+    "date": "1989-06-24",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "The NCAA moved its headquarters from Kansas City to Indianapolis, cementing Indiana as the basketball capital of America",
+    "date": "1999-08-01",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "The NBA All-Star Game was held in Indianapolis, showcasing the city as a premier basketball destination",
+    "date": "1985-02-10",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "The Final Four was held in Indianapolis for the first time, beginning the city's long relationship with the NCAA Tournament",
+    "date": "1980-03-22",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Lucas Oil Stadium opened in Indianapolis, becoming home to the Colts and host of Super Bowl XLVI",
+    "date": "2008-08-16",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "Super Bowl XLVI was held at Lucas Oil Stadium in Indianapolis, with the New York Giants defeating the New England Patriots",
+    "date": "2012-02-05",
+    "time_local": "18:30",
+    "time_utc": "23:30",
+    "timezone": "America/Indiana/Indianapolis"
+  },
+  {
+    "fact": "The Minnesota Vikings played their final game at the Metrodome before it was demolished",
+    "date": "2013-12-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "U.S. Bank Stadium opened in Minneapolis, featuring a striking angular design and transparent roof",
+    "date": "2016-07-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Super Bowl LII was held in Minneapolis, with the Philadelphia Eagles defeating the New England Patriots",
+    "date": "2018-02-04",
+    "time_local": "17:30",
+    "time_utc": "23:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Metrodome roof collapsed under the weight of snow, forcing the Minnesota Vikings to play a home game in Detroit",
+    "date": "2010-12-12",
+    "time_local": "05:00",
+    "time_utc": "11:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Target Field opened in Minneapolis, bringing outdoor baseball back to Minnesota after 28 years in the Metrodome",
+    "date": "2010-04-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Miller Park opened in Milwaukee, featuring a retractable roof that could close in 10 minutes",
+    "date": "2001-04-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Three construction workers were killed when a crane collapsed during Miller Park construction in Milwaukee",
+    "date": "1999-07-14",
+    "time_local": "17:12",
+    "time_utc": "22:12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Comerica Park opened in Detroit, replacing historic Tiger Stadium",
+    "date": "2000-04-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Tiger Stadium closed after 104 years, with the final game drawing 43,356 fans",
+    "date": "1999-09-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Progressive Field (then Jacobs Field) opened in Cleveland, sparking a renaissance in baseball stadium design",
+    "date": "1994-04-04",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Great American Ball Park opened in Cincinnati, featuring views of the Ohio River",
+    "date": "2003-03-31",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Busch Stadium III opened in St. Louis, replacing the cookie-cutter stadium that had stood since 1966",
+    "date": "2006-04-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Guaranteed Rate Field (then Comiskey Park II) opened in Chicago, replacing the original Comiskey Park",
+    "date": "1991-04-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The original Comiskey Park was demolished after 81 years, ending an era in Chicago sports history",
+    "date": "1991-12-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The United Center opened in Chicago, becoming home to the Bulls and Blackhawks",
+    "date": "1994-08-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Chicago Stadium closed after 65 years, with Frank Sinatra performing the final concert",
+    "date": "1994-04-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Wrigley Field celebrated its 100th anniversary with a ceremony before the game against the Arizona Diamondbacks",
+    "date": "2014-04-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Cubs announced a $575 million renovation plan for Wrigley Field, the largest in the stadium's history",
+    "date": "2013-04-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Wrigley Field's iconic marquee was designated a Chicago landmark, protecting it from future modifications",
+    "date": "2004-02-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The goat curse allegedly began when Billy Sianis was asked to leave Wrigley Field with his goat during the 1945 World Series",
+    "date": "1945-10-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Steve Bartman interfered with a foul ball at Wrigley Field, and the Cubs went on to lose the NLCS to the Marlins",
+    "date": "2003-10-14",
+    "time_local": "20:15",
+    "time_utc": "01:15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Cubs organization publicly absolved Steve Bartman by giving him a World Series ring after the 2016 championship",
+    "date": "2017-07-31",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Billy Goat curse was broken when the Cubs won the World Series for the first time in 108 years",
+    "date": "2016-11-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "An estimated 5 million people attended the Cubs World Series victory parade in Chicago, the seventh-largest gathering in human history",
+    "date": "2016-11-04",
+    "time_local": "10:00",
+    "time_utc": "16:00",
+    "timezone": "America/Chicago"
+  }
+]
