@@ -1,0 +1,2533 @@
+[
+  {
+    "fact": "The Chicago Bears were founded as the Decatur Staleys by A.E. Staley",
+    "date": "1919-09-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Decatur Staleys moved to Chicago and played their first game at Cubs Park (later Wrigley Field)",
+    "date": "1921-10-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears received their current name, chosen by owner George Halas",
+    "date": "1922-01-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears won their first NFL Championship, defeating the New York Giants 23-21 at Wrigley Field",
+    "date": "1933-12-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Black Hawks won their first Stanley Cup, defeating the Detroit Red Wings 3-1 in the series with a 1-0 double overtime victory in Game 4",
+    "date": "1934-04-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Mush March scored the Stanley Cup-winning goal for the Chicago Black Hawks in double overtime against Detroit",
+    "date": "1934-04-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears defeated the Washington Redskins 73-0 in the NFL Championship Game, the most lopsided game in NFL history",
+    "date": "1940-12-08",
+    "time_local": "14:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Wrigley Field hosted its first NFL Championship Game as the Bears defeated the New York Giants",
+    "date": "1933-12-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Black Hawks won their second Stanley Cup, defeating the Toronto Maple Leafs 4-1 in Game 4",
+    "date": "1938-04-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears won the NFL Championship, defeating the New York Giants 14-10 at Wrigley Field in the famous 'Sneakers Game'",
+    "date": "1934-12-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears won their second consecutive NFL Championship, defeating the New York Giants 37-9",
+    "date": "1941-12-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears won the NFL Championship, defeating the New York Giants 24-14",
+    "date": "1946-12-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cardinals won the NFL Championship, defeating the Philadelphia Eagles 28-21 at Comiskey Park",
+    "date": "1947-12-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ernie Nevers of the Chicago Cardinals scored all 40 points (6 TDs, 4 PATs) in a 40-6 victory over the Bears, an NFL record that still stands",
+    "date": "1929-11-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs won the World Series, defeating the Detroit Tigers 2-0 in Game 5 to win their last championship until 2016",
+    "date": "1908-10-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs won the World Series Game 4, defeating the Detroit Tigers 3-0",
+    "date": "1908-10-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox lost the World Series to the Cincinnati Reds amid the Black Sox Scandal, with eight players later banned for fixing games",
+    "date": "1919-10-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Eight Chicago White Sox players, including Shoeless Joe Jackson, were indicted by a grand jury in connection with the Black Sox Scandal",
+    "date": "1920-09-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Commissioner Kenesaw Mountain Landis permanently banned the eight Black Sox players from baseball despite their acquittal",
+    "date": "1921-08-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Stadium opened, becoming home to the Blackhawks and later the Bulls",
+    "date": "1929-03-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Dick Butkus was born in Chicago, future Hall of Fame linebacker for the Bears and Illinois Fighting Illini",
+    "date": "1942-12-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Gale Sayers was born in Wichita, Kansas, future Hall of Fame running back for the Chicago Bears",
+    "date": "1943-05-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Black Hawks won their third Stanley Cup, defeating the Detroit Red Wings 5-1 in Game 6",
+    "date": "1961-04-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Bobby Hull and Stan Mikita made their first Stanley Cup Finals appearances as the Blackhawks won the championship",
+    "date": "1961-04-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Loyola Ramblers won the NCAA Men's Basketball Championship, defeating Cincinnati 60-58 in overtime at Louisville",
+    "date": "1963-03-23",
+    "time_local": "21:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Loyola Ramblers became the first team to start four Black players in an NCAA championship game",
+    "date": "1963-03-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Vic Rouse's tip-in at the buzzer in overtime won the NCAA Championship for Loyola over Cincinnati",
+    "date": "1963-03-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears won the NFL Championship, defeating the New York Giants 14-10 at Wrigley Field in bitter cold",
+    "date": "1963-12-29",
+    "time_local": "12:05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Illinois Fighting Illini defeated Washington 17-7 in the Rose Bowl",
+    "date": "1964-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Dick Butkus was named MVP of the 1964 Rose Bowl as Illinois defeated Washington",
+    "date": "1964-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears drafted Dick Butkus 3rd overall and Gale Sayers 4th overall in one of the greatest draft classes in NFL history",
+    "date": "1965-11-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Gale Sayers scored a rookie-record 22 touchdowns in his first NFL season with the Bears",
+    "date": "1965-12-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Gale Sayers scored six touchdowns against the San Francisco 49ers, tying an NFL record",
+    "date": "1965-12-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Gale Sayers won NFL Rookie of the Year with the Chicago Bears",
+    "date": "1965-12-31",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ernie Banks of the Cubs was named to his 14th and final All-Star Game",
+    "date": "1967-07-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan was born in Brooklyn, New York, future Bulls legend",
+    "date": "1963-02-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls were founded as an NBA expansion team",
+    "date": "1966-01-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls played their first game, losing to the St. Louis Hawks 104-97",
+    "date": "1966-10-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Walter Payton was born in Columbia, Mississippi, future Bears legend known as 'Sweetness'",
+    "date": "1954-07-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Gale Sayers won the NFL Comeback Player of the Year after returning from knee surgery to lead the league in rushing",
+    "date": "1969-12-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Brian Piccolo of the Chicago Bears passed away from embryonal cell carcinoma at age 26",
+    "date": "1970-06-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs traded Ken Holtzman to the Oakland A's for outfielder Rick Monday",
+    "date": "1971-11-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears retired Gale Sayers' number 40",
+    "date": "1972-09-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears retired Dick Butkus' number 51 after his final season",
+    "date": "1973-12-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears drafted Walter Payton with the 4th overall pick from Jackson State",
+    "date": "1975-01-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Walter Payton rushed for 679 yards in his rookie season with the Chicago Bears",
+    "date": "1975-12-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Walter Payton set an NFL single-game rushing record with 275 yards against the Minnesota Vikings",
+    "date": "1977-11-20",
+    "time_local": "12:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Walter Payton won the NFL MVP award after rushing for 1,852 yards",
+    "date": "1977-12-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Gale Sayers was inducted into the Pro Football Hall of Fame at age 34, the youngest inductee ever",
+    "date": "1977-07-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Dick Butkus was inducted into the Pro Football Hall of Fame",
+    "date": "1979-07-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Sting won their first NASL Soccer Bowl championship",
+    "date": "1981-09-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls drafted Michael Jordan with the 3rd overall pick in the NBA Draft",
+    "date": "1984-06-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan made his NBA debut for the Chicago Bulls against the Washington Bullets, scoring 16 points",
+    "date": "1984-10-26",
+    "time_local": "19:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan was named NBA Rookie of the Year, averaging 28.2 points per game",
+    "date": "1985-05-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears recorded 'The Super Bowl Shuffle' music video, later going gold",
+    "date": "1985-12-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Walter Payton broke Jim Brown's all-time rushing record with a 6-yard run against the New Orleans Saints",
+    "date": "1984-10-07",
+    "time_local": "12:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears finished the regular season 15-1, one of the greatest seasons in NFL history",
+    "date": "1985-12-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The 1985 Chicago Bears shut out the New York Giants 21-0 in the NFC Divisional Playoff",
+    "date": "1986-01-05",
+    "time_local": "12:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears shut out the Los Angeles Rams 24-0 in the NFC Championship Game",
+    "date": "1986-01-12",
+    "time_local": "12:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears won Super Bowl XX, defeating the New England Patriots 46-10 in New Orleans",
+    "date": "1986-01-26",
+    "time_local": "17:00",
+    "time_utc": "23:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Richard Dent was named Super Bowl XX MVP with 1.5 sacks and 2 forced fumbles",
+    "date": "1986-01-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "William 'The Refrigerator' Perry scored a 1-yard touchdown run in Super Bowl XX",
+    "date": "1986-01-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears' defense allowed only 10 points in Super Bowl XX, dominating the Patriots",
+    "date": "1986-01-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Mike Ditka became the second person to win a Super Bowl as both a player and head coach",
+    "date": "1986-01-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan scored 63 points against the Boston Celtics in a playoff game, an NBA playoff record",
+    "date": "1986-04-20",
+    "time_local": "13:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs installed lights at Wrigley Field, ending 74 years of day-only baseball",
+    "date": "1988-08-08",
+    "time_local": "18:09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The first official night game at Wrigley Field was played against the New York Mets",
+    "date": "1988-08-09",
+    "time_local": "19:05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan won his first NBA scoring title, averaging 35.0 points per game",
+    "date": "1987-04-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan won the NBA MVP award for the first time",
+    "date": "1988-05-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan hit 'The Shot' - a buzzer-beater over Craig Ehlo to eliminate the Cleveland Cavaliers in the playoffs",
+    "date": "1989-05-07",
+    "time_local": "15:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls hired Phil Jackson as head coach",
+    "date": "1989-07-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Walter Payton retired as the NFL's all-time leading rusher with 16,726 yards",
+    "date": "1988-01-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan won the NBA Slam Dunk Contest at Chicago Stadium",
+    "date": "1988-02-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Comiskey Park, home of the White Sox since 1910, hosted its final game",
+    "date": "1990-09-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "New Comiskey Park (later U.S. Cellular Field, now Guaranteed Rate Field) opened as the White Sox new home",
+    "date": "1991-04-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls won their first NBA Championship, defeating the Los Angeles Lakers 108-101 in Game 5 of the NBA Finals",
+    "date": "1991-06-12",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan was named NBA Finals MVP as the Bulls won their first championship",
+    "date": "1991-06-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan averaged 31.2 points per game in the 1991 NBA Finals",
+    "date": "1991-06-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls defeated the Portland Trail Blazers 97-93 in Game 6 to win their second consecutive NBA Championship",
+    "date": "1992-06-14",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan scored 35 points including six first-half three-pointers in Game 1 of the 1992 Finals, doing his famous 'shrug' to the broadcast camera",
+    "date": "1992-06-03",
+    "time_local": "20:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls became the first team since the 1969 Celtics to repeat as NBA champions",
+    "date": "1992-06-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Scottie Pippen was named to the NBA All-Defensive First Team for the first time",
+    "date": "1992-05-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls won their third consecutive NBA Championship, defeating the Phoenix Suns 99-98 in Game 6",
+    "date": "1993-06-20",
+    "time_local": "20:30",
+    "time_utc": "01:30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "John Paxson hit a three-pointer with 3.9 seconds left to win Game 6 of the 1993 NBA Finals for the Bulls",
+    "date": "1993-06-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls became the third team in NBA history to win three consecutive championships",
+    "date": "1993-06-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan announced his retirement from basketball, citing the loss of desire to play",
+    "date": "1993-10-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Stadium, home to the Bulls and Blackhawks since 1929, hosted its final event",
+    "date": "1994-04-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The United Center opened as the new home of the Chicago Bulls and Blackhawks",
+    "date": "1994-08-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Michael Jordan statue was unveiled outside the United Center",
+    "date": "1994-11-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan announced his return to basketball with a two-word press release: 'I'm back'",
+    "date": "1995-03-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan played his first game back with the Bulls, wearing number 45 against the Indiana Pacers",
+    "date": "1995-03-19",
+    "time_local": "18:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan scored 55 points against the New York Knicks at Madison Square Garden in his fifth game back",
+    "date": "1995-03-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Walter Payton was inducted into the Pro Football Hall of Fame",
+    "date": "1993-07-31",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls acquired Dennis Rodman from the San Antonio Spurs",
+    "date": "1995-10-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls finished the regular season 72-10, breaking the NBA record for most wins in a season",
+    "date": "1996-04-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls defeated the Seattle SuperSonics 87-75 in Game 6 to win their fourth NBA Championship",
+    "date": "1996-06-16",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan won his fourth NBA Finals MVP award as the Bulls completed their 72-10 championship season",
+    "date": "1996-06-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Dennis Rodman led the NBA in rebounding for the fifth consecutive season",
+    "date": "1996-04-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan won his fourth regular season MVP award",
+    "date": "1996-05-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Fire FC was founded as an MLS expansion team",
+    "date": "1997-10-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls won their fifth NBA Championship, defeating the Utah Jazz 90-86 in Game 6",
+    "date": "1997-06-13",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan battled through flu-like symptoms to score 38 points in the famous 'Flu Game' of the 1997 Finals",
+    "date": "1997-06-11",
+    "time_local": "19:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Steve Kerr hit the championship-winning shot in Game 6 of the 1997 NBA Finals after a pass from Michael Jordan",
+    "date": "1997-06-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Fire FC won the MLS Cup in their inaugural season, defeating D.C. United 2-0",
+    "date": "1998-10-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kerry Wood struck out 20 batters in a game against the Houston Astros, tying the major league record",
+    "date": "1998-05-06",
+    "time_local": "13:20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sammy Sosa hit his 62nd home run of the season, surpassing Roger Maris's record (later surpassed by McGwire)",
+    "date": "1998-09-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sammy Sosa was named NL MVP after hitting 66 home runs and driving in 158 RBIs",
+    "date": "1998-11-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls won their sixth NBA Championship, defeating the Utah Jazz 87-86 in Game 6",
+    "date": "1998-06-14",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan hit 'The Last Shot' - a 20-foot jumper with 5.2 seconds left to win the 1998 NBA Finals",
+    "date": "1998-06-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan won his sixth NBA Finals MVP award in his final game as a Bull",
+    "date": "1998-06-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Phil Jackson coached his final game with the Bulls, ending a dynasty with six championships in eight years",
+    "date": "1998-06-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Walter Payton passed away from bile duct cancer at age 45",
+    "date": "1999-11-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sammy Sosa hit 63 home runs, his second consecutive season with 60+ homers",
+    "date": "1999-09-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sammy Sosa became the first player to hit 60 home runs in back-to-back seasons",
+    "date": "1999-09-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sammy Sosa hit 64 home runs in the 2001 season, his third 60+ home run season",
+    "date": "2001-10-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears' Brian Urlacher was named NFL Defensive Rookie of the Year",
+    "date": "2001-01-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Sky were founded as a WNBA expansion team",
+    "date": "2006-10-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox won Game 4 of the World Series, completing a four-game sweep of the Houston Astros to win their first title since 1917",
+    "date": "2005-10-26",
+    "time_local": "19:00",
+    "time_utc": "00:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jermaine Dye was named World Series MVP as the White Sox ended an 88-year championship drought",
+    "date": "2005-10-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox won Game 3 of the 2005 World Series 7-5 in 14 innings, the longest game in World Series history by time",
+    "date": "2005-10-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Mark Buehrle pitched a perfect game for the White Sox against the Tampa Bay Rays",
+    "date": "2009-07-23",
+    "time_local": "19:11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Mark Buehrle threw a no-hitter against the Texas Rangers for the White Sox",
+    "date": "2007-04-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks drafted Patrick Kane with the 1st overall pick",
+    "date": "2007-06-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Patrick Kane made his NHL debut for the Chicago Blackhawks against the Minnesota Wild",
+    "date": "2007-10-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Patrick Kane won the Calder Trophy as NHL Rookie of the Year",
+    "date": "2008-06-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jonathan Toews was named captain of the Chicago Blackhawks at age 20",
+    "date": "2008-07-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks won the Stanley Cup, defeating the Philadelphia Flyers 4-3 in overtime in Game 6",
+    "date": "2010-06-09",
+    "time_local": "19:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Patrick Kane scored the Stanley Cup-winning goal in overtime, ending Chicago's 49-year championship drought",
+    "date": "2010-06-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jonathan Toews won the Conn Smythe Trophy as playoff MVP",
+    "date": "2010-06-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks won their first Stanley Cup since 1961",
+    "date": "2010-06-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Derrick Rose became the youngest NBA MVP in history at age 22",
+    "date": "2011-05-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears retired Walter Payton's number 34",
+    "date": "1987-11-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks won the Stanley Cup, defeating the Boston Bruins 3-2 in Game 6",
+    "date": "2013-06-24",
+    "time_local": "19:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Patrick Kane won the Conn Smythe Trophy as playoff MVP for the 2013 Stanley Cup championship",
+    "date": "2013-06-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Bryan Bickell and Dave Bolland scored goals 17 seconds apart in the final 76 seconds to win Game 6 of the 2013 Stanley Cup Finals",
+    "date": "2013-06-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks won the Stanley Cup, defeating the Tampa Bay Lightning 2-0 in Game 6",
+    "date": "2015-06-15",
+    "time_local": "19:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Duncan Keith won the Conn Smythe Trophy as playoff MVP for the 2015 Stanley Cup championship",
+    "date": "2015-06-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks won their sixth Stanley Cup in franchise history",
+    "date": "2015-06-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Patrick Kane became the first American to win the Hart Trophy as NHL MVP",
+    "date": "2016-06-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Patrick Kane won the Art Ross Trophy as NHL scoring champion with 106 points",
+    "date": "2016-04-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs won the National League pennant, defeating the Los Angeles Dodgers in the NLCS",
+    "date": "2016-10-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs won Game 7 of the World Series 8-7 in 10 innings against the Cleveland Indians, ending a 108-year championship drought",
+    "date": "2016-11-02",
+    "time_local": "19:08",
+    "time_utc": "00:08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ben Zobrist was named World Series MVP, including the go-ahead RBI double in Game 7",
+    "date": "2016-11-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs ended the longest championship drought in North American professional sports history at 108 years",
+    "date": "2016-11-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kris Bryant fielded the final out of Game 7 and threw to Anthony Rizzo to clinch the Cubs' World Series victory",
+    "date": "2016-11-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Cubs held a victory parade in Chicago with an estimated 5 million people attending, one of the largest gatherings in human history",
+    "date": "2016-11-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Loyola Ramblers reached the Final Four for the first time since 1963, led by Sister Jean",
+    "date": "2018-03-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Loyola Ramblers defeated Kansas State 78-62 to advance to the Final Four",
+    "date": "2018-03-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Sky won the WNBA Championship, defeating the Phoenix Mercury 80-74 in Game 4",
+    "date": "2021-10-17",
+    "time_local": "15:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kahleah Copper was named WNBA Finals MVP as the Chicago Sky won their first championship",
+    "date": "2021-10-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Candace Parker won a WNBA championship with her hometown Chicago Sky",
+    "date": "2021-10-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears were founding members of the American Professional Football Association, which became the NFL",
+    "date": "1920-09-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Soldier Field opened as a multi-purpose stadium, later becoming home to the Bears",
+    "date": "1924-10-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Wrigley Field opened as Weeghman Park, home of the Chicago Federals baseball team",
+    "date": "1914-04-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs began playing at Wrigley Field (then Cubs Park)",
+    "date": "1916-04-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Wrigley Field was renamed from Cubs Park to honor chewing gum magnate William Wrigley Jr.",
+    "date": "1926-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jack Dempsey defeated Gene Tunney in their first fight, known as 'The Long Count Fight', at Soldier Field",
+    "date": "1927-09-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears moved to Soldier Field from Wrigley Field",
+    "date": "1971-09-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ernie Banks was inducted into the Baseball Hall of Fame",
+    "date": "1977-08-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ernie Banks hit his 500th career home run for the Chicago Cubs",
+    "date": "1970-05-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ernie Banks won his first NL MVP award with the Cubs, becoming the first player from a sub-.500 team to win the award",
+    "date": "1958-11-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ernie Banks won his second consecutive NL MVP award with the Cubs",
+    "date": "1959-11-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ernie Banks retired after 19 seasons with the Cubs, having hit 512 home runs",
+    "date": "1971-09-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs retired Ernie Banks' number 14",
+    "date": "1982-08-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ron Santo was posthumously inducted into the Baseball Hall of Fame",
+    "date": "2012-01-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Bobby Hull became the first NHL player to score more than 50 goals in a season, scoring 54 goals",
+    "date": "1966-03-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Stan Mikita won the Hart Trophy, Art Ross Trophy, and Lady Byng Trophy in the same season, a feat he repeated the following year",
+    "date": "1967-05-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Bobby Hull signed with the Winnipeg Jets of the WHA, leaving the Blackhawks",
+    "date": "1972-06-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Stan Mikita retired after 22 seasons with the Chicago Blackhawks, all with the same team",
+    "date": "1980-04-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Bobby Hull was inducted into the Hockey Hall of Fame",
+    "date": "1983-08-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Stan Mikita was inducted into the Hockey Hall of Fame",
+    "date": "1983-08-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks retired Bobby Hull's number 9",
+    "date": "1983-12-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks retired Stan Mikita's number 21",
+    "date": "1980-10-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Bobby Hull statue was unveiled outside the United Center",
+    "date": "2011-10-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Stan Mikita statue was unveiled outside the United Center",
+    "date": "2011-10-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Northwestern Wildcats football won the Big Ten Conference championship outright for the first time since 1936",
+    "date": "1995-11-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Northwestern played in the Rose Bowl for the first time since 1949, losing to USC 41-32",
+    "date": "1996-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "DePaul Blue Demons basketball reached the Final Four for the first time",
+    "date": "1979-03-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls played their first game at the United Center",
+    "date": "1994-11-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks played their first game at the United Center",
+    "date": "1994-09-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan scored his 30,000th career point against the San Antonio Spurs",
+    "date": "2002-01-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan played his final NBA game, scoring 15 points for the Washington Wizards against the Philadelphia 76ers",
+    "date": "2003-04-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan was inducted into the Basketball Hall of Fame",
+    "date": "2009-09-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Scottie Pippen was inducted into the Basketball Hall of Fame",
+    "date": "2010-08-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls retired Michael Jordan's number 23",
+    "date": "1994-11-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls retired Scottie Pippen's number 33",
+    "date": "2005-12-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Phil Jackson was inducted into the Basketball Hall of Fame",
+    "date": "2007-09-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Mike Ditka was inducted into the Pro Football Hall of Fame",
+    "date": "1988-07-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears retired Mike Ditka's number 89",
+    "date": "1988-12-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "George Halas, founder and long-time coach of the Bears, passed away at age 88",
+    "date": "1983-10-31",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "George Halas was inducted into the Pro Football Hall of Fame as a charter member",
+    "date": "1963-09-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Marathon was established as an annual race",
+    "date": "1977-09-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Khalid Khannouchi set a world record at the Chicago Marathon with a time of 2:05:42",
+    "date": "1999-10-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Paula Radcliffe set a world record at the Chicago Marathon with a time of 2:17:18",
+    "date": "2002-10-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Fire FC won the U.S. Open Cup in their inaugural season, completing a domestic double",
+    "date": "1998-10-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Sting won their second NASL Soccer Bowl championship",
+    "date": "1984-10-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Sky played their first WNBA game",
+    "date": "2006-05-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Brian Urlacher was inducted into the Pro Football Hall of Fame",
+    "date": "2018-08-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Mike Singletary was inducted into the Pro Football Hall of Fame",
+    "date": "1998-08-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears retired Mike Singletary's number 50",
+    "date": "1994-10-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Richard Dent was inducted into the Pro Football Hall of Fame",
+    "date": "2011-08-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Dan Hampton was inducted into the Pro Football Hall of Fame",
+    "date": "2002-08-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "George McAfee was inducted into the Pro Football Hall of Fame",
+    "date": "1966-09-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sid Luckman of the Chicago Bears threw 7 touchdown passes in a single game against the New York Giants, an NFL record",
+    "date": "1943-11-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears won the NFL Championship, defeating the Washington Redskins 41-21",
+    "date": "1943-12-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Red Grange, 'The Galloping Ghost', was signed by the Chicago Bears",
+    "date": "1925-11-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Red Grange was inducted into the Pro Football Hall of Fame as a charter member",
+    "date": "1963-09-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears retired Red Grange's number 77",
+    "date": "1994-10-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Bronko Nagurski was inducted into the Pro Football Hall of Fame as a charter member",
+    "date": "1963-09-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears retired Bronko Nagurski's number 3",
+    "date": "1994-10-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The White Sox's Carlton Fisk hit his 352nd career home run as a catcher, breaking the record",
+    "date": "1990-08-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Carlton Fisk was inducted into the Baseball Hall of Fame",
+    "date": "2000-07-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox retired Carlton Fisk's number 72",
+    "date": "1997-09-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Frank Thomas of the White Sox was named AL MVP for the first time",
+    "date": "1993-11-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Frank Thomas of the White Sox won his second consecutive AL MVP award",
+    "date": "1994-11-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Frank Thomas was inducted into the Baseball Hall of Fame",
+    "date": "2014-07-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox retired Frank Thomas's number 35",
+    "date": "2010-08-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs traded Lou Brock to the St. Louis Cardinals, one of the most lopsided trades in baseball history",
+    "date": "1964-06-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Billy Williams set an NL consecutive games played record of 1,117 games with the Cubs",
+    "date": "1970-09-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Billy Williams was inducted into the Baseball Hall of Fame",
+    "date": "1987-07-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs retired Billy Williams' number 26",
+    "date": "1987-08-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Fergie Jenkins won the Cy Young Award with the Chicago Cubs",
+    "date": "1971-11-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Fergie Jenkins was inducted into the Baseball Hall of Fame",
+    "date": "1991-07-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs retired Fergie Jenkins' number 31",
+    "date": "2009-05-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ryne Sandberg was named NL MVP with the Chicago Cubs",
+    "date": "1984-11-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ryne Sandberg hit two home runs off Bruce Sutter in 'The Sandberg Game' against the Cardinals",
+    "date": "1984-06-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ryne Sandberg was inducted into the Baseball Hall of Fame",
+    "date": "2005-07-31",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs retired Ryne Sandberg's number 23",
+    "date": "2005-08-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Andre Dawson of the Cubs was named NL MVP despite playing for a last-place team",
+    "date": "1987-11-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Greg Maddux of the Cubs won his first Cy Young Award",
+    "date": "1992-11-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Curse of the Billy Goat was placed on the Cubs during the 1945 World Series",
+    "date": "1945-10-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs lost the World Series to the Detroit Tigers, beginning a 71-year World Series drought",
+    "date": "1945-10-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Steve Bartman interfered with a foul ball in the NLCS, and the Cubs lost the series to the Marlins",
+    "date": "2003-10-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Carlos Zambrano threw a no-hitter for the Cubs against the Houston Astros in Milwaukee",
+    "date": "2008-09-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jake Arrieta threw a no-hitter for the Cubs against the Los Angeles Dodgers",
+    "date": "2015-08-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jake Arrieta won the NL Cy Young Award with the Cubs",
+    "date": "2015-11-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jake Arrieta threw his second career no-hitter for the Cubs against the Cincinnati Reds",
+    "date": "2016-04-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Anthony Rizzo was named NLCS MVP as the Cubs advanced to their first World Series since 1945",
+    "date": "2016-10-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jon Lester earned the win in Game 7 of the 2016 World Series for the Cubs",
+    "date": "2016-11-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Dexter Fowler hit a leadoff home run in Game 7 of the 2016 World Series for the Cubs",
+    "date": "2016-11-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "David Ross hit a home run in his final career at-bat in Game 7 of the 2016 World Series",
+    "date": "2016-11-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kris Bryant was named NL MVP with the Chicago Cubs",
+    "date": "2016-11-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kris Bryant was named NL Rookie of the Year with the Cubs",
+    "date": "2015-11-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs won the NL Central Division for the first time in their history",
+    "date": "2003-09-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs advanced to the NLCS for the first time since 1984",
+    "date": "2003-10-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kerry Wood saved the final game of the 2003 NLDS, clinching the Cubs' first playoff series win since 1908",
+    "date": "2003-10-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox won their first playoff game since 1959",
+    "date": "1983-10-05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox won the AL West Division for the first time",
+    "date": "1983-09-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Paul Konerko hit a grand slam in Game 2 of the 2005 World Series",
+    "date": "2005-10-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Scott Podsednik hit a walk-off home run in Game 2 of the 2005 World Series, his only homer of the year",
+    "date": "2005-10-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox completed a sweep of the Boston Red Sox in the 2005 ALDS",
+    "date": "2005-10-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox completed a sweep of the Los Angeles Angels in the 2005 ALCS",
+    "date": "2005-10-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ozzie Guillen became the first Latino manager to win a World Series",
+    "date": "2005-10-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Harold Baines was inducted into the Baseball Hall of Fame",
+    "date": "2019-07-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox retired Harold Baines' number 3",
+    "date": "1989-08-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Minnie Minoso became the first Black player for the Chicago White Sox",
+    "date": "1951-05-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Luis Aparicio of the White Sox was named AL Rookie of the Year",
+    "date": "1956-12-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox won the AL pennant for the first time since 1959",
+    "date": "2005-10-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Go-Go White Sox won the AL pennant, their first since 1919",
+    "date": "1959-09-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Patrick Kane became the youngest American player to reach 1,000 career points",
+    "date": "2020-01-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jonathan Toews became the youngest player to join the Triple Gold Club at age 22",
+    "date": "2010-06-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks drafted Jonathan Toews with the 3rd overall pick",
+    "date": "2006-06-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jonathan Toews scored his first career NHL goal on his first shot in his first game",
+    "date": "2007-10-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears drafted Justin Fields with the 11th overall pick",
+    "date": "2021-04-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears drafted Caleb Williams with the 1st overall pick",
+    "date": "2024-04-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Gale Sayers passed away at age 77",
+    "date": "2020-09-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Dick Butkus passed away at age 80",
+    "date": "2023-10-05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Stan Mikita passed away at age 78",
+    "date": "2018-08-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ernie Banks passed away at age 83",
+    "date": "2015-01-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls won their first-ever playoff series, defeating the Cleveland Cavaliers 3-2 in 1988",
+    "date": "1988-05-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls reached the Eastern Conference Finals for the first time in franchise history",
+    "date": "1989-05-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan averaged 41.0 points per game in a playoff series against the Cleveland Cavaliers",
+    "date": "1988-05-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Horace Grant won four NBA championships with the Chicago Bulls",
+    "date": "1993-06-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Dennis Rodman won three NBA championships with the Chicago Bulls",
+    "date": "1998-06-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Toni Kukoc was named NBA Sixth Man of the Year with the Bulls",
+    "date": "1996-05-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls traded Charles Oakley to the New York Knicks for Bill Cartwright",
+    "date": "1988-06-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls drafted Scottie Pippen with the 5th overall pick via trade with Seattle",
+    "date": "1987-06-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls drafted Horace Grant with the 10th overall pick",
+    "date": "1987-06-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears had their 18-game winning streak snapped by the Miami Dolphins",
+    "date": "1985-12-02",
+    "time_local": "20:00",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The 1985 Bears' defense became known as the '46 Defense' under coordinator Buddy Ryan",
+    "date": "1985-09-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jim McMahon threw for 1,147 yards in the 1985 Bears' championship season",
+    "date": "1985-12-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears set an NFL record with 72 sacks in a season",
+    "date": "1984-12-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Richard Dent led the NFL with 17.5 sacks for the 1985 Bears",
+    "date": "1985-12-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Fire FC was named in honor of the Great Chicago Fire of 1871",
+    "date": "1997-10-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Fire won back-to-back U.S. Open Cup titles",
+    "date": "2000-10-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Fire won the MLS Supporters' Shield for best regular season record",
+    "date": "2003-10-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Cuauhtemoc Blanco signed with the Chicago Fire, becoming one of the biggest signings in MLS history",
+    "date": "2007-02-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Wolves won the AHL Calder Cup championship",
+    "date": "2002-06-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Wolves won their second AHL Calder Cup championship",
+    "date": "2008-06-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Illinois Fighting Illini men's basketball team reached the NCAA Championship game, losing to North Carolina 75-70",
+    "date": "2005-04-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Illinois Fighting Illini started the 2004-05 season 29-0, the best start in Big Ten history",
+    "date": "2005-02-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Illinois Fighting Illini won the Big Ten Conference basketball tournament",
+    "date": "2005-03-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Northwestern Wildcats appeared in their first NCAA Tournament since 2017",
+    "date": "2023-03-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Northwestern Wildcats football won the Big Ten West Division",
+    "date": "2018-11-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Northwestern football reached the Rose Bowl for the second time in program history",
+    "date": "2012-01-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The DePaul Blue Demons men's basketball team advanced to the Final Four for the first time",
+    "date": "1979-03-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ray Meyer coached his final game for DePaul after 42 years",
+    "date": "1984-03-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ray Meyer was inducted into the Basketball Hall of Fame",
+    "date": "1979-04-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cardinals won the NFL Championship, their only title in Chicago",
+    "date": "1947-12-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cardinals moved to St. Louis, ending their 40-year stay in Chicago",
+    "date": "1960-03-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Muhammad Ali fought Leon Spinks at the Chicago Stadium, losing the heavyweight title",
+    "date": "1978-02-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls drafted Derrick Rose with the 1st overall pick",
+    "date": "2008-06-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Derrick Rose won NBA Rookie of the Year",
+    "date": "2009-04-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Derrick Rose scored 50 points in a game against the Utah Jazz, a career high",
+    "date": "2018-10-31",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls retired number 10 in honor of Bob Love",
+    "date": "1994-01-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls retired number 4 in honor of Jerry Sloan",
+    "date": "1999-02-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jerry Sloan was inducted into the Basketball Hall of Fame",
+    "date": "2009-09-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Artis Gilmore was inducted into the Basketball Hall of Fame",
+    "date": "2011-08-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks acquired Dominik Hasek, Duncan Keith, and Brent Seabrook in trades and drafts that built the championship core",
+    "date": "2006-07-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Duncan Keith won the Norris Trophy as the NHL's best defenseman",
+    "date": "2010-06-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Duncan Keith won his second Norris Trophy",
+    "date": "2014-06-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Corey Crawford won 30+ games in a season for the Blackhawks for the first time",
+    "date": "2013-04-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks set an NHL record with a 24-game point streak to start the 2012-13 season",
+    "date": "2013-03-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Marian Hossa scored the Cup-clinching goal in Game 6 of the 2010 Stanley Cup Finals",
+    "date": "2010-06-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Blackhawks defeated the defending champion Canucks in the first round of the 2013 playoffs",
+    "date": "2013-04-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Tony Esposito was inducted into the Hockey Hall of Fame",
+    "date": "1988-08-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks retired Tony Esposito's number 35",
+    "date": "1988-11-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Tony Esposito set a modern NHL record with 15 shutouts in a season for the Blackhawks",
+    "date": "1970-04-05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Tony Esposito won the Calder Trophy and Vezina Trophy in the same season",
+    "date": "1970-05-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Glenn Hall played in 502 consecutive NHL games for the Blackhawks, an iron man record for goalies",
+    "date": "1963-11-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Glenn Hall was inducted into the Hockey Hall of Fame",
+    "date": "1975-08-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks retired Glenn Hall's number 1",
+    "date": "1988-11-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Denis Savard was inducted into the Hockey Hall of Fame",
+    "date": "2000-11-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks retired Denis Savard's number 18",
+    "date": "1998-03-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Denis Savard was drafted 3rd overall by the Blackhawks, after the Montreal Canadiens passed on him twice",
+    "date": "1980-06-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Chris Chelios was inducted into the Hockey Hall of Fame",
+    "date": "2013-11-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Chris Chelios won the Norris Trophy with the Blackhawks as the NHL's best defenseman",
+    "date": "1993-06-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks retired Chris Chelios' number 7",
+    "date": "2024-02-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Pierre Pilote won the Norris Trophy three consecutive years with the Blackhawks",
+    "date": "1965-05-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Pierre Pilote was inducted into the Hockey Hall of Fame",
+    "date": "1975-08-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs drew over 3 million fans in a season for the first time",
+    "date": "2004-09-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs set a franchise attendance record with 3.3 million fans",
+    "date": "2008-09-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox drew over 2 million fans for the first time since 1993",
+    "date": "2006-09-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls became the first NBA team to draw over 900,000 fans in a season",
+    "date": "1996-04-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls set an NBA attendance record during the 1996-97 season",
+    "date": "1997-04-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan won his 10th and final NBA scoring title",
+    "date": "1998-04-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan became the oldest player to win the NBA scoring title at age 35",
+    "date": "1998-04-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Scottie Pippen made the NBA's 50 Greatest Players list",
+    "date": "1996-10-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan made the NBA's 50 Greatest Players list and was named the greatest player ever",
+    "date": "1996-10-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls went 44-5 at home during the 1995-96 season",
+    "date": "1996-04-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls won 33 consecutive home games spanning the 1995-96 and 1996-97 seasons",
+    "date": "1997-01-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Dennis Rodman grabbed 34 rebounds in a game against the Indiana Pacers",
+    "date": "1992-03-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Sky selected Elena Delle Donne with the 2nd overall pick in the WNBA Draft",
+    "date": "2013-04-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Elena Delle Donne was named WNBA Rookie of the Year with the Chicago Sky",
+    "date": "2013-09-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Sky reached the WNBA Finals for the first time",
+    "date": "2014-09-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sylvia Fowles was traded to the Chicago Sky, forming a superstar duo with Elena Delle Donne",
+    "date": "2008-04-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears played their first game at renovated Soldier Field",
+    "date": "2003-09-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Soldier Field was removed from the National Register of Historic Places after renovations",
+    "date": "2006-04-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears announced plans to move to a new stadium in Arlington Heights",
+    "date": "2021-09-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Devin Hester returned the opening kickoff of Super Bowl XLI for a touchdown, an NFL record",
+    "date": "2007-02-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears lost Super Bowl XLI to the Indianapolis Colts 29-17",
+    "date": "2007-02-04",
+    "time_local": "17:25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Lovie Smith became the first Black head coach to lead a team to the Super Bowl",
+    "date": "2007-02-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Devin Hester was named to the NFL 100 All-Time Team as a return specialist",
+    "date": "2019-12-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Devin Hester set an NFL record with his 14th career return touchdown",
+    "date": "2011-10-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears hired Matt Eberflus as head coach",
+    "date": "2022-01-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears traded the 1st overall pick to the Carolina Panthers and still drafted DJ Moore",
+    "date": "2023-03-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls hired Billy Donovan as head coach",
+    "date": "2020-09-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls acquired DeMar DeRozan in a sign-and-trade deal",
+    "date": "2021-08-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls ended their playoff drought with their first postseason appearance since 2017",
+    "date": "2022-04-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Zach LaVine was named to his second NBA All-Star Game while with the Bulls",
+    "date": "2022-02-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs acquired Kyle Schwarber, Anthony Rizzo, Kris Bryant, and Addison Russell in trades and drafts to build their championship core",
+    "date": "2013-06-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Theo Epstein was hired as President of Baseball Operations for the Cubs",
+    "date": "2011-10-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Joe Maddon was hired as manager of the Chicago Cubs",
+    "date": "2014-11-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs traded their top prospects to acquire Aroldis Chapman",
+    "date": "2016-07-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Aroldis Chapman closed out Game 7 of the 2016 World Series for the Cubs",
+    "date": "2016-11-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Cubs erected a statue of Ernie Banks outside Wrigley Field",
+    "date": "2008-03-31",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Cubs erected statues of Ron Santo, Billy Williams, and Fergie Jenkins outside Wrigley Field",
+    "date": "2011-08-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Wrigley Field celebrated its 100th anniversary",
+    "date": "2014-04-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Wrigley Field installed a new video board in left field",
+    "date": "2015-04-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs broke ground on renovations to Wrigley Field",
+    "date": "2014-10-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Ricketts family purchased the Chicago Cubs from Tribune Company",
+    "date": "2009-10-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jerry Reinsdorf purchased the Chicago Bulls for $16 million",
+    "date": "1985-03-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jerry Reinsdorf purchased the Chicago White Sox for $19 million",
+    "date": "1981-01-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Rocky Wirtz took over ownership of the Chicago Blackhawks after his father Bill Wirtz's death",
+    "date": "2007-09-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Blackhawks began broadcasting home games on television again under Rocky Wirtz's ownership",
+    "date": "2007-10-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks fired Joel Quenneville as head coach",
+    "date": "2018-11-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Connor Bedard was drafted 1st overall by the Chicago Blackhawks",
+    "date": "2023-06-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Connor Bedard scored his first NHL goal in his debut for the Blackhawks",
+    "date": "2023-10-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Wolves won their third Calder Cup championship",
+    "date": "2022-06-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears defeated the New York Giants 23-21 in the first ever NFL Championship Game",
+    "date": "1933-12-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears won the NFL Championship by defeating the Green Bay Packers 21-10",
+    "date": "1932-12-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears became the first team to appear in 10 NFL Championship Games",
+    "date": "1963-12-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sid Luckman was inducted into the Pro Football Hall of Fame",
+    "date": "1965-09-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears won the NFL Championship, defeating the Washington Redskins 14-6",
+    "date": "1942-12-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Bill George of the Bears revolutionized the middle linebacker position",
+    "date": "1954-10-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Bill George was inducted into the Pro Football Hall of Fame",
+    "date": "1974-07-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Doug Atkins was inducted into the Pro Football Hall of Fame",
+    "date": "1982-07-31",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears defeated the Portsmouth Spartans 9-0 in the first indoor NFL playoff game",
+    "date": "1932-12-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan scored 69 points against the Cleveland Cavaliers, his career high",
+    "date": "1990-03-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan had 10 triple-doubles in the 1988-89 NBA season",
+    "date": "1989-04-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan won the NBA All-Star Game MVP for the first time",
+    "date": "1988-02-07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Michael Jordan won his third NBA All-Star Game MVP",
+    "date": "1996-02-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls set a franchise record with their 13th consecutive win",
+    "date": "1995-12-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Scottie Pippen was named to the All-NBA First Team for the first time",
+    "date": "1994-05-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls swept the Miami Heat in the 1992 Eastern Conference First Round",
+    "date": "1992-05-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls swept the Cleveland Cavaliers in the 1993 Eastern Conference Semifinals",
+    "date": "1993-05-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls defeated the New York Knicks in the 1993 Eastern Conference Finals",
+    "date": "1993-06-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "B.J. Armstrong was named to the NBA All-Star Team with the Bulls",
+    "date": "1994-02-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs clinched the NL Central Division title",
+    "date": "2007-09-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs won Game 4 of the 2016 World Series 7-2",
+    "date": "2016-10-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs won Game 5 of the 2016 World Series 3-2",
+    "date": "2016-10-30",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs lost Game 6 of the 2016 World Series 9-3",
+    "date": "2016-11-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kyle Schwarber homered in Game 6 of the 2016 World Series after missing most of the season with injury",
+    "date": "2016-11-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Addison Russell hit a grand slam in Game 6 of the 2016 World Series",
+    "date": "2016-11-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Cubs won their first NL pennant since 1945",
+    "date": "2016-10-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Javier Baez was named NLCS co-MVP with Jon Lester in 2016",
+    "date": "2016-10-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jon Lester earned a save in Game 7 of the 2016 World Series",
+    "date": "2016-11-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Carl Edwards Jr. got the final out of the rain delay in Game 7 of the World Series",
+    "date": "2016-11-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox hired Tony La Russa as manager for the first time",
+    "date": "1979-08-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox hired Tony La Russa as manager for the second time",
+    "date": "2020-10-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox won the AL Central Division title",
+    "date": "2005-09-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox started four consecutive complete games in the 2005 postseason",
+    "date": "2005-10-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jose Contreras pitched a complete game in the 2005 World Series for the White Sox",
+    "date": "2005-10-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Mark Buehrle struck out 11 batters in his perfect game",
+    "date": "2009-07-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "DeWayne Wise made a spectacular catch to preserve Mark Buehrle perfect game",
+    "date": "2009-07-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks defeated the Detroit Red Wings in the first round of the 2013 playoffs",
+    "date": "2013-05-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks defeated the Los Angeles Kings in the 2013 Western Conference Finals",
+    "date": "2013-06-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Patrick Sharp scored 20+ goals in eight consecutive seasons with the Blackhawks",
+    "date": "2014-04-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Marian Hossa scored his 500th career NHL goal",
+    "date": "2016-10-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Blackhawks retired Marian Hossa number 81",
+    "date": "2023-11-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Jonathan Toews scored his 300th career NHL goal",
+    "date": "2020-01-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Patrick Kane became the Blackhawks all-time leading scorer",
+    "date": "2019-12-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks traded Patrick Kane to the New York Rangers",
+    "date": "2023-02-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears signed Jay Cutler as their starting quarterback",
+    "date": "2009-04-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears reached the NFC Championship Game under Lovie Smith",
+    "date": "2011-01-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears lost the NFC Championship Game to the Green Bay Packers",
+    "date": "2011-01-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Charles Tillman forced 4 fumbles in a single game against the Cowboys",
+    "date": "2012-10-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Lance Briggs was named to seven Pro Bowls with the Chicago Bears",
+    "date": "2013-12-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears fired Marc Trestman as head coach after two seasons",
+    "date": "2014-12-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears hired John Fox as head coach",
+    "date": "2015-01-19",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears fired John Fox as head coach after three seasons",
+    "date": "2017-01-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears hired Matt Nagy as head coach",
+    "date": "2018-01-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bears won the NFC North Division under Matt Nagy",
+    "date": "2018-12-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Cody Parkey missed a field goal that eliminated the Bears from the 2018 playoffs (Double Doink)",
+    "date": "2019-01-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Khalil Mack was traded to the Chicago Bears from the Oakland Raiders",
+    "date": "2018-09-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Khalil Mack had a sack, forced fumble, fumble recovery, interception, and touchdown in his Bears debut",
+    "date": "2018-09-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Loyola Ramblers upset No. 6 seed Miami in the 2018 NCAA Tournament first round",
+    "date": "2018-03-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Loyola Ramblers upset No. 3 seed Tennessee in the 2018 NCAA Tournament second round",
+    "date": "2018-03-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sister Jean Dolores Schmidt became a national celebrity during Loyola 2018 tournament run",
+    "date": "2018-03-24",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Loyola Ramblers lost to Michigan 69-57 in the 2018 Final Four",
+    "date": "2018-03-31",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Sky selected Angel Reese with the 7th overall pick",
+    "date": "2024-04-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Caitlin Clark was drafted 1st overall by the Indiana Fever, spurring interest in Sky-Fever rivalry",
+    "date": "2024-04-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Sky acquired Marina Mabrey via trade",
+    "date": "2024-07-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "DePaul moved to the Big East Conference",
+    "date": "2005-07-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Northwestern won their first NCAA Tournament game in program history",
+    "date": "2017-03-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Northwestern reached the round of 32 in their first NCAA Tournament appearance",
+    "date": "2017-03-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Illinois Fighting Illini won the Big Ten Tournament championship",
+    "date": "2021-03-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Illinois Fighting Illini defeated Ohio State to win the 2021 Big Ten Tournament",
+    "date": "2021-03-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ayo Dosunmu was named Big Ten Player of the Year for Illinois",
+    "date": "2021-03-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ayo Dosunmu was drafted by the Chicago Bulls in the second round",
+    "date": "2021-07-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Fire relocated to Soldier Field from SeatGeek Stadium",
+    "date": "2020-03-21",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Fire changed their logo and branding under new ownership",
+    "date": "2019-09-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Fire were purchased by Joe Mansueto",
+    "date": "2019-09-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Red Stars reached the NWSL Championship Game",
+    "date": "2019-10-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Red Stars reached the NWSL Championship Game for the second time",
+    "date": "2021-11-20",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Marathon broke the one million dollar prize purse",
+    "date": "2022-10-09",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kelvin Kiptum set a world record at the Chicago Marathon with 2:00:35",
+    "date": "2023-10-08",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Marathon awarded equal prize money to men and women",
+    "date": "2006-10-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs hosted the MLB All-Star Game at Wrigley Field",
+    "date": "1990-07-10",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox hosted the MLB All-Star Game at Comiskey Park",
+    "date": "1983-07-06",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox hosted the MLB All-Star Game at U.S. Cellular Field",
+    "date": "2003-07-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Bulls hosted the NBA All-Star Game at the United Center",
+    "date": "2020-02-16",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Blackhawks hosted the NHL Winter Classic at Wrigley Field",
+    "date": "2009-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Blackhawks defeated the Red Wings 6-4 in the Winter Classic at Wrigley Field",
+    "date": "2009-01-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Notre Dame Fighting Irish played their first game at Soldier Field",
+    "date": "1924-10-04",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Notre Dame football has played numerous games at Soldier Field in Chicago",
+    "date": "2012-10-13",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Shamrock Shuffle became one of the largest 8K races in the country",
+    "date": "1979-03-17",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Four Horsemen of Notre Dame played their famous game against Army",
+    "date": "1924-10-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Knute Rockne led Notre Dame to an undefeated season",
+    "date": "1924-11-29",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs traded Sammy Sosa to the Baltimore Orioles",
+    "date": "2005-02-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Sammy Sosa was welcomed back to Wrigley Field after years of estrangement",
+    "date": "2022-09-11",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kerry Wood struck out his 1,000th batter as a Cub",
+    "date": "2004-09-05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Kerry Wood retired as a member of the Chicago Cubs",
+    "date": "2012-05-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Mark Prior was drafted 2nd overall by the Chicago Cubs",
+    "date": "2001-06-05",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Cubs 2003 collapse against the Marlins in the NLCS became infamous",
+    "date": "2003-10-15",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Steve Bartman ball was destroyed in a ceremony",
+    "date": "2004-02-26",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Alex Gonzalez error extended Game 6 of the 2003 NLCS for the Cubs",
+    "date": "2003-10-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs went 97 years between World Series appearances",
+    "date": "2016-10-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Harry Caray sang Take Me Out to the Ball Game at Wrigley Field for 17 years",
+    "date": "1998-02-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Harry Caray passed away at age 83",
+    "date": "1998-02-18",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Harry Caray statue was unveiled outside Wrigley Field",
+    "date": "1999-09-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ron Santo passed away at age 70",
+    "date": "2010-12-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago Cubs retired Ron Santo number 10",
+    "date": "2003-09-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ron Santo broadcast Cubs games on radio for 20 seasons",
+    "date": "2010-12-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox played a game using disco records that were destroyed (Disco Demolition Night)",
+    "date": "1979-07-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Disco Demolition Night caused the White Sox to forfeit the second game of a doubleheader",
+    "date": "1979-07-12",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox retired Nellie Fox number 2",
+    "date": "1976-06-01",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Nellie Fox was inducted into the Baseball Hall of Fame",
+    "date": "1997-07-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Luke Appling was inducted into the Baseball Hall of Fame",
+    "date": "1964-07-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox retired Luis Aparicio number 11",
+    "date": "1984-07-22",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Luis Aparicio was inducted into the Baseball Hall of Fame",
+    "date": "1984-07-28",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ed Walsh of the White Sox won 40 games in a single season, the modern record",
+    "date": "1908-10-03",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The 1906 Chicago White Sox (Hitless Wonders) won the World Series over the heavily favored Cubs",
+    "date": "1906-10-14",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox won 19 consecutive games, an American League record at the time",
+    "date": "1906-08-23",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Ted Lyons was inducted into the Baseball Hall of Fame",
+    "date": "1955-07-25",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox retired Ted Lyons number 16",
+    "date": "1987-08-02",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Billy Pierce of the White Sox threw a perfect game broken up with two outs in the ninth",
+    "date": "1958-06-27",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "The Chicago White Sox traded for Joe Jackson before the Black Sox scandal",
+    "date": "1915-08-20",
+    "timezone": "America/Chicago"
+  }
+]
