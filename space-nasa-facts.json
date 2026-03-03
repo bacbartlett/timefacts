@@ -1,0 +1,1571 @@
+[
+  {
+    "fact": "NASA was established by President Dwight D. Eisenhower, creating America's civilian space agency to lead the nation's space exploration efforts",
+    "date": "1958-07-29"
+  },
+  {
+    "fact": "Explorer 1, America's first artificial satellite, was launched from Cape Canaveral, discovering the Van Allen radiation belts surrounding Earth",
+    "date": "1958-01-31",
+    "time_local": "22:48",
+    "time_utc": "03:48",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Pioneer 0, NASA's first lunar probe attempt, was destroyed 77 seconds after launch due to a Thor rocket failure",
+    "date": "1958-08-17"
+  },
+  {
+    "fact": "Pioneer 1, the first spacecraft launched by NASA, achieved the highest altitude of any human-made object at the time (113,854 km) but failed to reach the Moon",
+    "date": "1958-10-11"
+  },
+  {
+    "fact": "Pioneer 4, the first American spacecraft to escape Earth's gravity, successfully flew by the Moon at a distance of 60,000 km",
+    "date": "1959-03-03"
+  },
+  {
+    "fact": "The Mercury Seven astronauts were introduced to the American public as NASA's first class of astronauts, including Alan Shepard, John Glenn, and Gus Grissom",
+    "date": "1959-04-09"
+  },
+  {
+    "fact": "Mercury-Redstone 3 (Freedom 7) launched Alan Shepard as the first American in space on a 15-minute suborbital flight reaching 187 km altitude",
+    "date": "1961-05-05",
+    "time_local": "09:34",
+    "time_utc": "14:34",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "President John F. Kennedy announced the goal of landing a man on the Moon before the end of the decade in his historic address to Congress",
+    "date": "1961-05-25"
+  },
+  {
+    "fact": "Mercury-Redstone 4 (Liberty Bell 7) launched Virgil 'Gus' Grissom on America's second crewed suborbital spaceflight; the capsule sank after splashdown",
+    "date": "1961-07-21",
+    "time_local": "07:20",
+    "time_utc": "12:20",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Mercury-Atlas 6 (Friendship 7) made John Glenn the first American to orbit Earth, completing three orbits in 4 hours and 55 minutes",
+    "date": "1962-02-20",
+    "time_local": "09:47",
+    "time_utc": "14:47",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Mercury-Atlas 7 (Aurora 7) launched Scott Carpenter on America's second orbital flight, completing three orbits around Earth",
+    "date": "1962-05-24",
+    "time_local": "07:45",
+    "time_utc": "12:45",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Mercury-Atlas 8 (Sigma 7) launched Walter Schirra on a six-orbit mission, demonstrating precision spacecraft control",
+    "date": "1962-10-03",
+    "time_local": "07:15",
+    "time_utc": "12:15",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Mercury-Atlas 9 (Faith 7) launched Gordon Cooper on the final Mercury mission, completing 22 orbits in 34 hours",
+    "date": "1963-05-15",
+    "time_local": "08:04",
+    "time_utc": "13:04",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Mariner 2 became the first spacecraft to successfully fly by another planet, passing within 34,773 km of Venus",
+    "date": "1962-12-14"
+  },
+  {
+    "fact": "Gemini 3 launched astronauts Gus Grissom and John Young on the first crewed Gemini mission, nicknamed 'Molly Brown'",
+    "date": "1965-03-23",
+    "time_local": "09:24",
+    "time_utc": "14:24",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Gemini 4 astronaut Ed White became the first American to walk in space during a 23-minute EVA, using a hand-held maneuvering unit",
+    "date": "1965-06-03",
+    "time_local": "14:45",
+    "time_utc": "19:45",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Gemini 5 launched astronauts Gordon Cooper and Pete Conrad on an 8-day mission, setting a new spaceflight duration record",
+    "date": "1965-08-21",
+    "time_local": "09:00",
+    "time_utc": "13:59",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Gemini 6A and Gemini 7 performed the first crewed spacecraft rendezvous, approaching within 30 cm of each other in orbit",
+    "date": "1965-12-15",
+    "time_local": "08:37",
+    "time_utc": "13:37",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Gemini 7 launched astronauts Frank Borman and Jim Lovell on a 14-day mission, demonstrating humans could survive in space long enough for a lunar mission",
+    "date": "1965-12-04",
+    "time_local": "14:30",
+    "time_utc": "19:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Gemini 8 astronauts Neil Armstrong and David Scott performed the first docking of two spacecraft in orbit, connecting with an Agena target vehicle",
+    "date": "1966-03-16",
+    "time_local": "10:41",
+    "time_utc": "15:41",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Gemini 9A astronaut Gene Cernan performed a 2-hour EVA, though difficulties with his spacesuit caused exhaustion and visor fogging",
+    "date": "1966-06-05"
+  },
+  {
+    "fact": "Gemini 10 astronauts John Young and Michael Collins used the Agena engine to reach a record altitude of 763 km",
+    "date": "1966-07-18",
+    "time_local": "17:20",
+    "time_utc": "22:20",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Gemini 11 astronauts Pete Conrad and Richard Gordon reached a record altitude of 1,374 km using the Agena target vehicle",
+    "date": "1966-09-12",
+    "time_local": "09:42",
+    "time_utc": "13:42",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Gemini 12 completed the Gemini program with astronauts Jim Lovell and Buzz Aldrin, who performed three successful EVAs",
+    "date": "1966-11-11",
+    "time_local": "15:46",
+    "time_utc": "20:46",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Apollo 1 fire killed astronauts Gus Grissom, Ed White, and Roger Chaffee during a launch pad test at Cape Kennedy",
+    "date": "1967-01-27",
+    "time_local": "18:31",
+    "time_utc": "23:31",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 4 successfully tested the Saturn V rocket for the first time, reaching an altitude of 18,000 km in an uncrewed mission",
+    "date": "1967-11-09",
+    "time_local": "07:00",
+    "time_utc": "12:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 7 launched astronauts Walter Schirra, Donn Eisele, and Walter Cunningham on the first crewed Apollo mission, an 11-day Earth orbital flight",
+    "date": "1968-10-11",
+    "time_local": "11:02",
+    "time_utc": "15:02",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 8 launched astronauts Frank Borman, Jim Lovell, and William Anders on the first crewed mission to orbit the Moon",
+    "date": "1968-12-21",
+    "time_local": "07:51",
+    "time_utc": "12:51",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 8 astronauts became the first humans to see the far side of the Moon and captured the iconic 'Earthrise' photograph",
+    "date": "1968-12-24"
+  },
+  {
+    "fact": "Apollo 9 launched to test the Lunar Module in Earth orbit, with astronauts James McDivitt, David Scott, and Rusty Schweickart",
+    "date": "1969-03-03",
+    "time_local": "11:00",
+    "time_utc": "16:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 10 launched astronauts Tom Stafford, John Young, and Gene Cernan on a 'dress rehearsal' for the Moon landing, descending to within 15 km of the lunar surface",
+    "date": "1969-05-18",
+    "time_local": "12:49",
+    "time_utc": "16:49",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 11 launched from Kennedy Space Center, beginning humanity's first mission to land on the Moon with astronauts Neil Armstrong, Buzz Aldrin, and Michael Collins",
+    "date": "1969-07-16",
+    "time_local": "09:32",
+    "time_utc": "13:32",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 11's Lunar Module Eagle landed in the Sea of Tranquility, making the first crewed Moon landing with Neil Armstrong and Buzz Aldrin aboard",
+    "date": "1969-07-20",
+    "time_local": "16:17",
+    "time_utc": "20:17",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Neil Armstrong became the first human to walk on the Moon, declaring 'That's one small step for man, one giant leap for mankind'",
+    "date": "1969-07-20",
+    "time_local": "22:56",
+    "time_utc": "02:56",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Buzz Aldrin joined Neil Armstrong on the lunar surface 19 minutes after Armstrong's first step, becoming the second human to walk on the Moon",
+    "date": "1969-07-21",
+    "time_utc": "03:15"
+  },
+  {
+    "fact": "Apollo 11 astronauts planted the American flag on the Moon and deployed scientific instruments during their 2.5-hour moonwalk",
+    "date": "1969-07-21"
+  },
+  {
+    "fact": "Apollo 11 splashed down safely in the Pacific Ocean, completing the historic first Moon landing mission",
+    "date": "1969-07-24",
+    "time_local": "12:50",
+    "time_utc": "16:50",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 12 launched astronauts Pete Conrad, Richard Gordon, and Alan Bean on the second Moon landing mission, demonstrating precision landing capability",
+    "date": "1969-11-14",
+    "time_local": "11:22",
+    "time_utc": "16:22",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 12's Lunar Module Intrepid landed within walking distance of Surveyor 3, allowing astronauts to retrieve parts from the probe",
+    "date": "1969-11-19",
+    "time_utc": "06:54"
+  },
+  {
+    "fact": "Pete Conrad, an Ohio native, became the third human to walk on the Moon and quipped 'Whoopee! Man, that may have been a small one for Neil, but that's a long one for me!'",
+    "date": "1969-11-19"
+  },
+  {
+    "fact": "Apollo 13 launched with astronauts Jim Lovell (from Cleveland, Ohio), Jack Swigert, and Fred Haise on what became NASA's most famous 'successful failure'",
+    "date": "1970-04-11",
+    "time_local": "14:13",
+    "time_utc": "19:13",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "An oxygen tank explosion crippled Apollo 13's Service Module, forcing the crew to abort their Moon landing and use the Lunar Module as a lifeboat",
+    "date": "1970-04-13",
+    "time_local": "21:07",
+    "time_utc": "03:07",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Apollo 13 splashed down safely in the Pacific Ocean after a harrowing 4-day journey home, demonstrating NASA's crisis management capabilities",
+    "date": "1970-04-17",
+    "time_local": "13:07",
+    "time_utc": "18:07",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 14 launched with astronauts Alan Shepard, Stuart Roosa, and Edgar Mitchell, returning America to the Moon after the Apollo 13 incident",
+    "date": "1971-01-31",
+    "time_local": "16:03",
+    "time_utc": "21:03",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Alan Shepard became the oldest person to walk on the Moon at age 47 and famously hit golf balls on the lunar surface during Apollo 14",
+    "date": "1971-02-06"
+  },
+  {
+    "fact": "Apollo 15 launched with astronauts David Scott, Alfred Worden, and James Irwin, becoming the first mission to use the Lunar Roving Vehicle",
+    "date": "1971-07-26",
+    "time_local": "09:34",
+    "time_utc": "13:34",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 15 astronaut David Scott performed the famous 'hammer and feather' demonstration on the Moon, confirming Galileo's theory that objects fall at the same rate in a vacuum",
+    "date": "1971-08-02"
+  },
+  {
+    "fact": "Apollo 16 launched with astronauts John Young, Ken Mattingly, and Charles Duke to explore the lunar highlands at Descartes",
+    "date": "1972-04-16",
+    "time_local": "12:54",
+    "time_utc": "17:54",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 17 launched as the final Apollo lunar mission, with astronauts Eugene Cernan, Ronald Evans, and Harrison Schmitt",
+    "date": "1972-12-07",
+    "time_local": "00:33",
+    "time_utc": "05:33",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Apollo 17 was the only night launch of the Apollo program, creating a spectacular display visible for hundreds of miles",
+    "date": "1972-12-07",
+    "time_local": "00:33",
+    "time_utc": "05:33",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Gene Cernan (born in Chicago, Illinois) became the last human to walk on the Moon during Apollo 17, leaving his final footprints on December 14, 1972",
+    "date": "1972-12-14"
+  },
+  {
+    "fact": "Harrison Schmitt became the only professional geologist to walk on the Moon during Apollo 17, discovering orange lunar soil at Shorty Crater",
+    "date": "1972-12-12"
+  },
+  {
+    "fact": "Apollo 17 astronauts captured the famous 'Blue Marble' photograph of Earth, one of the most reproduced images in history",
+    "date": "1972-12-07"
+  },
+  {
+    "fact": "Pioneer 10 launched from Cape Canaveral, becoming the first spacecraft designed to travel through the asteroid belt and study Jupiter",
+    "date": "1972-03-02",
+    "time_local": "20:49",
+    "time_utc": "01:49",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Pioneer 11 launched to explore Jupiter and Saturn, carrying a golden plaque depicting humanity's origin for potential extraterrestrial discovery",
+    "date": "1973-04-05"
+  },
+  {
+    "fact": "Skylab, America's first space station, was launched on a Saturn V rocket into Earth orbit",
+    "date": "1973-05-14",
+    "time_local": "13:30",
+    "time_utc": "17:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Skylab 2 (SL-2) launched with astronauts Pete Conrad, Joseph Kerwin, and Paul Weitz to repair and occupy the damaged Skylab station",
+    "date": "1973-05-25",
+    "time_local": "09:00",
+    "time_utc": "13:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Skylab 3 (SL-3) launched with astronauts Alan Bean, Owen Garriott, and Jack Lousma for a 59-day mission on America's first space station",
+    "date": "1973-07-28",
+    "time_local": "07:10",
+    "time_utc": "11:10",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Skylab 4 (SL-4) launched with astronauts Gerald Carr, Edward Gibson, and William Pogue on an 84-day mission, the longest American spaceflight at the time",
+    "date": "1973-11-16",
+    "time_local": "09:01",
+    "time_utc": "14:01",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Pioneer 10 became the first spacecraft to fly through the asteroid belt and the first to make a close flyby of Jupiter",
+    "date": "1973-12-03"
+  },
+  {
+    "fact": "Mariner 10 became the first spacecraft to visit Mercury, using a gravity assist from Venus - the first planetary gravity assist maneuver",
+    "date": "1974-03-29"
+  },
+  {
+    "fact": "Pioneer 11 made the first flyby of Saturn, discovering two new moons and a new ring, and measuring the planet's magnetic field",
+    "date": "1979-09-01"
+  },
+  {
+    "fact": "The Apollo-Soyuz Test Project launched, marking the first joint US-Soviet space mission and historic handshake in orbit between astronauts and cosmonauts",
+    "date": "1975-07-15",
+    "time_local": "15:50",
+    "time_utc": "19:50",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Soyuz 19 launched from Baikonur Cosmodrome with cosmonauts Alexei Leonov and Valery Kubasov for the historic Apollo-Soyuz mission",
+    "date": "1975-07-15",
+    "time_utc": "12:20"
+  },
+  {
+    "fact": "The Apollo and Soyuz spacecraft docked in orbit, and American astronaut Tom Stafford shook hands with Soviet cosmonaut Alexei Leonov, symbolizing détente",
+    "date": "1975-07-17",
+    "time_utc": "16:09"
+  },
+  {
+    "fact": "Apollo-Soyuz mission commander Tom Stafford became the first general officer to fly in space during the historic joint mission",
+    "date": "1975-07-15"
+  },
+  {
+    "fact": "Deke Slayton finally flew in space on Apollo-Soyuz, 16 years after being selected as one of the original Mercury Seven astronauts",
+    "date": "1975-07-15"
+  },
+  {
+    "fact": "Viking 1 launched from Cape Canaveral to become the first successful Mars lander, carrying instruments to search for life",
+    "date": "1975-08-20",
+    "time_local": "17:22",
+    "time_utc": "21:22",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Viking 1 became the first spacecraft to successfully land on Mars and return images from the surface",
+    "date": "1976-07-20"
+  },
+  {
+    "fact": "Viking 2 landed on Mars at Utopia Planitia, joining Viking 1 in the search for Martian life",
+    "date": "1976-09-03"
+  },
+  {
+    "fact": "Voyager 2 launched from Cape Canaveral, beginning its 'Grand Tour' of the outer solar system that would visit all four giant planets",
+    "date": "1977-08-20",
+    "time_local": "10:29",
+    "time_utc": "14:29",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Voyager 1 launched from Cape Canaveral, 16 days after Voyager 2, on a faster trajectory to Jupiter and Saturn",
+    "date": "1977-09-05",
+    "time_local": "08:56",
+    "time_utc": "12:56",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Voyager 1 made its closest approach to Jupiter, discovering volcanic activity on Io - the first active volcanoes found beyond Earth",
+    "date": "1979-03-05"
+  },
+  {
+    "fact": "Voyager 2 made its closest approach to Jupiter, capturing detailed images of the Great Red Spot and Jupiter's moons",
+    "date": "1979-07-09"
+  },
+  {
+    "fact": "Skylab reentered Earth's atmosphere over Western Australia after NASA could not boost it to a higher orbit",
+    "date": "1979-07-11"
+  },
+  {
+    "fact": "Voyager 1 made its closest approach to Saturn, discovering complex ring structure and new moons",
+    "date": "1980-11-12"
+  },
+  {
+    "fact": "Space Shuttle Columbia (STS-1) launched from Kennedy Space Center with astronauts John Young and Robert Crippen, beginning the Space Shuttle era",
+    "date": "1981-04-12",
+    "time_local": "07:00",
+    "time_utc": "12:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-1 marked the first crewed maiden voyage of a new spacecraft system in NASA history, with no prior uncrewed orbital test flights",
+    "date": "1981-04-12"
+  },
+  {
+    "fact": "Space Shuttle Columbia landed at Edwards Air Force Base, completing the first Space Shuttle mission after 54.5 hours in orbit",
+    "date": "1981-04-14",
+    "time_local": "10:20",
+    "time_utc": "18:20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Voyager 2 made its closest approach to Saturn, imaging the planet's rings and moons before continuing to Uranus and Neptune",
+    "date": "1981-08-25"
+  },
+  {
+    "fact": "STS-2 launched Space Shuttle Columbia on its second mission, making it the first reusable spacecraft to fly into orbit twice",
+    "date": "1981-11-12",
+    "time_local": "10:09",
+    "time_utc": "15:09",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-5 launched the first commercial satellites from the Space Shuttle, beginning a new era in space commerce",
+    "date": "1982-11-11",
+    "time_local": "07:19",
+    "time_utc": "12:19",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-6 launched Space Shuttle Challenger on its maiden flight, deploying the first Tracking and Data Relay Satellite",
+    "date": "1983-04-04",
+    "time_local": "13:30",
+    "time_utc": "18:30",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Sally Ride became the first American woman in space aboard Space Shuttle Challenger during mission STS-7",
+    "date": "1983-06-18",
+    "time_local": "07:33",
+    "time_utc": "11:33",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Guion Bluford became the first African American in space aboard Space Shuttle Challenger during mission STS-8",
+    "date": "1983-08-30",
+    "time_local": "02:32",
+    "time_utc": "06:32",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-9 launched with the first Spacelab module, a reusable laboratory built by the European Space Agency",
+    "date": "1983-11-28",
+    "time_local": "11:00",
+    "time_utc": "16:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Bruce McCandless performed the first untethered spacewalk using the Manned Maneuvering Unit during STS-41-B, flying up to 98 meters from the shuttle",
+    "date": "1984-02-07"
+  },
+  {
+    "fact": "STS-41-C successfully captured and repaired the Solar Maximum Mission satellite, demonstrating in-orbit satellite servicing",
+    "date": "1984-04-08"
+  },
+  {
+    "fact": "STS-41-D launched Space Shuttle Discovery on its maiden flight, the third operational orbiter in the Space Shuttle fleet",
+    "date": "1984-08-30",
+    "time_local": "08:41",
+    "time_utc": "12:41",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Kathryn Sullivan became the first American woman to walk in space during STS-41-G",
+    "date": "1984-10-11"
+  },
+  {
+    "fact": "STS-51-A astronauts retrieved two malfunctioning communications satellites in orbit and returned them to Earth in the shuttle's cargo bay",
+    "date": "1984-11-14"
+  },
+  {
+    "fact": "STS-51-C launched Space Shuttle Discovery on the first dedicated Department of Defense Space Shuttle mission",
+    "date": "1985-01-24",
+    "time_local": "14:50",
+    "time_utc": "19:50",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-51-D launched Senator Jake Garn, the first sitting member of Congress to fly in space",
+    "date": "1985-04-12",
+    "time_local": "08:59",
+    "time_utc": "13:59",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-51-J launched Space Shuttle Atlantis on its maiden flight, the fourth operational Space Shuttle orbiter",
+    "date": "1985-10-03",
+    "time_local": "11:15",
+    "time_utc": "15:15",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-61-B deployed the largest structure ever assembled in space at the time - the EASE/ACCESS experimental tower",
+    "date": "1985-11-26"
+  },
+  {
+    "fact": "Space Shuttle Challenger (STS-51-L) broke apart 73 seconds after launch, killing all seven crew members including teacher Christa McAuliffe",
+    "date": "1986-01-28",
+    "time_local": "11:38",
+    "time_utc": "16:38",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Challenger disaster was caused by O-ring failure in the right solid rocket booster, leading to structural breakup at 48,000 feet",
+    "date": "1986-01-28"
+  },
+  {
+    "fact": "Christa McAuliffe, selected as the first Teacher in Space, was among the seven Challenger crew members lost in the disaster",
+    "date": "1986-01-28"
+  },
+  {
+    "fact": "Voyager 2 made the first and only flyby of Uranus, discovering 10 new moons and two new rings",
+    "date": "1986-01-24"
+  },
+  {
+    "fact": "STS-26 launched Space Shuttle Discovery, marking NASA's return to flight 32 months after the Challenger disaster",
+    "date": "1988-09-29",
+    "time_local": "11:37",
+    "time_utc": "15:37",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Voyager 2 made the first and only flyby of Neptune, discovering the Great Dark Spot and six new moons",
+    "date": "1989-08-25"
+  },
+  {
+    "fact": "Voyager 2's Neptune flyby revealed Triton as the coldest object yet measured in the solar system at -235°C",
+    "date": "1989-08-25"
+  },
+  {
+    "fact": "Space Shuttle Atlantis deployed the Magellan spacecraft to Venus during STS-30, the first planetary probe launched from a Space Shuttle",
+    "date": "1989-05-04",
+    "time_local": "14:46",
+    "time_utc": "18:46",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Space Shuttle Atlantis deployed the Galileo spacecraft to Jupiter during STS-34",
+    "date": "1989-10-18",
+    "time_local": "12:53",
+    "time_utc": "16:53",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Hubble Space Telescope was deployed from Space Shuttle Discovery during STS-31, beginning a revolution in astronomy",
+    "date": "1990-04-24",
+    "time_local": "08:33",
+    "time_utc": "12:33",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Hubble Space Telescope was placed into orbit 340 miles above Earth, designed to operate for 15 years but still functioning decades later",
+    "date": "1990-04-25"
+  },
+  {
+    "fact": "The Magellan spacecraft began mapping Venus with radar, eventually mapping 98% of the planet's surface in unprecedented detail",
+    "date": "1990-08-10"
+  },
+  {
+    "fact": "STS-37 deployed the Compton Gamma Ray Observatory, the heaviest satellite ever launched by the Space Shuttle at the time",
+    "date": "1991-04-07"
+  },
+  {
+    "fact": "The Galileo spacecraft flew by asteroid Gaspra, returning the first close-up images of an asteroid",
+    "date": "1991-10-29"
+  },
+  {
+    "fact": "Mae Jemison became the first African American woman in space during STS-47",
+    "date": "1992-09-12",
+    "time_local": "10:23",
+    "time_utc": "14:23",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-49 launched Space Shuttle Endeavour on its maiden flight, the newest and final orbiter built to replace Challenger",
+    "date": "1992-05-07",
+    "time_local": "19:40",
+    "time_utc": "23:40",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-49 astronauts performed the first three-person spacewalk to capture the stranded Intelsat VI satellite",
+    "date": "1992-05-13"
+  },
+  {
+    "fact": "STS-61 successfully repaired the Hubble Space Telescope's flawed mirror, restoring its ability to produce sharp images",
+    "date": "1993-12-02",
+    "time_local": "04:27",
+    "time_utc": "09:27",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Hubble servicing mission STS-61 featured five spacewalks over 11 days, one of the most complex shuttle missions ever",
+    "date": "1993-12-02"
+  },
+  {
+    "fact": "Clementine became the first US spacecraft to return to the Moon since Apollo 17, mapping the lunar surface and discovering water ice evidence",
+    "date": "1994-02-26"
+  },
+  {
+    "fact": "STS-63 featured the first female Space Shuttle pilot, Eileen Collins, and the first close approach to the Russian Mir space station",
+    "date": "1995-02-03",
+    "time_local": "00:22",
+    "time_utc": "05:22",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Norman Thagard became the first American astronaut to fly on a Russian spacecraft, launching aboard Soyuz TM-21 to Mir",
+    "date": "1995-03-14"
+  },
+  {
+    "fact": "STS-71 became the first Space Shuttle to dock with the Russian Mir space station, beginning the Shuttle-Mir program",
+    "date": "1995-06-29"
+  },
+  {
+    "fact": "The Galileo spacecraft entered orbit around Jupiter, becoming the first spacecraft to orbit an outer planet",
+    "date": "1995-12-07"
+  },
+  {
+    "fact": "The Galileo atmospheric probe descended into Jupiter's atmosphere, transmitting data for 57 minutes before being crushed",
+    "date": "1995-12-07"
+  },
+  {
+    "fact": "Shannon Lucid began her 188-day stay aboard Mir, setting the American and world record for a woman's longest spaceflight",
+    "date": "1996-03-22"
+  },
+  {
+    "fact": "Mars Pathfinder launched from Cape Canaveral, carrying the Sojourner rover - the first wheeled vehicle on Mars",
+    "date": "1996-12-04",
+    "time_local": "01:58",
+    "time_utc": "06:58",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Mars Global Surveyor launched to begin detailed mapping of Mars, eventually operating for nearly 10 years",
+    "date": "1996-11-07",
+    "time_local": "12:00",
+    "time_utc": "17:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Mars Pathfinder landed on Mars and deployed the Sojourner rover, the first successful Mars landing since Viking in 1976",
+    "date": "1997-07-04"
+  },
+  {
+    "fact": "Sojourner became the first wheeled vehicle to operate on another planet, exploring Mars for 83 days",
+    "date": "1997-07-06"
+  },
+  {
+    "fact": "The Cassini-Huygens spacecraft launched toward Saturn on a 7-year journey to study the ringed planet and its moons",
+    "date": "1997-10-15",
+    "time_local": "04:43",
+    "time_utc": "08:43",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "STS-88 launched the first US component of the International Space Station, the Unity connecting module",
+    "date": "1998-12-04",
+    "time_local": "03:35",
+    "time_utc": "08:35",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "John Glenn returned to space at age 77 aboard STS-95, becoming the oldest person to fly in space, 36 years after his Mercury mission",
+    "date": "1998-10-29",
+    "time_local": "14:19",
+    "time_utc": "19:19",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "John Glenn, born in Cambridge, Ohio, circled Earth 134 times during STS-95 compared to just 3 orbits on his historic Mercury flight",
+    "date": "1998-10-29"
+  },
+  {
+    "fact": "Deep Space 1 launched to test ion propulsion and other advanced technologies, later flying by asteroid Braille and comet Borrelly",
+    "date": "1998-10-24",
+    "time_local": "08:08",
+    "time_utc": "12:08",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Mars Polar Lander launched to study the Martian south pole, but was lost during landing due to a software error",
+    "date": "1999-01-03"
+  },
+  {
+    "fact": "Eileen Collins became the first female Space Shuttle commander during STS-93, which deployed the Chandra X-ray Observatory",
+    "date": "1999-07-23",
+    "time_local": "00:31",
+    "time_utc": "04:31",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Chandra X-ray Observatory was deployed from Space Shuttle Columbia, becoming the world's most powerful X-ray telescope",
+    "date": "1999-07-23"
+  },
+  {
+    "fact": "NASA's Mars Climate Orbiter was lost due to a navigation error caused by mixing metric and imperial units",
+    "date": "1999-09-23"
+  },
+  {
+    "fact": "The International Space Station received its first permanent crew when Expedition 1 (Bill Shepherd, Yuri Gidzenko, Sergei Krikalev) arrived aboard Soyuz TM-31",
+    "date": "2000-11-02"
+  },
+  {
+    "fact": "STS-92 delivered the Z1 truss segment to the ISS, beginning assembly of the station's backbone structure",
+    "date": "2000-10-11",
+    "time_local": "19:17",
+    "time_utc": "23:17",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The NEAR Shoemaker spacecraft became the first to orbit an asteroid, entering orbit around 433 Eros",
+    "date": "2000-02-14"
+  },
+  {
+    "fact": "NEAR Shoemaker made the first controlled landing on an asteroid, touching down on Eros and transmitting for two weeks",
+    "date": "2001-02-12"
+  },
+  {
+    "fact": "The Destiny laboratory module was attached to the ISS during STS-98, becoming the primary research facility for the US segment",
+    "date": "2001-02-07"
+  },
+  {
+    "fact": "Mars Odyssey launched to study Mars' geology and search for water ice, becoming the longest-serving spacecraft at Mars",
+    "date": "2001-04-07",
+    "time_local": "11:02",
+    "time_utc": "15:02",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Dennis Tito became the first space tourist, paying $20 million to fly to the ISS aboard Soyuz TM-32",
+    "date": "2001-04-28"
+  },
+  {
+    "fact": "Genesis launched to collect samples of solar wind particles and return them to Earth",
+    "date": "2001-08-08",
+    "time_local": "12:13",
+    "time_utc": "16:13",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Space Shuttle Columbia (STS-107) launched on a 16-day science mission that would end in tragedy during reentry",
+    "date": "2003-01-16",
+    "time_local": "10:39",
+    "time_utc": "15:39",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Space Shuttle Columbia broke apart during reentry over Texas and Louisiana, killing all seven crew members including Ilan Ramon, Israel's first astronaut",
+    "date": "2003-02-01",
+    "time_local": "08:59",
+    "time_utc": "13:59",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Columbia disaster was caused by foam insulation striking the wing's leading edge during launch, allowing hot gases to penetrate during reentry",
+    "date": "2003-02-01"
+  },
+  {
+    "fact": "Columbia commander Rick Husband's last words from space were 'Roger, uh...' before the signal was lost",
+    "date": "2003-02-01",
+    "time_local": "08:59",
+    "time_utc": "13:59",
+    "timezone": "America/Chicago"
+  },
+  {
+    "fact": "Spirit (MER-A) launched toward Mars, beginning the remarkably successful Mars Exploration Rover mission",
+    "date": "2003-06-10",
+    "time_local": "13:58",
+    "time_utc": "17:58",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Opportunity (MER-B) launched toward Mars, destined to far exceed its 90-day design life",
+    "date": "2003-07-07",
+    "time_local": "23:18",
+    "time_utc": "03:18",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Spitzer Space Telescope launched, becoming NASA's Great Observatory for infrared astronomy",
+    "date": "2003-08-25",
+    "time_local": "01:35",
+    "time_utc": "05:35",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Spirit rover landed on Mars in Gusev Crater, designed for a 90-day mission but operating for over 6 years",
+    "date": "2004-01-04"
+  },
+  {
+    "fact": "Opportunity rover landed on Mars at Meridiani Planum, eventually traveling over 45 km and operating for nearly 15 years",
+    "date": "2004-01-25"
+  },
+  {
+    "fact": "The Cassini spacecraft entered orbit around Saturn after a 7-year journey, beginning a 13-year mission studying the ringed planet",
+    "date": "2004-07-01"
+  },
+  {
+    "fact": "Genesis sample return capsule crashed in the Utah desert when its parachutes failed to deploy, but scientists still recovered solar wind samples",
+    "date": "2004-09-08"
+  },
+  {
+    "fact": "SpaceShipOne won the $10 million Ansari X Prize by becoming the first private crewed spacecraft to reach space twice within two weeks",
+    "date": "2004-10-04"
+  },
+  {
+    "fact": "The Huygens probe separated from Cassini to begin its descent to Saturn's moon Titan",
+    "date": "2004-12-25"
+  },
+  {
+    "fact": "The Huygens probe landed on Titan, becoming the first landing in the outer solar system and returning the first images of Titan's surface",
+    "date": "2005-01-14"
+  },
+  {
+    "fact": "Deep Impact successfully slammed an impactor into Comet Tempel 1, creating a crater and ejecting material for study",
+    "date": "2005-07-04"
+  },
+  {
+    "fact": "STS-114 launched Space Shuttle Discovery on NASA's return-to-flight mission after the Columbia disaster",
+    "date": "2005-07-26",
+    "time_local": "10:39",
+    "time_utc": "14:39",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Mars Reconnaissance Orbiter launched to study Mars from orbit with the most powerful camera ever sent to another planet",
+    "date": "2005-08-12",
+    "time_local": "07:43",
+    "time_utc": "11:43",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "New Horizons launched toward Pluto, beginning a 9-year journey to the dwarf planet and the Kuiper Belt",
+    "date": "2006-01-19",
+    "time_local": "14:00",
+    "time_utc": "19:00",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "New Horizons became the fastest spacecraft ever launched, leaving Earth at 36,373 mph (58,536 km/h)",
+    "date": "2006-01-19"
+  },
+  {
+    "fact": "Stardust returned samples from Comet Wild 2 to Earth, the first comet samples ever brought back for study",
+    "date": "2006-01-15"
+  },
+  {
+    "fact": "STS-121 launched Space Shuttle Discovery, the second return-to-flight mission after Columbia, testing new safety procedures",
+    "date": "2006-07-04",
+    "time_local": "14:38",
+    "time_utc": "18:38",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Phoenix Mars Lander launched to study the Martian arctic and search for water ice",
+    "date": "2007-08-04",
+    "time_local": "05:26",
+    "time_utc": "09:26",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Dawn spacecraft launched to visit asteroids Vesta and Ceres, using ion propulsion to visit two different worlds",
+    "date": "2007-09-27",
+    "time_local": "07:34",
+    "time_utc": "11:34",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Phoenix became the first spacecraft to land in Mars' polar region, confirming the presence of water ice just below the surface",
+    "date": "2008-05-25"
+  },
+  {
+    "fact": "Phoenix directly observed and photographed water ice on Mars, watching it sublimate over several days",
+    "date": "2008-06-19"
+  },
+  {
+    "fact": "The Hubble Space Telescope was serviced for the final time during STS-125, installing new instruments to extend its life",
+    "date": "2009-05-11"
+  },
+  {
+    "fact": "Kepler Space Telescope launched to search for Earth-like planets around other stars",
+    "date": "2009-03-07",
+    "time_local": "22:49",
+    "time_utc": "03:49",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "LCROSS impacted the Moon's Cabeus crater, confirming the presence of water ice in permanently shadowed regions",
+    "date": "2009-10-09"
+  },
+  {
+    "fact": "SpaceX Falcon 9 successfully launched for the first time, beginning a new era in commercial spaceflight",
+    "date": "2010-06-04",
+    "time_local": "14:45",
+    "time_utc": "18:45",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Spirit rover sent its last communication to Earth after becoming stuck in soft soil, ending a mission that lasted over 6 years",
+    "date": "2010-03-22"
+  },
+  {
+    "fact": "Dawn spacecraft entered orbit around asteroid Vesta, becoming the first spacecraft to orbit a main-belt asteroid",
+    "date": "2011-07-16"
+  },
+  {
+    "fact": "Space Shuttle Atlantis (STS-135) launched on the final Space Shuttle mission after 30 years of the program",
+    "date": "2011-07-08",
+    "time_local": "11:29",
+    "time_utc": "15:29",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Space Shuttle Atlantis landed at Kennedy Space Center, ending the 30-year Space Shuttle program with mission STS-135",
+    "date": "2011-07-21",
+    "time_local": "05:57",
+    "time_utc": "09:57",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "The Space Shuttle program completed 135 missions over 30 years, carrying 355 different people to space",
+    "date": "2011-07-21"
+  },
+  {
+    "fact": "Curiosity rover (Mars Science Laboratory) launched toward Mars, carrying the most sophisticated science instruments ever sent to the Red Planet",
+    "date": "2011-11-26",
+    "time_local": "10:02",
+    "time_utc": "15:02",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Juno spacecraft launched toward Jupiter to study the gas giant's atmosphere, magnetic field, and interior",
+    "date": "2011-08-05",
+    "time_local": "12:25",
+    "time_utc": "16:25",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Voyager 1 entered interstellar space, becoming the first human-made object to leave the heliosphere",
+    "date": "2012-08-25"
+  },
+  {
+    "fact": "Curiosity rover landed on Mars using the innovative 'sky crane' maneuver, beginning the most ambitious Mars surface mission yet",
+    "date": "2012-08-06",
+    "time_local": "01:32",
+    "time_utc": "05:32",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "SpaceX Dragon became the first commercial spacecraft to dock with the International Space Station",
+    "date": "2012-05-25"
+  },
+  {
+    "fact": "Dawn spacecraft left Vesta orbit and began its journey to dwarf planet Ceres",
+    "date": "2012-09-05"
+  },
+  {
+    "fact": "LADEE launched to study the Moon's thin atmosphere and the mysterious lunar dust environment",
+    "date": "2013-09-07",
+    "time_local": "23:27",
+    "time_utc": "03:27",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "MAVEN launched to study Mars' upper atmosphere and understand how the planet lost its early atmosphere",
+    "date": "2013-11-18",
+    "time_local": "13:28",
+    "time_utc": "18:28",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "NASA's Kepler mission confirmed its 1,000th exoplanet discovery",
+    "date": "2015-01-06"
+  },
+  {
+    "fact": "Dawn spacecraft arrived at dwarf planet Ceres, becoming the first mission to orbit a dwarf planet",
+    "date": "2015-03-06"
+  },
+  {
+    "fact": "New Horizons made the first close flyby of Pluto, revealing a geologically active world with mountains of water ice",
+    "date": "2015-07-14"
+  },
+  {
+    "fact": "New Horizons captured the iconic heart-shaped Tombaugh Regio on Pluto, named after Pluto's discoverer Clyde Tombaugh",
+    "date": "2015-07-14"
+  },
+  {
+    "fact": "SpaceX Falcon 9 successfully landed its first stage back on land at Cape Canaveral, revolutionizing rocket reusability",
+    "date": "2015-12-22",
+    "time_local": "20:29",
+    "time_utc": "01:29",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Scott Kelly returned from the ISS after 340 consecutive days in space, setting the US record for longest single spaceflight",
+    "date": "2016-03-01"
+  },
+  {
+    "fact": "Juno spacecraft entered orbit around Jupiter, beginning its study of the giant planet's deep atmosphere and interior",
+    "date": "2016-07-04"
+  },
+  {
+    "fact": "OSIRIS-REx launched to asteroid Bennu to collect samples and return them to Earth",
+    "date": "2016-09-08",
+    "time_local": "19:05",
+    "time_utc": "23:05",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "SpaceX Falcon 9 successfully landed on a drone ship at sea for the first time",
+    "date": "2016-04-08"
+  },
+  {
+    "fact": "Cassini began its 'Grand Finale' orbits, diving between Saturn and its rings for the first time",
+    "date": "2017-04-26"
+  },
+  {
+    "fact": "Cassini plunged into Saturn's atmosphere, ending its 13-year mission with a final blaze of data transmission",
+    "date": "2017-09-15"
+  },
+  {
+    "fact": "Parker Solar Probe launched to become the first spacecraft to 'touch' the Sun, eventually flying through the solar corona",
+    "date": "2018-08-12",
+    "time_local": "03:31",
+    "time_utc": "07:31",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "InSight lander touched down on Mars to study the planet's interior using a seismometer and heat probe",
+    "date": "2018-11-26"
+  },
+  {
+    "fact": "Opportunity rover's mission was declared complete after a global dust storm prevented it from recharging its batteries",
+    "date": "2019-02-13"
+  },
+  {
+    "fact": "Opportunity had traveled over 45 km on Mars, setting the all-time record for off-Earth driving distance",
+    "date": "2018-06-10"
+  },
+  {
+    "fact": "New Horizons flew past Arrokoth (2014 MU69), the most distant object ever explored by a spacecraft",
+    "date": "2019-01-01"
+  },
+  {
+    "fact": "SpaceX Crew Dragon Demo-1 launched, becoming the first American spacecraft to autonomously dock with the ISS",
+    "date": "2019-03-02",
+    "time_local": "02:49",
+    "time_utc": "07:49",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Christina Koch set the record for longest single spaceflight by a woman at 328 days aboard the ISS",
+    "date": "2020-02-06"
+  },
+  {
+    "fact": "SpaceX Crew Dragon Demo-2 launched astronauts Doug Hurley and Bob Behnken, restoring American crewed launch capability",
+    "date": "2020-05-30",
+    "time_local": "15:22",
+    "time_utc": "19:22",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Demo-2 was the first crewed orbital spaceflight from American soil since STS-135 in 2011",
+    "date": "2020-05-30"
+  },
+  {
+    "fact": "Perseverance rover launched to Mars carrying the Ingenuity helicopter for the first powered flight on another planet",
+    "date": "2020-07-30",
+    "time_local": "07:50",
+    "time_utc": "11:50",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "OSIRIS-REx successfully collected samples from asteroid Bennu using a touch-and-go maneuver",
+    "date": "2020-10-20"
+  },
+  {
+    "fact": "SpaceX Crew-1 launched with four astronauts on the first operational crew rotation mission to the ISS",
+    "date": "2020-11-15",
+    "time_local": "19:27",
+    "time_utc": "00:27",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Perseverance rover landed on Mars in Jezero Crater, carrying the first helicopter to fly on another planet",
+    "date": "2021-02-18",
+    "time_local": "15:55",
+    "time_utc": "20:55",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Perseverance used the sky crane landing system successfully, touching down in an ancient river delta on Mars",
+    "date": "2021-02-18"
+  },
+  {
+    "fact": "Ingenuity helicopter made the first powered, controlled flight on another planet, flying for 39 seconds on Mars",
+    "date": "2021-04-19"
+  },
+  {
+    "fact": "Ingenuity's first Mars flight lasted 39.1 seconds, reaching an altitude of 3 meters, proving flight is possible in Mars' thin atmosphere",
+    "date": "2021-04-19"
+  },
+  {
+    "fact": "The James Webb Space Telescope launched from French Guiana on an Ariane 5 rocket, beginning its journey to the L2 point",
+    "date": "2021-12-25",
+    "time_local": "07:20",
+    "time_utc": "12:20",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "JWST is the largest and most powerful space telescope ever built, with a 6.5-meter primary mirror made of gold-plated beryllium",
+    "date": "2021-12-25"
+  },
+  {
+    "fact": "James Webb Space Telescope successfully deployed its sunshield over five days after launch",
+    "date": "2022-01-04"
+  },
+  {
+    "fact": "JWST arrived at its orbit around the L2 Lagrange point, 1.5 million km from Earth",
+    "date": "2022-01-24"
+  },
+  {
+    "fact": "The first full-color images from the James Webb Space Telescope were released, including the deepest infrared view of the universe",
+    "date": "2022-07-12"
+  },
+  {
+    "fact": "DART spacecraft successfully impacted asteroid Dimorphos, demonstrating the first planetary defense technique",
+    "date": "2022-09-26"
+  },
+  {
+    "fact": "DART changed Dimorphos' orbit by 32 minutes, proving asteroids can be deflected by kinetic impact",
+    "date": "2022-10-11"
+  },
+  {
+    "fact": "Artemis I launched on the SLS rocket, sending an uncrewed Orion capsule around the Moon to test systems for future crewed missions",
+    "date": "2022-11-16",
+    "time_local": "01:47",
+    "time_utc": "06:47",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Artemis I set the record for the farthest distance from Earth by a spacecraft designed to carry humans, reaching 432,210 km",
+    "date": "2022-11-28"
+  },
+  {
+    "fact": "Artemis I Orion capsule splashed down in the Pacific Ocean after a successful 25-day mission around the Moon",
+    "date": "2022-12-11",
+    "time_local": "09:40",
+    "time_utc": "17:40",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "OSIRIS-REx sample return capsule landed in Utah carrying material from asteroid Bennu",
+    "date": "2023-09-24"
+  },
+  {
+    "fact": "Ingenuity helicopter completed its 72nd and final flight on Mars after nearly 3 years of operations",
+    "date": "2024-01-18"
+  },
+  {
+    "fact": "Neil Armstrong, born in Wapakoneta, Ohio, became the most famous Midwesterner in space history as the first person on the Moon",
+    "date": "1969-07-20"
+  },
+  {
+    "fact": "John Glenn, from Cambridge, Ohio, became the first American to orbit Earth and later the oldest person to fly in space",
+    "date": "1962-02-20"
+  },
+  {
+    "fact": "Jim Lovell, born in Cleveland, Ohio, commanded the ill-fated Apollo 13 mission and was the first person to fly to the Moon twice",
+    "date": "1970-04-11"
+  },
+  {
+    "fact": "Gus Grissom, from Mitchell, Indiana, was the second American in space and commanded the first Gemini mission before dying in the Apollo 1 fire",
+    "date": "1961-07-21"
+  },
+  {
+    "fact": "Gene Cernan, born in Chicago, Illinois, became the last person to walk on the Moon during Apollo 17",
+    "date": "1972-12-14"
+  },
+  {
+    "fact": "Judith Resnik, from Akron, Ohio, was the second American woman in space and was killed in the Challenger disaster",
+    "date": "1984-08-30"
+  },
+  {
+    "fact": "Sunita Williams, whose family is from Ohio, holds the record for most spacewalk time by a female astronaut",
+    "date": "2012-09-05"
+  },
+  {
+    "fact": "The Johnson Space Center (JSC) was established in Houston, Texas, becoming NASA's center for human spaceflight",
+    "date": "1961-09-19"
+  },
+  {
+    "fact": "Kennedy Space Center was established as NASA's primary launch facility for crewed missions",
+    "date": "1962-07-01"
+  },
+  {
+    "fact": "The Jet Propulsion Laboratory (JPL), operated by Caltech for NASA, manages most of NASA's robotic space missions",
+    "date": "1958-12-03"
+  },
+  {
+    "fact": "Goddard Space Flight Center was NASA's first space flight center, named after rocket pioneer Robert Goddard",
+    "date": "1959-05-01"
+  },
+  {
+    "fact": "Telstar 1, the first active communications satellite, transmitted the first live transatlantic television signal",
+    "date": "1962-07-10"
+  },
+  {
+    "fact": "Landsat 1 launched as the first Earth-observing satellite, beginning continuous monitoring of Earth's surface",
+    "date": "1972-07-23"
+  },
+  {
+    "fact": "The first GPS satellite (Navstar 1) was launched, beginning the Global Positioning System constellation",
+    "date": "1978-02-22"
+  },
+  {
+    "fact": "Pioneer 10 crossed Neptune's orbit, becoming the first human-made object to travel beyond the major planets",
+    "date": "1983-06-13"
+  },
+  {
+    "fact": "Pioneer 10's final signal was received by NASA's Deep Space Network before contact was lost forever",
+    "date": "2003-01-23"
+  },
+  {
+    "fact": "Voyager 1 is the farthest human-made object from Earth, traveling over 24 billion km into interstellar space",
+    "date": "2024-01-01"
+  },
+  {
+    "fact": "The Hubble Space Telescope has made over 1.5 million observations since its launch in 1990",
+    "date": "2020-04-24"
+  },
+  {
+    "fact": "X-15 rocket plane set the aircraft speed record of Mach 6.7 (7,274 km/h), piloted by Pete Knight",
+    "date": "1967-10-03"
+  },
+  {
+    "fact": "X-15 pilot Joseph Walker reached an altitude of 107.8 km, exceeding the international definition of space",
+    "date": "1963-08-22"
+  },
+  {
+    "fact": "The X-15 program completed 199 flights and contributed data essential for developing the Space Shuttle",
+    "date": "1968-10-24"
+  },
+  {
+    "fact": "STS-27 Atlantis suffered severe tile damage during launch, coming close to a Columbia-like disaster but surviving reentry",
+    "date": "1988-12-02"
+  },
+  {
+    "fact": "STS-51-L (Challenger) crew members included Francis Scobee, Michael Smith, Judith Resnik, Ellison Onizuka, Ronald McNair, Gregory Jarvis, and Christa McAuliffe",
+    "date": "1986-01-28"
+  },
+  {
+    "fact": "STS-107 (Columbia) crew members included Rick Husband, William McCool, Michael Anderson, Kalpana Chawla, David Brown, Laurel Clark, and Ilan Ramon",
+    "date": "2003-02-01"
+  },
+  {
+    "fact": "Kalpana Chawla was the first woman of Indian origin in space, flying on STS-87 before her fatal STS-107 mission",
+    "date": "1997-11-19"
+  },
+  {
+    "fact": "Peggy Whitson holds the US record for total time in space with 665 days across multiple missions",
+    "date": "2017-09-03"
+  },
+  {
+    "fact": "Frank Rubio set a new US single-spaceflight record of 371 days aboard the ISS",
+    "date": "2023-09-27"
+  },
+  {
+    "fact": "Blue Origin's New Shepard made its first crewed flight with Jeff Bezos aboard, launching from West Texas",
+    "date": "2021-07-20"
+  },
+  {
+    "fact": "Boeing Starliner completed its first crewed test flight to the ISS with astronauts Butch Wilmore and Suni Williams",
+    "date": "2024-06-05"
+  },
+  {
+    "fact": "SpaceX Starship completed its first successful flight and landing during its fourth test flight",
+    "date": "2024-06-06"
+  },
+  {
+    "fact": "SpaceX became the first private company to launch humans to orbit and to the ISS with Crew Dragon",
+    "date": "2020-05-30"
+  },
+  {
+    "fact": "Axiom-1 became the first all-private crewed mission to the ISS, commanded by former astronaut Michael López-Alegría",
+    "date": "2022-04-08"
+  },
+  {
+    "fact": "Inspiration4 was the first all-civilian orbital spaceflight, with no professional astronauts aboard",
+    "date": "2021-09-15"
+  },
+  {
+    "fact": "The Apollo lunar samples total 382 kg of Moon rocks and soil brought back to Earth across six missions",
+    "date": "1972-12-19"
+  },
+  {
+    "fact": "Mariner 4 returned the first close-up images of Mars, revealing a cratered surface unlike Earth",
+    "date": "1965-07-14"
+  },
+  {
+    "fact": "Mariner 9 became the first spacecraft to orbit another planet, mapping the entire surface of Mars",
+    "date": "1971-11-14"
+  },
+  {
+    "fact": "The Saturn V remains the most powerful rocket ever successfully launched, generating 7.5 million pounds of thrust",
+    "date": "1967-11-09"
+  },
+  {
+    "fact": "STS-41-G was the first spaceflight to include two women: Sally Ride and Kathryn Sullivan",
+    "date": "1984-10-05"
+  },
+  {
+    "fact": "Jessica Watkins became the first Black woman to serve on a long-duration ISS mission during Crew-4",
+    "date": "2022-04-27"
+  },
+  {
+    "fact": "The ISS has been continuously occupied since November 2000, marking over 20 years of human presence in space",
+    "date": "2020-11-02"
+  },
+  {
+    "fact": "STS-95 was watched by an estimated 250 million viewers, the largest TV audience for a shuttle mission since Challenger",
+    "date": "1998-10-29"
+  },
+  {
+    "fact": "The Space Shuttle traveled a total of over 870 million km across all 135 missions",
+    "date": "2011-07-21"
+  },
+  {
+    "fact": "President Kennedy's Moon speech at Rice University declared 'We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard'",
+    "date": "1962-09-12"
+  },
+  {
+    "fact": "The Apollo Guidance Computer had less processing power than a modern calculator but successfully navigated humans to the Moon",
+    "date": "1969-07-20"
+  },
+  {
+    "fact": "Apollo 11 astronauts were quarantined for 21 days after returning from the Moon to ensure they hadn't brought back lunar pathogens",
+    "date": "1969-07-24"
+  },
+  {
+    "fact": "Michael Collins orbited the Moon alone during Apollo 11, becoming the most isolated human in history - 3,200 km from the nearest humans",
+    "date": "1969-07-20"
+  },
+  {
+    "fact": "Alan Bean was the fourth person to walk on the Moon and later became a renowned artist painting lunar scenes",
+    "date": "1969-11-19"
+  },
+  {
+    "fact": "Stuart Roosa flew to the Moon on Apollo 14 with hundreds of tree seeds that were later planted across the US as 'Moon Trees'",
+    "date": "1971-02-09"
+  },
+  {
+    "fact": "John Young walked on the Moon during Apollo 16 and later commanded the first Space Shuttle mission, spanning NASA's greatest eras",
+    "date": "1981-04-12"
+  },
+  {
+    "fact": "The Lunar Laser Ranging Experiment retroreflectors left by Apollo astronauts are still used today to measure Earth-Moon distance",
+    "date": "1969-07-21"
+  },
+  {
+    "fact": "Mercury spacecraft were so small that astronaut John Glenn had trouble fitting inside at 5'10\" and 180 pounds",
+    "date": "1962-02-20"
+  },
+  {
+    "fact": "Gordon Cooper's Mercury-Atlas 9 mission was the first American spaceflight to last more than a day",
+    "date": "1963-05-16"
+  },
+  {
+    "fact": "Wally Schirra is the only astronaut to fly Mercury, Gemini, and Apollo spacecraft, participating in all three programs",
+    "date": "1968-10-22"
+  },
+  {
+    "fact": "The Space Shuttle main engines were the most efficient rocket engines ever built, with 452 seconds of specific impulse",
+    "date": "1981-04-12"
+  },
+  {
+    "fact": "STS-114 introduced the Shuttle's External Tank inspection boom after the Columbia disaster investigation",
+    "date": "2005-07-26"
+  },
+  {
+    "fact": "Space Shuttle Discovery flew more missions (39) than any other orbiter in the fleet",
+    "date": "2011-03-09"
+  },
+  {
+    "fact": "Space Shuttle Endeavour was built using structural spare parts from Discovery and Atlantis after Challenger was lost",
+    "date": "1992-05-07"
+  },
+  {
+    "fact": "The Vehicle Assembly Building at Kennedy Space Center is so large that clouds can form inside on humid days",
+    "date": "1965-06-01"
+  },
+  {
+    "fact": "Enterprise was the first Space Shuttle orbiter, built for atmospheric test flights but never flew in space",
+    "date": "1977-02-18"
+  },
+  {
+    "fact": "The Space Shuttle's thermal protection system contained over 24,000 individual tiles, each uniquely shaped",
+    "date": "1981-04-12"
+  },
+  {
+    "fact": "TESS (Transiting Exoplanet Survey Satellite) launched to search for exoplanets around the brightest stars near Earth",
+    "date": "2018-04-18",
+    "time_local": "18:51",
+    "time_utc": "22:51",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Lucy spacecraft launched to study Jupiter's Trojan asteroids, visiting more asteroids than any previous mission",
+    "date": "2021-10-16",
+    "time_local": "05:34",
+    "time_utc": "09:34",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Europa Clipper launched to study Jupiter's moon Europa and its potential subsurface ocean",
+    "date": "2024-10-14",
+    "time_local": "12:06",
+    "time_utc": "16:06",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Psyche spacecraft launched to study the metal asteroid 16 Psyche, thought to be the core of a protoplanet",
+    "date": "2023-10-13",
+    "time_local": "10:19",
+    "time_utc": "14:19",
+    "timezone": "America/New_York"
+  },
+  {
+    "fact": "Voyager 2 is the only spacecraft to have visited all four giant outer planets: Jupiter, Saturn, Uranus, and Neptune",
+    "date": "1989-08-25"
+  },
+  {
+    "fact": "The Galileo mission discovered evidence of a subsurface ocean on Jupiter's moon Europa, making it a prime target for astrobiology",
+    "date": "1996-12-19"
+  },
+  {
+    "fact": "Cassini discovered water geysers erupting from Saturn's moon Enceladus, suggesting a subsurface ocean",
+    "date": "2005-07-14"
+  },
+  {
+    "fact": "The Mars helicopter Ingenuity far exceeded its planned 5 flights, completing 72 flights over nearly 3 years",
+    "date": "2024-01-18"
+  },
+  {
+    "fact": "Curiosity rover discovered organic molecules on Mars, suggesting the planet may have once supported life",
+    "date": "2018-06-07"
+  },
+  {
+    "fact": "Spirit rover discovered evidence that Mars once had water on its surface by analyzing rock formations in Gusev Crater",
+    "date": "2004-03-05"
+  },
+  {
+    "fact": "NASA's WISE spacecraft discovered the coldest brown dwarf star known, with a temperature close to Earth's",
+    "date": "2014-04-25"
+  },
+  {
+    "fact": "Kepler Space Telescope discovered over 2,600 confirmed exoplanets before its mission ended",
+    "date": "2018-10-30"
+  },
+  {
+    "fact": "JWST discovered the most distant known galaxy JADES-GS-z14-0, seen as it was 290 million years after the Big Bang",
+    "date": "2024-05-30"
+  },
+  {
+    "fact": "The SLS rocket is the most powerful rocket NASA has ever built, producing 8.8 million pounds of thrust at liftoff",
+    "date": "2022-11-16"
+  },
+  {
+    "fact": "Orion spacecraft can support four astronauts for up to 21 days, designed for deep space exploration",
+    "date": "2022-11-16"
+  },
+  {
+    "fact": "Artemis program aims to land the first woman and first person of color on the Moon",
+    "date": "2024-01-01"
+  },
+  {
+    "fact": "Gateway, a small space station orbiting the Moon, will serve as a staging point for Artemis lunar surface missions",
+    "date": "2024-01-01"
+  },
+  {
+    "fact": "The Voyager Golden Records carry sounds and images of Earth for any extraterrestrial civilization that might find them",
+    "date": "1977-09-05"
+  },
+  {
+    "fact": "Pioneer plaques depict a nude man and woman and a map showing Earth's location in the galaxy",
+    "date": "1972-03-02"
+  },
+  {
+    "fact": "Robert Goddard launched the world's first liquid-fueled rocket in Auburn, Massachusetts",
+    "date": "1926-03-16"
+  },
+  {
+    "fact": "Wernher von Braun led the development of the Saturn V rocket that carried astronauts to the Moon",
+    "date": "1969-07-16"
+  },
+  {
+    "fact": "Katherine Johnson's calculations were critical to the success of America's early space missions, including John Glenn's orbital flight",
+    "date": "1962-02-20"
+  },
+  {
+    "fact": "Margaret Hamilton led the team that developed the Apollo Guidance Computer software, coining the term 'software engineering'",
+    "date": "1969-07-20"
+  },
+  {
+    "fact": "Gene Kranz led Mission Control during Apollo 11 and Apollo 13, famous for saying 'Failure is not an option'",
+    "date": "1970-04-17"
+  },
+  {
+    "fact": "Chris Kraft designed NASA's Mission Control Center and flight control protocols that are still used today",
+    "date": "1961-05-05"
+  }
+]
