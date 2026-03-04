@@ -1,0 +1,128 @@
+Fetching categories...
+Found 24 categories
+Getting session token...
+Token: 90062ac6967a7371d9d4...
+
+Category: General Knowledge (id=9)
+  easy: +50 (total: 50)
+  medium: +50 (total: 100)
+  hard: +50 (total: 150)
+
+Category: Entertainment: Books (id=10)
+  easy: exhausted
+  medium: +50 (total: 200)
+  hard: exhausted
+
+Category: Entertainment: Film (id=11)
+  easy: +50 (total: 250)
+  medium: +50 (total: 300)
+  hard: exhausted
+
+Category: Entertainment: Music (id=12)
+  easy: +50 (total: 350)
+  medium: +50 (total: 400)
+  hard: +50 (total: 450)
+
+Category: Entertainment: Musicals & Theatres (id=13)
+  easy: exhausted
+  medium: exhausted
+  hard: exhausted
+
+Category: Entertainment: Television (id=14)
+  easy: +50 (total: 500)
+  medium: +50 (total: 550)
+  hard: exhausted
+
+Category: Entertainment: Video Games (id=15)
+  easy: +50 (total: 600)
+  medium: +50 (total: 650)
+  hard: +50 (total: 700)
+
+Category: Entertainment: Board Games (id=16)
+  easy: exhausted
+  medium: exhausted
+  hard: exhausted
+
+Category: Science & Nature (id=17)
+  easy: +50 (total: 750)
+  medium: +50 (total: 800)
+  hard: +50 (total: 850)
+
+Category: Science: Computers (id=18)
+  easy: +50 (total: 900)
+  medium: +50 (total: 950)
+  hard: exhausted
+
+Category: Science: Mathematics (id=19)
+  easy: exhausted
+  medium: exhausted
+  hard: exhausted
+
+Category: Mythology (id=20)
+  easy: exhausted
+  medium: exhausted
+  hard: exhausted
+
+Category: Sports (id=21)
+  easy: +50 (total: 1000)
+  medium: +50 (total: 1050)
+  hard: exhausted
+
+Category: Geography (id=22)
+  easy: +50 (total: 1100)
+  medium: +50 (total: 1150)
+  hard: +50 (total: 1200)
+
+Category: History (id=23)
+  easy: +50 (total: 1250)
+  medium: +50 (total: 1300)
+  hard: +50 (total: 1350)
+
+Category: Politics (id=24)
+  easy: exhausted
+  medium: exhausted
+  hard: exhausted
+
+Category: Art (id=25)
+  easy: exhausted
+  medium: exhausted
+  hard: exhausted
+
+Category: Celebrities (id=26)
+  easy: exhausted
+  medium: exhausted
+  hard: exhausted
+
+Category: Animals (id=27)
+  easy: exhausted
+  medium: exhausted
+  hard: exhausted
+
+Category: Vehicles (id=28)
+  easy: exhausted
+  medium: exhausted
+  hard: exhausted
+
+Category: Entertainment: Comics (id=29)
+  easy: exhausted
+  medium: exhausted
+  hard: exhausted
+
+Category: Science: Gadgets (id=30)
+  easy: exhausted
+  medium: exhausted
+  hard: exhausted
+
+Category: Entertainment: Japanese Anime & Manga (id=31)
+  easy: +50 (total: 1400)
+  medium: +50 (total: 1450)
+  hard: exhausted
+
+Category: Entertainment: Cartoon & Animations (id=32)
+  easy: exhausted
+  medium: exhausted
+  hard: exhausted
+
+==================================================
+Total unique questions: 1450
+Saved to /root/.openclaw/workspace/scrape-project/output/trivia.json

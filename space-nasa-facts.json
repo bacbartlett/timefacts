@@ -204,13 +204,6 @@
     "timezone": "America/New_York"
   },
   {
-    "fact": "Neil Armstrong became the first human to walk on the Moon, declaring 'That's one small step for man, one giant leap for mankind'",
-    "date": "1969-07-20",
-    "time_local": "22:56",
-    "time_utc": "02:56",
-    "timezone": "America/New_York"
-  },
-  {
     "fact": "Buzz Aldrin joined Neil Armstrong on the lunar surface 19 minutes after Armstrong's first step, becoming the second human to walk on the Moon",
     "date": "1969-07-21",
     "time_utc": "03:15"
@@ -382,7 +375,7 @@
     "time_utc": "12:20"
   },
   {
-    "fact": "The Apollo and Soyuz spacecraft docked in orbit, and American astronaut Tom Stafford shook hands with Soviet cosmonaut Alexei Leonov, symbolizing détente",
+    "fact": "The Apollo and Soyuz spacecraft docked in orbit, and American astronaut Tom Stafford shook hands with Soviet cosmonaut Alexei Leonov, symbolizing d\u00e9tente",
     "date": "1975-07-17",
     "time_utc": "16:09"
   },
@@ -582,7 +575,7 @@
     "date": "1989-08-25"
   },
   {
-    "fact": "Voyager 2's Neptune flyby revealed Triton as the coldest object yet measured in the solar system at -235°C",
+    "fact": "Voyager 2's Neptune flyby revealed Triton as the coldest object yet measured in the solar system at -235\u00b0C",
     "date": "1989-08-25"
   },
   {
@@ -1152,10 +1145,6 @@
     "date": "2021-02-18"
   },
   {
-    "fact": "Ingenuity helicopter made the first powered, controlled flight on another planet, flying for 39 seconds on Mars",
-    "date": "2021-04-19"
-  },
-  {
     "fact": "Ingenuity's first Mars flight lasted 39.1 seconds, reaching an altitude of 3 meters, proving flight is possible in Mars' thin atmosphere",
     "date": "2021-04-19"
   },
@@ -1231,10 +1220,6 @@
   {
     "fact": "Gus Grissom, from Mitchell, Indiana, was the second American in space and commanded the first Gemini mission before dying in the Apollo 1 fire",
     "date": "1961-07-21"
-  },
-  {
-    "fact": "Gene Cernan, born in Chicago, Illinois, became the last person to walk on the Moon during Apollo 17",
-    "date": "1972-12-14"
   },
   {
     "fact": "Judith Resnik, from Akron, Ohio, was the second American woman in space and was killed in the Challenger disaster",
@@ -1341,7 +1326,7 @@
     "date": "2020-05-30"
   },
   {
-    "fact": "Axiom-1 became the first all-private crewed mission to the ISS, commanded by former astronaut Michael López-Alegría",
+    "fact": "Axiom-1 became the first all-private crewed mission to the ISS, commanded by former astronaut Michael L\u00f3pez-Alegr\u00eda",
     "date": "2022-04-08"
   },
   {
@@ -2011,7 +1996,7 @@
     "timezone": "America/New_York"
   },
   {
-    "fact": "Jerry Ross from Crown Point, Indiana, flew seven Space Shuttle missions, setting a record with Franklin Chang-Díaz",
+    "fact": "Jerry Ross from Crown Point, Indiana, flew seven Space Shuttle missions, setting a record with Franklin Chang-D\u00edaz",
     "date": "2002-04-08"
   },
   {
@@ -2366,10 +2351,6 @@
     "time_utc": "23:53"
   },
   {
-    "fact": "Frank Borman, from Gary, Indiana, commanded Apollo 8, the first crewed mission to orbit the Moon",
-    "date": "1968-12-21"
-  },
-  {
     "fact": "Tony England, from Indianapolis, Indiana, flew on STS-51-F and was the first astronaut with a PhD in geophysics",
     "date": "1985-07-29"
   },
@@ -2482,7 +2463,7 @@
     "date": "2024-03-04"
   },
   {
-    "fact": "Axiom-3 launched with the first Turkish astronaut Alper Gezeravcı aboard SpaceX Crew Dragon",
+    "fact": "Axiom-3 launched with the first Turkish astronaut Alper Gezeravc\u0131 aboard SpaceX Crew Dragon",
     "date": "2024-01-18",
     "time_local": "16:49",
     "time_utc": "21:49",
@@ -2549,7 +2530,7 @@
     "date": "1997-10-06"
   },
   {
-    "fact": "Michael López-Alegría holds the American record for total spacewalk time at 67 hours 40 minutes",
+    "fact": "Michael L\u00f3pez-Alegr\u00eda holds the American record for total spacewalk time at 67 hours 40 minutes",
     "date": "2007-02-22"
   },
   {

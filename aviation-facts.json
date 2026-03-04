@@ -7,12 +7,6 @@
     "timezone": "America/New_York"
   },
   {
-    "fact": "Wilbur Wright made the longest flight of the day on December 17, 1903, covering 852 feet in 59 seconds",
-    "date": "1903-12-17",
-    "time_local": "12:00",
-    "timezone": "America/New_York"
-  },
-  {
     "fact": "The Wright Brothers were from Dayton, Ohio, where they ran a bicycle repair and manufacturing shop before turning to aviation",
     "date": "1892-01-01"
   },
@@ -116,10 +110,6 @@
   {
     "fact": "Chuck Yeager reached Mach 2.44 (1,650 mph) in the Bell X-1A, setting a new speed record",
     "date": "1953-12-12"
-  },
-  {
-    "fact": "The X-15 rocket plane reached a maximum speed of Mach 6.7 (4,520 mph), piloted by Pete Knight",
-    "date": "1967-10-03"
   },
   {
     "fact": "X-15 pilot Joe Walker set an altitude record of 354,200 feet (67 miles), qualifying as spaceflight",

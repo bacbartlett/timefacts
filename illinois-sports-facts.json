@@ -30,12 +30,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "The Chicago Bears defeated the Washington Redskins 73-0 in the NFL Championship Game, the most lopsided game in NFL history",
-    "date": "1940-12-08",
-    "time_local": "14:00",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Wrigley Field hosted its first NFL Championship Game as the Bears defeated the New York Giants",
     "date": "1933-12-17",
     "timezone": "America/Chicago"
@@ -61,18 +55,8 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "The Chicago Cardinals won the NFL Championship, defeating the Philadelphia Eagles 28-21 at Comiskey Park",
-    "date": "1947-12-28",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Ernie Nevers of the Chicago Cardinals scored all 40 points (6 TDs, 4 PATs) in a 40-6 victory over the Bears, an NFL record that still stands",
     "date": "1929-11-28",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "The Chicago Cubs won the World Series, defeating the Detroit Tigers 2-0 in Game 5 to win their last championship until 2016",
-    "date": "1908-10-14",
     "timezone": "America/Chicago"
   },
   {
@@ -303,13 +287,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "The Chicago Bears won Super Bowl XX, defeating the New England Patriots 46-10 in New Orleans",
-    "date": "1986-01-26",
-    "time_local": "17:00",
-    "time_utc": "23:00",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Richard Dent was named Super Bowl XX MVP with 1.5 sacks and 2 forced fumbles",
     "date": "1986-01-26",
     "timezone": "America/Chicago"
@@ -389,13 +366,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "The Chicago Bulls won their first NBA Championship, defeating the Los Angeles Lakers 108-101 in Game 5 of the NBA Finals",
-    "date": "1991-06-12",
-    "time_local": "20:00",
-    "time_utc": "01:00",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Michael Jordan was named NBA Finals MVP as the Bulls won their first championship",
     "date": "1991-06-12",
     "timezone": "America/Chicago"
@@ -453,11 +423,6 @@
   {
     "fact": "The Chicago Stadium, home to the Bulls and Blackhawks since 1929, hosted its final event",
     "date": "1994-04-14",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "The United Center opened as the new home of the Chicago Bulls and Blackhawks",
-    "date": "1994-08-18",
     "timezone": "America/Chicago"
   },
   {
@@ -663,23 +628,12 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "The Chicago Blackhawks won the Stanley Cup, defeating the Philadelphia Flyers 4-3 in overtime in Game 6",
-    "date": "2010-06-09",
-    "time_local": "19:00",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Patrick Kane scored the Stanley Cup-winning goal in overtime, ending Chicago's 49-year championship drought",
     "date": "2010-06-09",
     "timezone": "America/Chicago"
   },
   {
     "fact": "Jonathan Toews won the Conn Smythe Trophy as playoff MVP",
-    "date": "2010-06-09",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "The Chicago Blackhawks won their first Stanley Cup since 1961",
     "date": "2010-06-09",
     "timezone": "America/Chicago"
   },
@@ -775,12 +729,6 @@
   {
     "fact": "The Loyola Ramblers defeated Kansas State 78-62 to advance to the Final Four",
     "date": "2018-03-24",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "The Chicago Sky won the WNBA Championship, defeating the Phoenix Mercury 80-74 in Game 4",
-    "date": "2021-10-17",
-    "time_local": "15:00",
     "timezone": "America/Chicago"
   },
   {
@@ -921,11 +869,6 @@
   {
     "fact": "Northwestern played in the Rose Bowl for the first time since 1949, losing to USC 41-32",
     "date": "1996-01-01",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "DePaul Blue Demons basketball reached the Final Four for the first time",
-    "date": "1979-03-24",
     "timezone": "America/Chicago"
   },
   {
@@ -1196,11 +1139,6 @@
   {
     "fact": "The Chicago Cubs lost the World Series to the Detroit Tigers, beginning a 71-year World Series drought",
     "date": "1945-10-10",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "Steve Bartman interfered with a foul ball in the NLCS, and the Cubs lost the series to the Marlins",
-    "date": "2003-10-14",
     "timezone": "America/Chicago"
   },
   {
@@ -2071,11 +2009,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "Jon Lester earned a save in Game 7 of the 2016 World Series",
-    "date": "2016-11-02",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Carl Edwards Jr. got the final out of the rain delay in Game 7 of the World Series",
     "date": "2016-11-02",
     "timezone": "America/Chicago"
@@ -2158,11 +2091,6 @@
   {
     "fact": "The Chicago Bears signed Jay Cutler as their starting quarterback",
     "date": "2009-04-03",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "The Chicago Bears reached the NFC Championship Game under Lovie Smith",
-    "date": "2011-01-23",
     "timezone": "America/Chicago"
   },
   {
@@ -2271,11 +2199,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "The Illinois Fighting Illini won the Big Ten Tournament championship",
-    "date": "2021-03-14",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "The Illinois Fighting Illini defeated Ohio State to win the 2021 Big Ten Tournament",
     "date": "2021-03-14",
     "timezone": "America/Chicago"
@@ -2348,11 +2271,6 @@
   {
     "fact": "The Chicago Bulls hosted the NBA All-Star Game at the United Center",
     "date": "2020-02-16",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "The Chicago Blackhawks hosted the NHL Winter Classic at Wrigley Field",
-    "date": "2009-01-01",
     "timezone": "America/Chicago"
   },
   {

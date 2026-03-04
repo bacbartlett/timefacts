@@ -1,0 +1,36 @@
+Fetching from history.muffinlabs.com (all 366 days)...
+  Month 1, Day 1: 33 facts so far
+  Month 1, Day 10: 193 facts so far
+  Month 1, Day 20: 348 facts so far
+  Month 1, Day 30: 508 facts so far
+Month 1 done: 529 total facts
+  Month 2, Day 1: 548 facts so far
+Month 2 done: 1021 total facts
+  Month 3, Day 1: 1043 facts so far
+  Error on 3/3: 'NoneType' object has no attribute 'strip'
+Month 3 done: 1504 total facts
+  Month 4, Day 1: 1517 facts so far
+Month 4 done: 2003 total facts
+  Month 5, Day 1: 2024 facts so far
+Month 5 done: 2558 total facts
+  Month 6, Day 1: 2580 facts so far
+Month 6 done: 3099 total facts
+  Month 7, Day 1: 3127 facts so far
+  Error on 7/13: 'NoneType' object has no attribute 'strip'
+  Error on 7/19: 'NoneType' object has no attribute 'strip'
+Month 7 done: 3652 total facts
+  Month 8, Day 1: 3677 facts so far
+Month 8 done: 4230 total facts
+  Month 9, Day 1: 4246 facts so far
+Month 9 done: 4772 total facts
+  Month 10, Day 1: 4804 facts so far
+  Error on 10/2: 'NoneType' object has no attribute 'strip'
+Month 10 done: 5230 total facts
+  Month 11, Day 1: 5262 facts so far
+Month 11 done: 5796 total facts
+  Month 12, Day 1: 5822 facts so far
+Month 12 done: 6337 total facts
+
+==================================================
+Total American history facts: 6337
+Saved to /root/.openclaw/workspace/scrape-project/output/american_history.json

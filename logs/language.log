@@ -1,0 +1,62 @@
+
+==================================================
+Processing Spanish: Wiktionary:Frequency_lists/Spanish1000
+  Extracted 2 words
+  Final: 2 words, 2 with translations
+
+==================================================
+Processing French: Wiktionary:Frequency_lists/French_wordlist_opensubtitles_5000
+  Extracted 0 words
+  Final: 0 words, 0 with translations
+
+==================================================
+Processing German: Wiktionary:Frequency_lists/German_subtitles_1000
+  Extracted 0 words
+  Final: 0 words, 0 with translations
+
+==================================================
+Processing Italian: Wiktionary:Frequency_lists/Italian1000
+  Extracted 1 words
+  Final: 1 words, 1 with translations
+
+==================================================
+Processing Portuguese: Wiktionary:Frequency_lists/Portuguese_wordlist_opensubtitles_5000
+  Could not fetch page, trying alternatives...
+  FAILED to find frequency list for Portuguese
+
+==================================================
+Processing Japanese: Wiktionary:Frequency_lists/Japanese
+  Extracted 1 words
+  Final: 1 words, 0 with translations
+
+==================================================
+Processing Korean: Wiktionary:Frequency_lists/Korean_5800
+  Extracted 1000 words
+  Translated 100/1000 (98/100 have translations)
+  Translated 200/1000 (148/200 have translations)
+  Translated 300/1000 (199/300 have translations)
+  Translated 400/1000 (250/400 have translations)
+  Translated 500/1000 (302/500 have translations)
+  Translated 600/1000 (351/600 have translations)
+  Translated 700/1000 (401/700 have translations)
+  Translated 800/1000 (450/800 have translations)
+  Translated 900/1000 (500/900 have translations)
+  Translated 1000/1000 (549/1000 have translations)
+  Final: 1000 words, 549 with translations
+
+==================================================
+Processing Mandarin_Chinese: Wiktionary:Frequency_lists/Mandarin
+  Extracted 0 words
+  Final: 0 words, 0 with translations
+
+==================================================
+Total words across all languages: 1004
+  Spanish: 2 words (2 translated)
+  French: 0 words (0 translated)
+  German: 0 words (0 translated)
+  Italian: 1 words (1 translated)
+  Japanese: 1 words (0 translated)
+  Korean: 1000 words (549 translated)
+  Mandarin_Chinese: 0 words (0 translated)
+
+Saved to /root/.openclaw/workspace/scrape-project/output/language_learning.json

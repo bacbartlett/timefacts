@@ -206,11 +206,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "Chicago was incorporated as a city with a population of about 4,000",
-    "date": "1837-03-04",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Abraham Lincoln moved to Springfield, Illinois, beginning his career as a successful lawyer and politician",
     "date": "1837-04-15",
     "timezone": "America/Chicago"
@@ -283,11 +278,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "John Deere moved his plow factory to Moline, Illinois, establishing the Quad Cities as an agricultural equipment center",
-    "date": "1848-01-01",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "The Chicago Board of Trade was founded, becoming the world's oldest futures and options exchange",
     "date": "1848-04-03",
     "timezone": "America/Chicago"
@@ -335,11 +325,6 @@
   {
     "fact": "Northwestern University was founded in Evanston, Illinois, north of Chicago",
     "date": "1851-01-28",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "The Illinois Central Railroad was chartered by Congress, becoming the first land-grant railroad in the United States",
-    "date": "1851-02-10",
     "timezone": "America/Chicago"
   },
   {
@@ -424,13 +409,6 @@
   },
   {
     "fact": "Abraham Lincoln delivered his famous 'House Divided' speech at the Illinois Republican State Convention in Springfield, launching his campaign against Stephen Douglas",
-    "date": "1858-06-16",
-    "time_local": "20:00",
-    "time_utc": "02:00",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "Abraham Lincoln delivered his 'House Divided' speech at the Old State Capitol in Springfield, Illinois",
     "date": "1858-06-16",
     "time_local": "20:00",
     "time_utc": "02:00",
@@ -886,11 +864,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "Herbert Hoover was born in West Branch, Iowa, becoming the first president born west of the Mississippi River",
-    "date": "1874-08-10",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Herbert Hoover, the 31st President of the United States, was born in West Branch, Iowa, the first president born west of the Mississippi River",
     "date": "1874-08-10",
     "timezone": "America/Chicago"
@@ -1020,11 +993,6 @@
   },
   {
     "fact": "Jane Addams opened Hull House on Chicago's Near West Side, pioneering the American settlement house movement",
-    "date": "1889-09-18",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "Jane Addams opened Hull House in Chicago, pioneering the American settlement house movement",
     "date": "1889-09-18",
     "timezone": "America/Chicago"
   },
@@ -1196,11 +1164,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "Sears, Roebuck and Company was founded in Chicago, eventually becoming the world's largest retailer",
-    "date": "1893-09-16",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "The Field Museum of Natural History was founded with a collection from the World's Columbian Exposition",
     "date": "1893-09-16",
     "timezone": "America/Chicago"
@@ -1334,13 +1297,6 @@
   },
   {
     "fact": "Ernest Hemingway was born in Oak Park, Illinois, in the home his grandfather built on North Oak Park Avenue",
-    "date": "1899-07-21",
-    "time_local": "08:00",
-    "time_utc": "14:00",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "Ernest Hemingway was born in Oak Park, Illinois, in the house his grandfather built",
     "date": "1899-07-21",
     "time_local": "08:00",
     "time_utc": "14:00",
@@ -1493,11 +1449,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "The Chicago Defender began publishing, becoming the most influential African American newspaper in the country",
-    "date": "1905-05-05",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "The Chicago Defender newspaper was founded, becoming the most influential African American newspaper in the country",
     "date": "1905-05-05",
     "timezone": "America/Chicago"
@@ -1534,11 +1485,6 @@
   },
   {
     "fact": "Harley-Davidson Motor Company was officially incorporated in Milwaukee, Wisconsin, becoming an iconic American motorcycle brand",
-    "date": "1907-09-17",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "Harley-Davidson was incorporated in Milwaukee, Wisconsin, beginning as a small motorcycle manufacturer",
     "date": "1907-09-17",
     "timezone": "America/Chicago"
   },
@@ -2183,20 +2129,10 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "Twinkies were invented in Schiller Park, Illinois by baker James Dewar for Continental Baking Company",
-    "date": "1930-04-06",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "The Adler Planetarium opened in Chicago as the first planetarium in the Western Hemisphere",
     "date": "1930-05-12",
     "time_local": "10:00",
     "time_utc": "16:00",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "The Shedd Aquarium opened in Chicago as the world's largest indoor aquarium",
-    "date": "1930-05-30",
     "timezone": "America/Chicago"
   },
   {
@@ -2398,11 +2334,6 @@
     "timezone": "America/Detroit"
   },
   {
-    "fact": "The first blood bank in the United States opened at Cook County Hospital in Chicago",
-    "date": "1937-03-15",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "The first blood bank in the United States was established at Cook County Hospital in Chicago",
     "date": "1937-03-15",
     "timezone": "America/Chicago"
@@ -2433,11 +2364,6 @@
   },
   {
     "fact": "Ludwig Mies van der Rohe became director of the architecture program at Illinois Institute of Technology in Chicago, shaping modernist architecture",
-    "date": "1938-08-20",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "Ludwig Mies van der Rohe moved to Chicago to become director of architecture at the Illinois Institute of Technology",
     "date": "1938-08-20",
     "timezone": "America/Chicago"
   },
@@ -2506,13 +2432,6 @@
   {
     "fact": "Harrison Ford was born in Chicago and attended Maine Township High School, later becoming one of Hollywood's most successful actors",
     "date": "1942-07-13",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "Enrico Fermi and his team achieved the first controlled, self-sustaining nuclear chain reaction at the University of Chicago's Stagg Field squash courts",
-    "date": "1942-12-02",
-    "time_local": "15:25",
-    "time_utc": "21:25",
     "timezone": "America/Chicago"
   },
   {
@@ -2723,11 +2642,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "Gwendolyn Brooks became the first African American to win the Pulitzer Prize, for her poetry collection 'Annie Allen'",
-    "date": "1950-05-01",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Bill Murray was born in Wilmette, Illinois, later becoming a legendary comedian and actor",
     "date": "1950-09-21",
     "timezone": "America/Chicago"
@@ -2835,11 +2749,6 @@
   },
   {
     "fact": "Richard J. Daley was first elected Mayor of Chicago, beginning a 21-year tenure as one of the most powerful urban political bosses in American history",
-    "date": "1955-04-05",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "Richard J. Daley was elected mayor of Chicago, beginning his 21-year reign as one of the most powerful political bosses in American history",
     "date": "1955-04-05",
     "timezone": "America/Chicago"
   },
@@ -3043,13 +2952,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "The first televised presidential debate took place in Chicago between John F. Kennedy and Richard Nixon",
-    "date": "1960-09-26",
-    "time_local": "20:30",
-    "time_utc": "01:30",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "The Kennedy Expressway extension opened, completing Chicago's modern expressway system",
     "date": "1960-11-05",
     "timezone": "America/Chicago"
@@ -3076,11 +2978,6 @@
   },
   {
     "fact": "The DuSable Museum of African American History opened in Chicago, becoming the oldest independent museum of Black American history",
-    "date": "1961-02-16",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "The DuSable Museum of African American History was founded in Chicago, one of the first institutions devoted to Black history",
     "date": "1961-02-16",
     "timezone": "America/Chicago"
   },
@@ -3135,11 +3032,6 @@
   },
   {
     "fact": "Herbert Hoover Presidential Library and Museum opened in West Branch, Iowa, the first presidential library west of the Mississippi",
-    "date": "1962-08-10",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "The Herbert Hoover Presidential Library and Museum was dedicated in West Branch, Iowa",
     "date": "1962-08-10",
     "timezone": "America/Chicago"
   },
@@ -3251,13 +3143,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "Richard Speck murdered eight nursing students in their Chicago townhouse in one of the most horrific crimes of the era",
-    "date": "1966-07-14",
-    "time_local": "23:00",
-    "time_utc": "04:00",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Martin Luther King Jr. led the March Against Fear through Chicago's Marquette Park, where he was struck by a rock thrown by angry white protesters",
     "date": "1966-08-05",
     "time_local": "14:00",
@@ -3323,13 +3208,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "The Chicago Picasso, an untitled sculpture by Pablo Picasso, was unveiled in Daley Plaza",
-    "date": "1967-08-15",
-    "time_local": "12:00",
-    "time_utc": "17:00",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Riverview Park, once the world's largest amusement park, closed in Chicago",
     "date": "1967-10-03",
     "timezone": "America/Chicago"
@@ -3349,13 +3227,6 @@
     "date": "1967-12-31",
     "time_local": "13:00",
     "time_utc": "19:00",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "The Ice Bowl was played at Lambeau Field with temperatures at -13\u00b0F and a wind chill of -48\u00b0F, as the Packers beat the Cowboys 21-17",
-    "date": "1967-12-31",
-    "time_local": "13:05",
-    "time_utc": "19:05",
     "timezone": "America/Chicago"
   },
   {
@@ -3765,11 +3636,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "Six Flags Great America opened in Gurnee, Illinois, north of Chicago",
-    "date": "1976-05-29",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Aldi opened its first U.S. store in Iowa, beginning the German discount grocer's American expansion",
     "date": "1976-06-01",
     "timezone": "America/Chicago"
@@ -4027,13 +3893,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "The Chicago Bears won Super Bowl XX, crushing the New England Patriots 46-10 behind their dominant '46 Defense'",
-    "date": "1986-01-26",
-    "time_local": "17:00",
-    "time_utc": "23:00",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "The Chicago Bears won Super Bowl XX, defeating the New England Patriots 46-10 in the most lopsided Super Bowl to that point",
     "date": "1986-01-26",
     "time_local": "17:00",
@@ -4250,20 +4109,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "The Great Chicago Flood began when a construction piling punctured a freight tunnel under the Chicago River, flooding basements throughout the Loop",
-    "date": "1992-04-13",
-    "time_local": "05:57",
-    "time_utc": "11:57",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "The Great Chicago Flood occurred when a contractor's pile driver punctured the underground freight tunnel system, flooding the Loop's basements",
-    "date": "1992-04-13",
-    "time_local": "05:57",
-    "time_utc": "10:57",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "A League of Their Own was released, depicting the All-American Girls Professional Baseball League that played throughout the Midwest",
     "date": "1992-07-01",
     "timezone": "America/Indiana/Indianapolis"
@@ -4333,11 +4178,6 @@
     "timezone": "America/New_York"
   },
   {
-    "fact": "Scientists at Fermilab announced the discovery of the top quark, completing the Standard Model of particle physics",
-    "date": "1995-03-02",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Fermilab scientists announced the discovery of the top quark, completing the Standard Model of particle physics",
     "date": "1995-03-02",
     "time_local": "14:00",
@@ -4401,11 +4241,6 @@
   },
   {
     "fact": "Louis Farrakhan led the Million Man March in Washington, D.C., but the Nation of Islam leader was based in Chicago where the movement is headquartered",
-    "date": "1995-10-16",
-    "timezone": "America/New_York"
-  },
-  {
-    "fact": "Louis Farrakhan organized the Million Man March in Washington, D.C., from his Nation of Islam base in Chicago",
     "date": "1995-10-16",
     "timezone": "America/New_York"
   },
@@ -4533,11 +4368,6 @@
   },
   {
     "fact": "Sue, the largest and most complete Tyrannosaurus rex fossil ever found, went on display at the Field Museum in Chicago",
-    "date": "2000-05-17",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "Sue the T. Rex, the most complete Tyrannosaurus rex skeleton ever found, was unveiled at the Field Museum",
     "date": "2000-05-17",
     "timezone": "America/Chicago"
   },
@@ -4687,11 +4517,6 @@
     "timezone": "America/Chicago"
   },
   {
-    "fact": "Former Illinois Governor George Ryan was convicted of corruption charges including racketeering and fraud",
-    "date": "2006-04-17",
-    "timezone": "America/Chicago"
-  },
-  {
     "fact": "Anish Kapoor's Cloud Gate sculpture was dedicated in Chicago's Millennium Park, quickly becoming the city's most photographed attraction",
     "date": "2006-05-15",
     "timezone": "America/Chicago"
@@ -4787,13 +4612,6 @@
   },
   {
     "fact": "Illinois Governor Rod Blagojevich was arrested at his Chicago home on federal corruption charges, including allegedly trying to sell Barack Obama's vacated Senate seat",
-    "date": "2008-12-09",
-    "time_local": "06:15",
-    "time_utc": "12:15",
-    "timezone": "America/Chicago"
-  },
-  {
-    "fact": "Governor Rod Blagojevich was arrested by federal agents at his Chicago home on corruption charges including attempting to sell Barack Obama's vacant Senate seat",
     "date": "2008-12-09",
     "time_local": "06:15",
     "time_utc": "12:15",
