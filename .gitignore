@@ -1,0 +1,4 @@
+# Only track final JSON fact files
+*
+!*.json
+!.gitignore
