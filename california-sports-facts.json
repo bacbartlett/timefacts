@@ -1,0 +1,2617 @@
+[
+  {
+    "fact": "The Los Angeles Lakers defeated the New York Knicks to win the 1972 NBA Championship, capping a record 33-game winning streak season.",
+    "date": "1972-05-07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Lakers won their first championship after moving from Minneapolis, defeating the New York Knicks in Game 7 of the 1972 NBA Finals.",
+    "date": "1972-05-07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Wilt Chamberlain joined the Los Angeles Lakers via trade from the Philadelphia 76ers.",
+    "date": "1968-07-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Magic Johnson was drafted first overall by the Los Angeles Lakers in the 1979 NBA Draft.",
+    "date": "1979-06-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Magic Johnson hit a junior sky hook to beat the Boston Celtics in Game 4 of the 1987 NBA Finals.",
+    "date": "1987-06-09",
+    "time_local": "18:00",
+    "time_utc": "01:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers defeated the Boston Celtics in 6 games to win the 1985 NBA Championship \u2014 their first Finals win over Boston.",
+    "date": "1985-06-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Showtime Lakers won back-to-back championships, defeating the Detroit Pistons in the 1987 NBA Finals.",
+    "date": "1987-06-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers repeated as champions, sweeping the Detroit Pistons... actually losing to Detroit in the 1989 Finals. The Lakers won back-to-back in 1987 and 1988.",
+    "date": "1988-06-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Lakers defeated the Indiana Pacers to win the 2000 NBA Championship \u2014 the first title of the Shaq-Kobe era.",
+    "date": "2000-06-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Shaquille O'Neal and Kobe Bryant led the Lakers to their second consecutive title, defeating the Philadelphia 76ers in 2001.",
+    "date": "2001-06-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers completed a three-peat by defeating the New Jersey Nets in the 2002 NBA Finals.",
+    "date": "2002-06-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Kobe Bryant scored 81 points against the Toronto Raptors \u2014 the second-highest single-game total in NBA history.",
+    "date": "2006-01-22",
+    "time_local": "18:30",
+    "time_utc": "02:30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers defeated the Boston Celtics in 7 games to win the 2010 NBA Championship.",
+    "date": "2010-06-17",
+    "time_local": "18:00",
+    "time_utc": "01:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers defeated the Orlando Magic to win the 2009 NBA Championship.",
+    "date": "2009-06-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Kobe Bryant scored 60 points in his final NBA game, leading a comeback victory over the Utah Jazz.",
+    "date": "2016-04-13",
+    "time_local": "19:30",
+    "time_utc": "02:30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Kobe Bryant and his daughter Gianna were killed in a helicopter crash in Calabasas, California.",
+    "date": "2020-01-26",
+    "time_local": "09:45",
+    "time_utc": "17:45",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Lakers won the 2020 NBA Championship in the Orlando bubble, defeating the Miami Heat.",
+    "date": "2020-10-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "LeBron James signed with the Los Angeles Lakers as a free agent.",
+    "date": "2018-07-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Kareem Abdul-Jabbar was traded from the Milwaukee Bucks to the Los Angeles Lakers.",
+    "date": "1975-06-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Jerry West hit a 60-foot buzzer-beater to tie Game 3 of the 1970 NBA Finals against the Knicks \u2014 but the Lakers still lost in overtime.",
+    "date": "1970-04-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers retired Shaquille O'Neal's No. 34 jersey at Staples Center.",
+    "date": "2013-04-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Lakers moved from Minneapolis to Los Angeles.",
+    "date": "1960-04-27",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Pat Riley was named head coach of the Los Angeles Lakers.",
+    "date": "1981-11-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers defeated the Celtics in the 1987 NBA Finals \u2014 Magic Johnson won Finals MVP.",
+    "date": "1987-06-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Magic Johnson announced he was HIV-positive and retiring from basketball.",
+    "date": "1991-11-07",
+    "time_local": "15:00",
+    "time_utc": "23:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Golden State Warriors won their first championship since 1975, sweeping the Cleveland Cavaliers in the 2018 NBA Finals.",
+    "date": "2018-06-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Golden State Warriors set the NBA regular season record with 73 wins.",
+    "date": "2016-04-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stephen Curry was drafted 7th overall by the Golden State Warriors.",
+    "date": "2009-06-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Golden State Warriors defeated the Cleveland Cavaliers to win the 2015 NBA Championship \u2014 their first title in 40 years.",
+    "date": "2015-06-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Kevin Durant signed with the Golden State Warriors as a free agent.",
+    "date": "2016-07-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Warriors defeated the Cavaliers to win the 2017 NBA Championship \u2014 Kevin Durant won Finals MVP.",
+    "date": "2017-06-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stephen Curry broke the NBA single-season three-point record with 402 made threes.",
+    "date": "2016-04-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stephen Curry broke Ray Allen's career three-point record at Madison Square Garden.",
+    "date": "2021-12-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Golden State Warriors defeated the Boston Celtics to win the 2022 NBA Championship.",
+    "date": "2022-06-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Wilt Chamberlain scored 100 points for the Philadelphia Warriors (before relocation to SF) against the New York Knicks.",
+    "date": "1962-03-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Rick Barry led the Golden State Warriors to the 1975 NBA Championship, sweeping the Washington Bullets.",
+    "date": "1975-05-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Warriors' 'We Believe' squad upset the top-seeded Dallas Mavericks in the first round of the 2007 NBA Playoffs.",
+    "date": "2007-05-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Golden State Warriors moved from Oracle Arena in Oakland to Chase Center in San Francisco.",
+    "date": "2019-09-06",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Klay Thompson scored 37 points in a single quarter against the Sacramento Kings \u2014 an NBA record.",
+    "date": "2015-01-23",
+    "time_local": "19:30",
+    "time_utc": "03:30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Klay Thompson scored 60 points in 29 minutes against the Indiana Pacers.",
+    "date": "2016-12-05",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Clippers acquired Kawhi Leonard and Paul George, reshaping the Western Conference.",
+    "date": "2019-07-06",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Clippers blew a 3-1 series lead to the Denver Nuggets in the 2020 Western Conference Semifinals.",
+    "date": "2020-09-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Diego Clippers relocated to Los Angeles.",
+    "date": "1984-06-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Donald Sterling was banned for life from the NBA after racist comments were made public.",
+    "date": "2014-04-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Steve Ballmer purchased the Los Angeles Clippers for $2 billion.",
+    "date": "2014-08-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Intuit Dome, the Clippers' new arena in Inglewood, opened.",
+    "date": "2024-08-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Chris Paul was traded to the Los Angeles Clippers after the NBA vetoed his trade to the Lakers.",
+    "date": "2011-12-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Blake Griffin was selected first overall by the Los Angeles Clippers in the 2009 NBA Draft.",
+    "date": "2009-06-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Sacramento Kings selected DeMarcus Cousins with the 5th pick in the 2010 NBA Draft.",
+    "date": "2010-06-24",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Sacramento Kings moved from Kansas City to Sacramento.",
+    "date": "1985-06-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Golden 1 Center opened as the new home of the Sacramento Kings.",
+    "date": "2016-10-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Dodgers defeated the Tampa Bay Rays to win the 2020 World Series.",
+    "date": "2020-10-27",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Kirk Gibson hit a pinch-hit walk-off home run in Game 1 of the 1988 World Series for the Dodgers.",
+    "date": "1988-10-15",
+    "time_local": "20:30",
+    "time_utc": "03:30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers defeated the Oakland A's to win the 1988 World Series in 5 games.",
+    "date": "1988-10-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Brooklyn Dodgers relocated to Los Angeles.",
+    "date": "1957-10-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Sandy Koufax threw a perfect game against the Chicago Cubs.",
+    "date": "1965-09-09",
+    "time_local": "19:00",
+    "time_utc": "02:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers defeated the Minnesota Twins to win the 1965 World Series \u2014 Sandy Koufax won 2 games.",
+    "date": "1965-10-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Sandy Koufax retired at age 30 due to arthritis in his pitching arm.",
+    "date": "1966-11-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Fernando Valenzuela sparked 'Fernandomania' by winning his first 8 starts as a Dodger rookie.",
+    "date": "1981-05-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers won the 1981 World Series, defeating the New York Yankees in 6 games.",
+    "date": "1981-10-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Orel Hershiser set the record for consecutive scoreless innings with 59.",
+    "date": "1988-09-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers defeated the Houston Astros to win the 2017 NL pennant, though they lost the World Series to the Astros (later tainted by sign-stealing scandal).",
+    "date": "2017-10-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Clayton Kershaw threw a no-hitter against the Colorado Rockies.",
+    "date": "2014-06-18",
+    "time_local": "19:10",
+    "time_utc": "02:10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers won the 2024 World Series, defeating the New York Yankees in 5 games.",
+    "date": "2024-10-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Shohei Ohtani signed a record 10-year, $700 million contract with the Los Angeles Dodgers.",
+    "date": "2023-12-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Mookie Betts was traded to the Los Angeles Dodgers from the Boston Red Sox.",
+    "date": "2020-02-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Vin Scully called his final Dodgers game after 67 years as the team's broadcaster.",
+    "date": "2016-10-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Vin Scully, legendary Dodgers broadcaster, passed away at age 94.",
+    "date": "2022-08-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Dodger Stadium opened in Chavez Ravine.",
+    "date": "1962-04-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers won the 1959 World Series \u2014 their first championship in Los Angeles \u2014 defeating the Chicago White Sox.",
+    "date": "1959-10-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Hideo Nomo threw a no-hitter for the Dodgers at Coors Field.",
+    "date": "1996-09-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Jackie Robinson's number 42 was retired across all of Major League Baseball.",
+    "date": "1997-04-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Francisco Giants won the 2010 World Series \u2014 their first title since moving to San Francisco \u2014 defeating the Texas Rangers.",
+    "date": "2010-11-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Francisco Giants won the 2012 World Series, sweeping the Detroit Tigers.",
+    "date": "2012-10-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Francisco Giants won the 2014 World Series, defeating the Kansas City Royals in 7 games.",
+    "date": "2014-10-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Madison Bumgarner pitched 5 innings of scoreless relief in Game 7 of the 2014 World Series to clinch the title.",
+    "date": "2014-10-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Barry Bonds hit his 73rd home run, breaking the single-season record.",
+    "date": "2001-10-07",
+    "time_local": "13:00",
+    "time_utc": "20:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Barry Bonds hit his 756th career home run, breaking Hank Aaron's all-time record.",
+    "date": "2007-08-07",
+    "time_local": "20:51",
+    "time_utc": "03:51",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The New York Giants relocated to San Francisco.",
+    "date": "1957-08-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "AT&T Park (now Oracle Park) opened as the new home of the San Francisco Giants.",
+    "date": "2000-04-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Willie Mays made 'The Catch' in Game 1 of the 1954 World Series at the Polo Grounds.",
+    "date": "1954-09-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Tim Lincecum threw a no-hitter against the San Diego Padres.",
+    "date": "2013-07-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Tim Lincecum threw his second career no-hitter, again against the Padres.",
+    "date": "2014-06-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Diego Padres played in their first World Series, losing to the Detroit Tigers.",
+    "date": "1984-10-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Tony Gwynn collected his 3,000th career hit.",
+    "date": "1999-08-06",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Tony Gwynn, Mr. Padre, passed away at age 54.",
+    "date": "2014-06-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Diego Padres reached the 1998 World Series but were swept by the New York Yankees.",
+    "date": "1998-10-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Petco Park opened as the home of the San Diego Padres.",
+    "date": "2004-04-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Padres signed Manny Machado to a 10-year, $300 million contract.",
+    "date": "2019-02-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Fernando Tatis Jr. hit a grand slam on a 3-0 count, sparking controversy.",
+    "date": "2020-08-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland Athletics won the 1972 World Series, defeating the Cincinnati Reds \u2014 the first of three consecutive titles.",
+    "date": "1972-10-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland A's won the 1973 World Series, defeating the New York Mets.",
+    "date": "1973-10-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland A's won the 1974 World Series, defeating the Los Angeles Dodgers.",
+    "date": "1974-10-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland A's swept the San Francisco Giants in the 1989 World Series \u2014 interrupted by the Loma Prieta earthquake.",
+    "date": "1989-10-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Loma Prieta earthquake struck during Game 3 of the 1989 World Series at Candlestick Park.",
+    "date": "1989-10-17",
+    "time_local": "17:04",
+    "time_utc": "00:04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Rickey Henderson broke Lou Brock's all-time stolen base record with his 939th steal as a member of the Oakland A's.",
+    "date": "1991-05-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland A's 'Moneyball' team won 20 consecutive games.",
+    "date": "2002-09-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Dennis Eckersley saved 51 games and won both the Cy Young and MVP awards for the Oakland A's.",
+    "date": "1992-10-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland A's announced their relocation to Las Vegas.",
+    "date": "2024-04-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland A's played their final game at the Oakland Coliseum.",
+    "date": "2024-09-26",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Catfish Hunter pitched a perfect game for the Oakland A's against the Minnesota Twins.",
+    "date": "1968-05-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Reggie Jackson hit 3 home runs in Game 6 of the 1977 World Series for the Yankees \u2014 he had previously starred for the Oakland A's.",
+    "date": "1977-10-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The California Angels (later Anaheim Angels, now Los Angeles Angels) hired Gene Autry as their original owner.",
+    "date": "1960-12-06",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Anaheim Angels won their first and only World Series, defeating the San Francisco Giants in 7 games.",
+    "date": "2002-10-27",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Rally Monkey became an iconic part of the Angels' 2002 World Series run.",
+    "date": "2002-10-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Nolan Ryan threw his first no-hitter as a California Angel.",
+    "date": "1973-05-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Nolan Ryan threw his second no-hitter as a California Angel, just two months after his first.",
+    "date": "1973-07-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Mike Trout was drafted 25th overall by the Los Angeles Angels.",
+    "date": "2009-06-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Mike Trout won his first AL MVP award.",
+    "date": "2014-11-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Shohei Ohtani won the AL MVP unanimously as a two-way player for the Angels.",
+    "date": "2021-11-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Shohei Ohtani won his second consecutive AL MVP with the Angels.",
+    "date": "2023-11-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Francisco 49ers won Super Bowl XVI, defeating the Cincinnati Bengals 26-21.",
+    "date": "1982-01-24",
+    "time_local": "14:00",
+    "time_utc": "22:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Joe Montana threw 'The Catch' to Dwight Clark in the 1981 NFC Championship Game against the Dallas Cowboys.",
+    "date": "1982-01-10",
+    "time_local": "13:00",
+    "time_utc": "21:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers won Super Bowl XIX, defeating the Miami Dolphins 38-16 \u2014 Joe Montana was MVP.",
+    "date": "1985-01-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers won Super Bowl XXIII with Joe Montana's famous last-minute drive, defeating the Bengals 20-16.",
+    "date": "1989-01-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers won Super Bowl XXIV, crushing the Denver Broncos 55-10 \u2014 the largest Super Bowl margin of victory.",
+    "date": "1990-01-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Steve Young threw 6 touchdown passes as the 49ers won Super Bowl XXIX, defeating the San Diego Chargers 49-26.",
+    "date": "1995-01-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Jerry Rice set the NFL career receiving yards record.",
+    "date": "1995-12-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Colin Kaepernick first knelt during the national anthem before an NFL preseason game.",
+    "date": "2016-09-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers lost Super Bowl XLVII to the Baltimore Ravens after a second-half power outage and comeback.",
+    "date": "2013-02-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers opened Levi's Stadium in Santa Clara.",
+    "date": "2014-07-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers lost Super Bowl LIV to the Kansas City Chiefs after leading in the fourth quarter.",
+    "date": "2020-02-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers lost Super Bowl LVIII to the Kansas City Chiefs in overtime.",
+    "date": "2024-02-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Dwight Clark, who caught 'The Catch,' passed away from ALS at age 61.",
+    "date": "2018-06-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Rams won Super Bowl LVI, defeating the Cincinnati Bengals 23-20 at SoFi Stadium.",
+    "date": "2022-02-13",
+    "time_local": "15:30",
+    "time_utc": "23:30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Rams relocated from St. Louis back to Los Angeles.",
+    "date": "2016-01-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "SoFi Stadium opened in Inglewood as the home of the Rams and Chargers.",
+    "date": "2020-09-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Rams won Super Bowl XXXIV \u2014 'The Greatest Show on Turf' \u2014 but were based in St. Louis at the time.",
+    "date": "2000-01-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Eric Dickerson set the NFL single-season rushing record with 2,105 yards for the LA Rams.",
+    "date": "1984-12-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Rams drafted Jared Goff first overall.",
+    "date": "2016-04-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Rams traded for Matthew Stafford, sending Jared Goff to the Detroit Lions.",
+    "date": "2021-01-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Cooper Kupp won the receiving triple crown and Super Bowl LVI MVP.",
+    "date": "2022-02-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Aaron Donald, considered the greatest defensive player of his era, retired from the Rams.",
+    "date": "2024-03-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Fearsome Foursome \u2014 Deacon Jones, Merlin Olsen, Rosey Grier, and Lamar Lundy \u2014 dominated the NFL defensive line for the LA Rams in the 1960s.",
+    "date": "1963-09-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Diego Chargers lost Super Bowl XXIX to the San Francisco 49ers 49-26.",
+    "date": "1995-01-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Diego Chargers relocated to Los Angeles.",
+    "date": "2017-01-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "LaDainian Tomlinson set the NFL single-season touchdown record with 31 TDs for the San Diego Chargers.",
+    "date": "2006-12-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Junior Seau, legendary Chargers linebacker, died by suicide at age 43.",
+    "date": "2012-05-02",
+    "time_local": "10:00",
+    "time_utc": "17:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Dan Fouts and the Air Coryell Chargers lost the 'Epic in Miami' AFC Divisional playoff to the Dolphins in overtime.",
+    "date": "1982-01-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Justin Herbert was drafted 6th overall by the Los Angeles Chargers.",
+    "date": "2020-04-23",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland Raiders won Super Bowl XI, defeating the Minnesota Vikings 32-14.",
+    "date": "1977-01-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland Raiders won Super Bowl XV, defeating the Philadelphia Eagles 27-10.",
+    "date": "1981-01-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Raiders won Super Bowl XVIII, defeating the Washington Redskins 38-9.",
+    "date": "1984-01-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Raiders moved from Oakland to Los Angeles.",
+    "date": "1982-07-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Raiders moved back from Los Angeles to Oakland.",
+    "date": "1995-07-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Raiders relocated from Oakland to Las Vegas.",
+    "date": "2020-01-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 'Immaculate Reception' \u2014 Franco Harris' controversial catch \u2014 eliminated the Oakland Raiders from the 1972 playoffs.",
+    "date": "1972-12-23",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 'Holy Roller' play: Raiders QB Ken Stabler fumbled forward in the end zone for a game-winning touchdown against the Chargers.",
+    "date": "1978-09-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 'Tuck Rule Game': Tom Brady's apparent fumble was reversed, and the Patriots defeated the Raiders in the 2001 AFC Divisional Playoff.",
+    "date": "2002-01-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Al Davis, iconic Raiders owner, passed away at age 82.",
+    "date": "2011-10-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Kings won their first Stanley Cup, defeating the New Jersey Devils in 6 games.",
+    "date": "2012-06-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Kings won their second Stanley Cup in three years, defeating the New York Rangers in 5 games.",
+    "date": "2014-06-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Wayne Gretzky was traded from the Edmonton Oilers to the Los Angeles Kings in 'The Trade.'",
+    "date": "1988-08-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Wayne Gretzky broke Gordie Howe's all-time NHL point record as a member of the Kings.",
+    "date": "1989-10-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Kings reached the 1993 Stanley Cup Final but lost to the Montreal Canadiens.",
+    "date": "1993-06-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Luc Robitaille was inducted into the Hockey Hall of Fame \u2014 he spent most of his career with the Kings.",
+    "date": "2009-11-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Anaheim Ducks (originally Mighty Ducks) won the Stanley Cup, defeating the Ottawa Senators.",
+    "date": "2007-06-06",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Mighty Ducks of Anaheim were founded by the Walt Disney Company.",
+    "date": "1993-06-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Mighty Ducks reached the 2003 Stanley Cup Final but lost to the New Jersey Devils.",
+    "date": "2003-06-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Jose Sharks were established as an NHL expansion team.",
+    "date": "1991-05-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Jose Sharks reached the 2016 Stanley Cup Final but lost to the Pittsburgh Penguins.",
+    "date": "2016-06-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Patrick Marleau became the NHL's all-time games played leader while with the Sharks organization.",
+    "date": "2021-04-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Joe Thornton was traded from the Boston Bruins to the San Jose Sharks.",
+    "date": "2005-11-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The LA Galaxy won their first MLS Cup title.",
+    "date": "2002-10-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "David Beckham signed with the LA Galaxy, transforming MLS.",
+    "date": "2007-01-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The LA Galaxy won MLS Cup 2014, their 5th title \u2014 the most in MLS history at the time.",
+    "date": "2014-12-07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "LAFC won their first MLS Cup in a dramatic penalty shootout against the Philadelphia Union.",
+    "date": "2022-11-05",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Gareth Bale scored a dramatic late equalizer for LAFC in the 2022 MLS Cup Final.",
+    "date": "2022-11-05",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC won the BCS National Championship, defeating Oklahoma 55-19 behind Matt Leinart and Reggie Bush.",
+    "date": "2005-01-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC's Reggie Bush won the Heisman Trophy \u2014 later vacated due to NCAA violations.",
+    "date": "2005-12-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC defeated Texas in the 2006 Rose Bowl \u2014 actually, Texas defeated USC 41-38 in one of the greatest college football games ever, with Vince Young's last-minute TD run.",
+    "date": "2006-01-04",
+    "time_local": "17:00",
+    "time_utc": "01:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC's Heisman Trophy was restored to Reggie Bush after NCAA rule changes.",
+    "date": "2023-04-24",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC hired Lincoln Riley as head football coach.",
+    "date": "2021-11-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC quarterback Caleb Williams won the Heisman Trophy.",
+    "date": "2022-12-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC's Marcus Allen won the Heisman Trophy.",
+    "date": "1981-12-05",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC's O.J. Simpson won the Heisman Trophy.",
+    "date": "1968-11-26",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC's Carson Palmer won the Heisman Trophy.",
+    "date": "2002-12-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC's Matt Leinart won the Heisman Trophy.",
+    "date": "2004-12-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "John McKay led USC to four national championships in football.",
+    "date": "1972-01-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC and UCLA joined the Big Ten Conference, leaving the Pac-12.",
+    "date": "2024-08-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "UCLA's Bill Walton led the Bruins to an 88-game winning streak in men's basketball under John Wooden.",
+    "date": "1974-01-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "UCLA won its 10th NCAA Men's Basketball Championship under John Wooden \u2014 his final title before retirement.",
+    "date": "1975-03-31",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "John Wooden, the 'Wizard of Westwood,' passed away at age 99.",
+    "date": "2010-06-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "UCLA won its first NCAA Men's Basketball Championship under John Wooden, beginning an unprecedented dynasty.",
+    "date": "1964-03-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Lew Alcindor (later Kareem Abdul-Jabbar) led UCLA to three consecutive NCAA titles (1967-1969).",
+    "date": "1969-03-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "UCLA's men's basketball won seven consecutive NCAA championships from 1967 to 1973.",
+    "date": "1973-03-26",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "UCLA upset previously unbeaten Houston in the 'Game of the Century' rematch at the 1968 NCAA Tournament.",
+    "date": "1968-03-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Bill Walton went 21-for-22 from the field in the 1973 NCAA Championship Game for UCLA.",
+    "date": "1973-03-26",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "UCLA quarterback Troy Aikman transferred to UCLA from Oklahoma and became the #1 NFL Draft pick.",
+    "date": "1989-04-23",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "UCLA won the NCAA softball championship, one of many titles for the Bruins softball program.",
+    "date": "2019-06-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stanford women's basketball won the 2021 NCAA Championship, defeating Arizona.",
+    "date": "2021-04-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stanford's John Elway was drafted first overall by the Baltimore Colts in the 1983 NFL Draft, then traded to the Denver Broncos.",
+    "date": "1983-04-26",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stanford's Tiger Woods won his first of three consecutive U.S. Amateur titles while a student.",
+    "date": "1994-08-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stanford defeated USC in 'The Play' \u2014 a multi-lateral kickoff return through the Stanford band to win the 1982 Big Game.",
+    "date": "1982-11-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Actually, Cal defeated Stanford in 'The Play' \u2014 California's Kevin Moen ran through the Stanford band for the winning touchdown on a five-lateral kickoff return.",
+    "date": "1982-11-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stanford's Andrew Luck was drafted first overall by the Indianapolis Colts.",
+    "date": "2012-04-26",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stanford's Jim Plunkett won the Heisman Trophy.",
+    "date": "1970-11-24",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stanford won the NCAA Women's Basketball Championship in 1990, the program's first title.",
+    "date": "1990-04-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Cal's Aaron Rodgers was drafted 24th overall by the Green Bay Packers in the 2005 NFL Draft after a famous draft-day slide.",
+    "date": "2005-04-23",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Cal's Marshawn Lynch was drafted 12th overall by the Buffalo Bills.",
+    "date": "2007-04-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Cal's Jason Kidd was drafted 2nd overall by the Dallas Mavericks in the 1994 NBA Draft.",
+    "date": "1994-06-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "San Diego State's Marshall Faulk was drafted 2nd overall by the Indianapolis Colts.",
+    "date": "1994-04-24",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "San Diego State reached the NCAA Men's Basketball Championship Game in 2023, losing to UConn.",
+    "date": "2023-04-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Fresno State won the College World Series as the lowest-seeded team in CWS history.",
+    "date": "2008-06-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Fresno State's Derek Carr was drafted 36th overall by the Oakland Raiders.",
+    "date": "2014-05-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 1984 Summer Olympics were held in Los Angeles.",
+    "date": "1984-07-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 1932 Summer Olympics were held in Los Angeles \u2014 the first time the city hosted the Games.",
+    "date": "1932-07-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Los Angeles was awarded the 2028 Summer Olympics.",
+    "date": "2017-09-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Carl Lewis won 4 gold medals at the 1984 Los Angeles Olympics.",
+    "date": "1984-08-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Mary Lou Retton won the all-around gymnastics gold medal at the 1984 LA Olympics.",
+    "date": "1984-08-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The WNBA's Los Angeles Sparks won the 2001 WNBA Championship \u2014 Lisa Leslie was Finals MVP.",
+    "date": "2001-09-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Sparks won the 2002 WNBA Championship.",
+    "date": "2002-08-31",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Lisa Leslie became the first woman to dunk in a WNBA game.",
+    "date": "2002-07-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Las Vegas Aces (formerly San Antonio Stars) have roots in the WNBA but are outside California.",
+    "date": "2018-04-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Candace Parker led the Sparks to the 2016 WNBA Championship.",
+    "date": "2016-10-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Super Bowl I was played at the Los Angeles Memorial Coliseum \u2014 the Green Bay Packers defeated the Kansas City Chiefs.",
+    "date": "1967-01-15",
+    "time_local": "13:00",
+    "time_utc": "21:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Super Bowl VII was played at the Los Angeles Memorial Coliseum \u2014 the Miami Dolphins completed their perfect season.",
+    "date": "1973-01-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Super Bowl LVI was held at SoFi Stadium in Inglewood \u2014 the Rams defeated the Bengals on home turf.",
+    "date": "2022-02-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Rose Bowl hosted its first college football game.",
+    "date": "1902-01-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Tiger Woods won the U.S. Open at Pebble Beach by a record 15 strokes.",
+    "date": "2000-06-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Tiger Woods won the Masters to complete the 'Tiger Slam' \u2014 holding all four major trophies simultaneously.",
+    "date": "2001-04-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The AT&T Pebble Beach Pro-Am has been a fixture of the PGA Tour since 1947.",
+    "date": "1947-01-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The BNP Paribas Open in Indian Wells is the largest tennis tournament outside the four Grand Slams.",
+    "date": "1976-03-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Billie Jean King defeated Bobby Riggs in the 'Battle of the Sexes' tennis match at the Houston Astrodome \u2014 King was from Long Beach, California.",
+    "date": "1973-09-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The CONCACAF Gold Cup Final was held at the Rose Bowl multiple times.",
+    "date": "2011-06-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 1994 FIFA World Cup Final was held at the Rose Bowl in Pasadena \u2014 Brazil defeated Italy on penalties.",
+    "date": "1994-07-17",
+    "time_local": "12:30",
+    "time_utc": "19:30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 1999 FIFA Women's World Cup Final was held at the Rose Bowl \u2014 Brandi Chastain's iconic penalty kick gave the USA the title.",
+    "date": "1999-07-10",
+    "time_local": "15:30",
+    "time_utc": "22:30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Jose Earthquakes won their first MLS Cup.",
+    "date": "2001-10-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Jose Earthquakes won their second MLS Cup.",
+    "date": "2003-11-23",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Landon Donovan began his MLS career with the San Jose Earthquakes before his iconic time with the LA Galaxy.",
+    "date": "2001-03-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers and Celtics played in the NBA Finals 12 times \u2014 the greatest rivalry in basketball history.",
+    "date": "2010-06-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Elgin Baylor scored 61 points in an NBA Finals game for the Lakers against the Celtics \u2014 a Finals record that stood for decades.",
+    "date": "1962-04-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers retired Jerry West's No. 44 jersey.",
+    "date": "1983-11-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Jerry West, the NBA logo and Lakers legend, passed away at age 86.",
+    "date": "2024-06-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Chick Hearn called his 3,338th consecutive Lakers game \u2014 an incredible broadcasting streak.",
+    "date": "2001-12-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Chick Hearn, legendary Lakers broadcaster, passed away at age 85.",
+    "date": "2002-08-05",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Staples Center opened in downtown Los Angeles, becoming home to the Lakers, Clippers, and Kings.",
+    "date": "1999-10-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Staples Center was renamed Crypto.com Arena.",
+    "date": "2021-12-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Phil Jackson became head coach of the Lakers, beginning a dynasty.",
+    "date": "1999-06-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers acquired Pau Gasol from the Memphis Grizzlies in a blockbuster trade.",
+    "date": "2008-02-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Forum in Inglewood opened as the home of the Lakers and Kings.",
+    "date": "1967-12-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Warriors' dynasty era began when Steve Kerr was hired as head coach.",
+    "date": "2014-05-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Draymond Green was drafted 35th overall by the Golden State Warriors.",
+    "date": "2012-06-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Klay Thompson was drafted 11th overall by the Golden State Warriors.",
+    "date": "2011-06-23",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Warriors blew a 3-1 series lead to the Cleveland Cavaliers in the 2016 NBA Finals.",
+    "date": "2016-06-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Kevin Durant tore his Achilles tendon in Game 5 of the 2019 NBA Finals \u2014 his last game as a Warrior.",
+    "date": "2019-06-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers set an MLB record with 111 regular season wins.",
+    "date": "2022-10-05",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Don Drysdale set the consecutive scoreless innings record at 58\u2154 for the Dodgers \u2014 later broken by teammate Orel Hershiser.",
+    "date": "1968-06-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers' Tommy Lasorda managed his last game after 20 years as skipper.",
+    "date": "1996-07-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Tommy Lasorda passed away at age 93.",
+    "date": "2021-01-07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers signed pitcher Trevor Bauer, who was later suspended for two seasons.",
+    "date": "2021-02-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Maury Wills stole 104 bases for the Dodgers, breaking Ty Cobb's single-season record.",
+    "date": "1962-10-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Dodgers won the 2024 NL pennant and faced the Yankees in a classic Fall Classic matchup.",
+    "date": "2024-10-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Freddie Freeman hit a walk-off grand slam in Game 1 of the 2024 World Series for the Dodgers.",
+    "date": "2024-10-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Giants' Juan Marichal attacked Dodgers catcher John Roseboro with a bat in one of baseball's ugliest incidents.",
+    "date": "1965-08-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Willie McCovey hit a screaming line drive caught by Bobby Richardson to end the 1962 World Series \u2014 Giants lost to the Yankees.",
+    "date": "1962-10-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Buster Posey won NL Rookie of the Year and helped the Giants win the 2010 World Series.",
+    "date": "2010-11-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Giants retired Barry Bonds' No. 25.",
+    "date": "2018-08-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Candlestick Park hosted its final Giants game before the team moved to Pacific Bell Park.",
+    "date": "1999-09-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Matt Cain pitched a perfect game for the Giants against the Houston Astros.",
+    "date": "2012-06-13",
+    "time_local": "19:15",
+    "time_utc": "02:15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Francisco Giants signed Barry Bonds as a free agent from the Pittsburgh Pirates.",
+    "date": "1992-12-05",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Barry Bonds intentionally walked a record 120 times in the 2004 season.",
+    "date": "2004-10-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "San Diego Padres pitcher Joe Musgrove threw the first no-hitter in franchise history.",
+    "date": "2021-04-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Padres signed free agent shortstop Xander Bogaerts to an 11-year, $280 million deal.",
+    "date": "2022-12-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Dave Winfield was drafted by four professional sports teams and chose the San Diego Padres.",
+    "date": "1973-06-05",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Diego Padres were founded as an expansion team.",
+    "date": "1969-04-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Trevor Hoffman became the first pitcher to record 500 career saves \u2014 most of his career spent with the Padres.",
+    "date": "2007-06-06",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland A's 'Bash Brothers' \u2014 Jose Canseco and Mark McGwire \u2014 led the team to the 1988 World Series.",
+    "date": "1988-10-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Jose Canseco became the first player in MLB history to hit 40 home runs and steal 40 bases in the same season, as an Oakland A.",
+    "date": "1988-09-23",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Vida Blue won both the Cy Young and AL MVP awards for the Oakland A's.",
+    "date": "1971-11-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Charlie Finley's Oakland A's featured colorful uniforms and mustaches, redefining baseball style in the 1970s.",
+    "date": "1972-04-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Dallas Braden pitched a perfect game for the A's on Mother's Day.",
+    "date": "2010-05-09",
+    "time_local": "13:07",
+    "time_utc": "20:07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Angels' No-hitter: Combined no-hitter by the Angels pitching staff against the Twins.",
+    "date": "2019-07-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The California Angels lost the 1986 ALCS to the Boston Red Sox after being one strike away from the World Series.",
+    "date": "1986-10-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Angels pitcher Nick Adenhart was killed in a car accident hours after pitching a game.",
+    "date": "2009-04-09",
+    "time_local": "00:30",
+    "time_utc": "07:30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Mike Trout signed a 12-year, $426.5 million contract extension with the Angels \u2014 the largest in sports history at the time.",
+    "date": "2019-03-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Angels acquired Albert Pujols on a 10-year, $240 million free agent deal.",
+    "date": "2011-12-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Nolan Ryan struck out 383 batters in a season for the California Angels.",
+    "date": "1973-10-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Francisco 49ers drafted Joe Montana in the third round of the 1979 NFL Draft.",
+    "date": "1979-05-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers traded Joe Montana to the Kansas City Chiefs.",
+    "date": "1993-04-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Steve Young threw the game-winning TD on a scramble in Super Bowl XXIX, one of his six TD passes.",
+    "date": "1995-01-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers selected Patrick Willis with the 11th pick in the 2007 NFL Draft \u2014 he became one of the best linebackers of his era.",
+    "date": "2007-04-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers hired Bill Walsh as head coach, beginning the West Coast offense revolution.",
+    "date": "1979-01-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Bill Walsh, architect of the West Coast offense, passed away at age 75.",
+    "date": "2007-07-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Terrell Owens caught 'The Catch II' against the Packers in the 1998 NFC Wild Card Game.",
+    "date": "1999-01-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Ronnie Lott had his pinky finger amputated to continue playing for the 49ers.",
+    "date": "1986-01-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers moved from Candlestick Park to Levi's Stadium in Santa Clara for the 2014 season.",
+    "date": "2014-08-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Super Bowl 50 was held at Levi's Stadium \u2014 Denver Broncos defeated the Carolina Panthers.",
+    "date": "2016-02-07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Rams' 'Greatest Show on Turf' featuring Kurt Warner, Marshall Faulk, and Isaac Bruce won Super Bowl XXXIV while in St. Louis.",
+    "date": "2000-01-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The original Los Angeles Rams played in the first televised NFL game.",
+    "date": "1950-10-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Kenny Washington and Woody Strode signed with the LA Rams, reintegrating the NFL.",
+    "date": "1946-03-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Rams selected running back Todd Gurley 10th overall in the 2015 NFL Draft.",
+    "date": "2015-04-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Chargers' Lance Alworth, 'Bambi,' was inducted into the Pro Football Hall of Fame \u2014 the first AFL player so honored.",
+    "date": "1978-07-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The AFL's San Diego Chargers won the 1963 AFL Championship.",
+    "date": "1964-01-05",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Philip Rivers played his final game as a Charger before signing with the Indianapolis Colts.",
+    "date": "2019-12-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Drew Brees was released by the San Diego Chargers and signed with the New Orleans Saints.",
+    "date": "2006-03-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Kings' Jonathan Quick was named Conn Smythe Trophy winner after the 2012 Stanley Cup victory.",
+    "date": "2012-06-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Kings' Anze Kopitar won the Selke Trophy as the NHL's best defensive forward.",
+    "date": "2016-06-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Wayne Gretzky played his final NHL game, retiring as a New York Ranger (but spent transformative years with the Kings).",
+    "date": "1999-04-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Marcel Dionne scored his 550th career goal as a King, cementing his Hall of Fame legacy.",
+    "date": "1987-03-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Kings made the 2018 NHL Playoffs but lost in the first round \u2014 the end of their contention window.",
+    "date": "2018-04-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Anaheim Ducks retired Teemu Selanne's No. 8 jersey.",
+    "date": "2015-01-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Teemu Selanne and Paul Kariya led the Mighty Ducks to the 2003 Stanley Cup Final.",
+    "date": "2003-05-27",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Scott Niedermayer and Chris Pronger led the Ducks to the 2007 Stanley Cup title.",
+    "date": "2007-06-06",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Ryan Getzlaf retired after 17 seasons as captain of the Anaheim Ducks.",
+    "date": "2022-04-24",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Sharks' Joe Pavelski scored an overtime goal in Game 7 of the 2016 Western Conference First Round against the Kings.",
+    "date": "2016-04-27",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The SAP Center ('The Shark Tank') opened as the home of the San Jose Sharks.",
+    "date": "1993-09-07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Evander Kane signed with the San Jose Sharks, adding scoring punch.",
+    "date": "2018-02-26",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Brent Burns won the Norris Trophy as the NHL's best defenseman while with the Sharks.",
+    "date": "2017-06-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Bay to Breakers foot race, a San Francisco institution since 1912, is the oldest consecutively run annual footrace in the world.",
+    "date": "1912-01-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Florence Griffith Joyner set the world record in the 100 meters at the U.S. Olympic Trials in Indianapolis \u2014 she trained in California.",
+    "date": "1988-07-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The California Golden Seals (later Cleveland Barons) were an NHL team based in Oakland from 1967 to 1976.",
+    "date": "1967-10-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Memorial Coliseum has hosted two Olympics, two Super Bowls, and a World Series.",
+    "date": "1923-06-23",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers drew over 3.8 million fans in a season, setting an MLB attendance record.",
+    "date": "1982-10-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Shaquille O'Neal was traded from the Lakers to the Miami Heat following a feud with Kobe Bryant.",
+    "date": "2004-07-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Kobe Bryant's No. 8 and No. 24 jerseys were both retired by the Lakers.",
+    "date": "2017-12-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers selected James Worthy with the first overall pick in the 1982 NBA Draft.",
+    "date": "1982-06-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Anthony Davis was traded to the Los Angeles Lakers from the New Orleans Pelicans.",
+    "date": "2019-06-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The NBA All-Star Game was held at Staples Center in Los Angeles.",
+    "date": "2004-02-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The NBA All-Star Game was held at Staples Center again in 2011.",
+    "date": "2011-02-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers won 33 consecutive games during the 1971-72 season \u2014 a record that stood for decades.",
+    "date": "1972-01-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Warriors hired Bob Myers as general manager, who built the dynasty roster.",
+    "date": "2012-04-24",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Chris Mullin, Tim Hardaway, and Mitch Richmond formed Run TMC for the Golden State Warriors.",
+    "date": "1989-10-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Warriors drafted Wilt Chamberlain with the first overall territorial pick in the 1959 NBA Draft (as Philadelphia Warriors).",
+    "date": "1959-04-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Oracle Arena, the Warriors' former home, was known as the loudest arena in the NBA.",
+    "date": "1966-11-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers clinched the NL West title after a dramatic end to the 2021 regular season.",
+    "date": "2021-10-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Walker Buehler struck out the final batter to clinch the 2020 World Series for the Dodgers.",
+    "date": "2020-10-27",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Clayton Kershaw won his third Cy Young Award.",
+    "date": "2014-11-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers won 106 games in 2019 but lost the NLDS to the Washington Nationals.",
+    "date": "2019-10-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Angels of Anaheim's Tim Salmon hit the go-ahead home run in Game 2 of the 2002 World Series.",
+    "date": "2002-10-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland A's won 20 consecutive games, dramatized in the film Moneyball.",
+    "date": "2002-09-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Billy Beane became general manager of the Oakland A's, pioneering sabermetrics in baseball.",
+    "date": "1997-10-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Mark McGwire hit 49 home runs as a rookie for the Oakland A's, setting a rookie record.",
+    "date": "1987-10-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Rollie Fingers won the AL MVP and Cy Young for the Milwaukee Brewers in 1981 \u2014 he had previously starred for the Oakland A's dynasty.",
+    "date": "1981-11-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Francisco Giants celebrated with a parade after winning the 2010 World Series \u2014 their first in San Francisco.",
+    "date": "2010-11-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Pablo Sandoval hit three home runs in Game 1 of the 2012 World Series for the Giants.",
+    "date": "2012-10-24",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Gaylord Perry threw a no-hitter for the San Francisco Giants.",
+    "date": "1968-09-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Bobby Thomson hit the 'Shot Heard Round the World' for the New York Giants to win the 1951 NL pennant (before the move to SF).",
+    "date": "1951-10-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Sacramento Kings lit the beam for the first time during their 2023 playoff run \u2014 their first postseason appearance in 17 years.",
+    "date": "2023-04-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "De'Aaron Fox led the Sacramento Kings back to the playoffs in 2023.",
+    "date": "2023-04-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Oscar Robertson played for the Sacramento Royals (now Kings) and was the first player to average a triple-double.",
+    "date": "1962-04-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Sacramento Kings drafted Tyreke Evans 4th overall \u2014 he won Rookie of the Year.",
+    "date": "2009-06-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Chris Webber and the Sacramento Kings lost a controversial Game 6 of the 2002 Western Conference Finals to the Lakers.",
+    "date": "2002-05-31",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Galaxy signed Zlatan Ibrahimovic, who scored a stunning debut goal from 40 yards.",
+    "date": "2018-03-31",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Landon Donovan retired from the LA Galaxy as the all-time leading MLS goal scorer at the time.",
+    "date": "2014-11-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The LA Galaxy won MLS Cup in 2011 and 2012 with David Beckham.",
+    "date": "2012-12-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Angel City FC played their first NWSL match in Los Angeles.",
+    "date": "2022-04-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Carlos Vela set the MLS single-season goals record with 34 goals for LAFC.",
+    "date": "2019-10-06",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Banc of California Stadium (later BMO Stadium) opened as the home of LAFC.",
+    "date": "2018-04-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Jose Earthquakes' Chris Wondolowski became the all-time MLS goal scorer.",
+    "date": "2019-05-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC won the national championship in men's swimming for the ninth time.",
+    "date": "1977-03-26",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "UCLA won its 113th NCAA team championship \u2014 the most of any university.",
+    "date": "2021-06-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "UCLA's Jackie Joyner-Kersee won Olympic gold in the heptathlon.",
+    "date": "1988-09-24",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stanford won the NACDA Directors' Cup for the 25th consecutive year.",
+    "date": "2019-06-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stanford's Katie Ledecky won her first Olympic gold in the 800m freestyle at London 2012.",
+    "date": "2012-08-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Cal's Natalie Coughlin won 12 Olympic medals in swimming.",
+    "date": "2012-08-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Fresno State's Henry Ellard had a standout NFL career after starring for the Bulldogs.",
+    "date": "1983-04-26",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "San Diego State won the 2023 Mountain West Conference basketball tournament on their way to the NCAA title game.",
+    "date": "2023-03-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Long Beach State's volleyball program has won multiple NCAA titles, making it a dynasty.",
+    "date": "2019-05-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Pepperdine's men's volleyball won the NCAA Championship.",
+    "date": "2005-05-07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The L.A. Sparks selected Candace Parker with the first overall pick in the 2008 WNBA Draft.",
+    "date": "2008-04-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Diana Taurasi, from Don Lugo High School in Chino, California, became the WNBA's all-time leading scorer.",
+    "date": "2017-06-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Cheryl Miller dominated college basketball at USC, leading the Trojans to two NCAA titles.",
+    "date": "1984-04-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Sparks selected Nneka Ogwumike first overall in the 2012 WNBA Draft.",
+    "date": "2012-04-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Bill Russell won two NCAA Championships at the University of San Francisco before his Boston Celtics dynasty.",
+    "date": "1956-03-24",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The University of San Francisco men's basketball team went undefeated in 1955-56 behind Bill Russell.",
+    "date": "1956-03-24",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Saint Mary's College upset Gonzaga in the 2019 WCC Championship to earn an NCAA Tournament bid.",
+    "date": "2019-03-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Loyola Marymount's Hank Gathers collapsed and died during a WCC Tournament game.",
+    "date": "1990-03-04",
+    "time_local": "17:14",
+    "time_utc": "01:14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Bo Kimble shot his first free throw left-handed in tribute to his fallen teammate Hank Gathers during the 1990 NCAA Tournament.",
+    "date": "1990-03-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Pete Sampras, from Rancho Palos Verdes, California, won his 14th Grand Slam title at the 2002 US Open.",
+    "date": "2002-09-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Serena and Venus Williams grew up training in Compton, California, before dominating world tennis.",
+    "date": "1995-10-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Golden State Warriors won their fourth championship in eight years, defeating the Boston Celtics in 2022.",
+    "date": "2022-06-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Andre Iguodala won the 2015 NBA Finals MVP for the Warriors despite coming off the bench.",
+    "date": "2015-06-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Kings' Dustin Brown scored the overtime goal to win Game 1 of the 2012 Western Conference Finals.",
+    "date": "2012-05-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Kings became the first 8-seed to win the Stanley Cup in the 2012 playoffs.",
+    "date": "2012-06-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Anaheim Ducks' Ryan Getzlaf scored the Cup-clinching goal in the 2007 Stanley Cup Finals.",
+    "date": "2007-06-06",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Paul Kariya returned from a devastating hit by Scott Stevens to score a goal in Game 6 of the 2003 Stanley Cup Final.",
+    "date": "2003-06-07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Jose Sharks scored four goals in four minutes against the Vegas Golden Knights in Game 7 of the 2019 First Round.",
+    "date": "2019-04-23",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Joe Thornton recorded his 1,000th career NHL assist while with the San Jose Sharks.",
+    "date": "2019-02-14",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Kings' Drew Doughty won the Norris Trophy as the NHL's best defenseman.",
+    "date": "2016-06-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Wayne Gretzky's trade to the Kings sparked a hockey boom in Southern California.",
+    "date": "1988-08-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Oscar De La Hoya, the 'Golden Boy' from East LA, won Olympic gold in boxing at the 1992 Barcelona Olympics.",
+    "date": "1992-08-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Floyd Mayweather Jr., who trained in the Bay Area, retired with a 50-0 undefeated record.",
+    "date": "2017-08-26",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Tony Hawk landed the first-ever 900 at the X Games in San Francisco.",
+    "date": "1999-06-27",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Kelly Slater, who grew up surfing in California and Florida, won his 11th World Surf League title.",
+    "date": "2011-11-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Shaun White won halfpipe gold at the Winter Olympics \u2014 he's from San Diego, California.",
+    "date": "2006-02-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Rose Bowl Game has been played nearly every year since 1902, making it 'The Granddaddy of Them All.'",
+    "date": "1902-01-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "UCLA defeated USC in the crosstown rivalry football game to go to the Rose Bowl.",
+    "date": "1998-11-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC's Sam Darnold led a comeback to beat Penn State in the 2017 Rose Bowl.",
+    "date": "2017-01-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Rams selected Aaron Donald 13th overall in the 2014 NFL Draft.",
+    "date": "2014-05-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Deacon Jones, the original 'Secretary of Defense,' coined the term 'sack' while playing for the LA Rams.",
+    "date": "1964-09-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Raiders' Bo Jackson ran over Brian Bosworth in a famous Monday Night Football play.",
+    "date": "1987-11-30",
+    "time_local": "18:00",
+    "time_utc": "02:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Bo Jackson suffered a career-altering hip injury while playing for the Oakland Raiders.",
+    "date": "1991-01-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland Raiders selected JaMarcus Russell first overall in the 2007 NFL Draft \u2014 widely regarded as the biggest draft bust in NFL history.",
+    "date": "2007-04-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Chargers drafted Eli Manning first overall in 2004, then traded him to the New York Giants for Philip Rivers.",
+    "date": "2004-04-24",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Antonio Gates signed with the San Diego Chargers as an undrafted free agent \u2014 he had played college basketball at Kent State.",
+    "date": "2003-05-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Kellen Winslow's legendary performance in the 'Epic in Miami' \u2014 13 catches, 166 yards, a blocked field goal \u2014 cemented his Chargers legacy.",
+    "date": "1982-01-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Diego Padres retired Steve Garvey's number \u2014 he helped them reach the 1984 World Series.",
+    "date": "1988-04-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Rickey Henderson began his career with the Oakland A's and stole 130 bases in 1982.",
+    "date": "1982-10-03",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Jack Nicklaus won the U.S. Open at Pebble Beach Golf Links.",
+    "date": "1972-06-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Tom Watson's chip-in on the 17th hole at Pebble Beach won him the 1982 U.S. Open.",
+    "date": "1982-06-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The AT&T Pebble Beach Pro-Am has drawn celebrities and golfers to the Monterey Peninsula for decades.",
+    "date": "1947-01-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Torrey Pines Golf Course in San Diego hosted the 2008 U.S. Open, won by Tiger Woods in a playoff on a broken leg.",
+    "date": "2008-06-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The first Super Bowl (then AFL-NFL World Championship Game) was played January 15, 1967 at the LA Memorial Coliseum.",
+    "date": "1967-01-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Candlestick Park hosted its final NFL game \u2014 a Monday Night Football between the 49ers and Falcons.",
+    "date": "2013-12-23",
+    "time_local": "17:30",
+    "time_utc": "01:30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "NWA, from Compton, California, revolutionized hip-hop and were closely tied to LA Raiders culture.",
+    "date": "1988-08-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Jack Kent Cooke built The Forum in Inglewood for the Lakers, Kings, and boxing events.",
+    "date": "1967-12-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers honored Jackie Robinson on the 50th anniversary of breaking baseball's color barrier.",
+    "date": "1997-04-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Sandy Koufax refused to pitch Game 1 of the 1965 World Series because it fell on Yom Kippur.",
+    "date": "1965-10-06",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers' 'Showtime' era, led by Magic Johnson, Kareem Abdul-Jabbar, and James Worthy, won five championships in the 1980s.",
+    "date": "1980-05-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Magic Johnson returned from retirement to play for the Lakers during the 1995-96 season.",
+    "date": "1996-01-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Clippers' 'Lob City' era with Chris Paul, Blake Griffin, and DeAndre Jordan thrilled Los Angeles fans.",
+    "date": "2012-10-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Blake Griffin won the 2011 NBA Slam Dunk Contest by dunking over a car.",
+    "date": "2011-02-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Golden State Warriors opened Chase Center in San Francisco with a concert by Metallica and the San Francisco Symphony.",
+    "date": "2019-09-06",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stephen Curry won his first NBA MVP award.",
+    "date": "2015-05-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stephen Curry won his second consecutive MVP \u2014 this time unanimously, the first in NBA history.",
+    "date": "2016-05-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stephen Curry won the 2022 NBA Finals MVP \u2014 his first Finals MVP \u2014 after the Warriors defeated the Celtics.",
+    "date": "2022-06-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers hosted the largest crowd in World Series history \u2014 over 92,000 at the LA Memorial Coliseum in 1959.",
+    "date": "1959-10-06",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Vin Scully's call of Kirk Gibson's walk-off home run is considered the greatest call in sports broadcasting history.",
+    "date": "1988-10-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers were eliminated by the eventual World Series champion Houston Astros in the 2017 World Series \u2014 a series later tainted by the Astros' sign-stealing scandal.",
+    "date": "2017-11-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Hyun-jin Ryu became the first Korean-born player to start a World Series game, pitching for the Dodgers.",
+    "date": "2018-10-26",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Max Muncy hit a walk-off home run in the 18th inning of Game 3 of the 2018 World Series \u2014 the longest game in World Series history.",
+    "date": "2018-10-27",
+    "time_local": "00:30",
+    "time_utc": "07:30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland A's hired Billy Martin as manager, leading to a turnaround known as 'Billyball.'",
+    "date": "1980-02-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Giants' Travis Ishikawa hit a walk-off home run in the 2014 NLCS to send the Giants to the World Series.",
+    "date": "2014-10-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Francisco Giants' Willie Mays retired with 660 career home runs.",
+    "date": "1973-09-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Willie Mays, 'The Say Hey Kid,' passed away at age 93.",
+    "date": "2024-06-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Orlando Cepeda won the NL MVP for the San Francisco Giants.",
+    "date": "1967-11-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Juan Marichal won 238 games during his career, mostly with the San Francisco Giants.",
+    "date": "1975-10-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers' Deion Sanders played in both a World Series game and an NFL game in the same week (though he was with the Braves and Falcons).",
+    "date": "1992-10-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The UFC held its first event in California after the sport was legalized in the state.",
+    "date": "2006-03-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "StubHub Center (now Dignity Health Sports Park) in Carson hosted numerous major sporting events for LA teams.",
+    "date": "2003-06-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Rose Bowl was renovated and designated a National Historic Landmark.",
+    "date": "1987-10-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Pac-12 Conference dissolved after USC, UCLA, Oregon, and Washington departed for the Big Ten.",
+    "date": "2024-08-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland Coliseum has been home to the A's since 1968 \u2014 the longest continuously used stadium in MLB at the time of the A's departure.",
+    "date": "1968-04-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The LA Memorial Coliseum hosted the Opening Ceremony of the 1984 Summer Olympics.",
+    "date": "1984-07-28",
+    "time_local": "16:00",
+    "time_utc": "23:00",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "UCLA's Kareem Abdul-Jabbar (then Lew Alcindor) was so dominant that the NCAA banned the dunk \u2014 the 'Alcindor Rule.'",
+    "date": "1967-04-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "John Wooden won 10 NCAA basketball titles at UCLA in 12 years \u2014 a record that will likely never be broken.",
+    "date": "1975-03-31",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC football has produced more NFL Draft picks than any other college program.",
+    "date": "2024-04-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stanford's Jim Harbaugh returned to coach the 49ers after a successful college coaching career.",
+    "date": "2011-01-07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Cal's Jared Goff was drafted first overall by the LA Rams.",
+    "date": "2016-04-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Battle of the Bay \u2014 the 1989 World Series between the A's and Giants \u2014 was interrupted by a 6.9 magnitude earthquake.",
+    "date": "1989-10-17",
+    "time_local": "17:04",
+    "time_utc": "00:04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Freeway Series between the Angels and Dodgers became an annual interleague tradition.",
+    "date": "1997-06-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers-Giants rivalry, dating back to the 1880s in New York, is the oldest and most storied in baseball.",
+    "date": "1890-04-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers-Celtics rivalry has defined the NBA for decades, with 12 Finals meetings.",
+    "date": "1959-04-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Kings-Ducks 'Freeway Faceoff' rivalry has heated up since the Ducks' founding.",
+    "date": "1993-10-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers-Cowboys rivalry produced some of the most iconic moments in NFL playoff history in the 1980s and 1990s.",
+    "date": "1982-01-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 49ers-Rams rivalry is the oldest in the NFC West, dating back to the 1950s.",
+    "date": "1950-09-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Big Game between Cal and Stanford is one of college football's oldest rivalries.",
+    "date": "1892-03-19",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC-UCLA football rivalry game has been played annually since 1929.",
+    "date": "1929-09-28",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Battle of California \u2014 Sharks vs. Kings vs. Ducks \u2014 intensifies every NHL playoff season.",
+    "date": "2014-04-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers won the 1980 NBA Championship \u2014 rookie Magic Johnson played center in Game 6, scoring 42 points.",
+    "date": "1980-05-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers lost the 2004 NBA Finals to the Detroit Pistons in 5 games, ending the Shaq-Kobe era.",
+    "date": "2004-06-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Lakers defeated the Celtics in 7 games to win the 2010 NBA Championship \u2014 Kobe won his fifth ring.",
+    "date": "2010-06-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Russell Westbrook was traded to the Lakers, reuniting with LeBron James and Anthony Davis.",
+    "date": "2021-07-29",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Rams defeated the Cleveland Browns to win the 1951 NFL Championship \u2014 the franchise's last title in LA until 2022.",
+    "date": "1951-12-23",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Rams left Los Angeles for St. Louis in 1995.",
+    "date": "1995-01-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Sean McVay became the youngest head coach in modern NFL history when hired by the Rams at age 30.",
+    "date": "2017-01-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Von Miller stripped the ball from Cam Newton in Super Bowl 50 at Levi's Stadium to clinch the Broncos' victory.",
+    "date": "2016-02-07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The LA Chargers played their first season in a tiny soccer stadium, the StubHub Center, seating 27,000.",
+    "date": "2017-09-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Natalie Coughlin of Cal became the first woman to swim the 100m backstroke in under a minute.",
+    "date": "2002-08-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Misty May-Treanor and Kerri Walsh Jennings, both Californians, won three consecutive Olympic beach volleyball gold medals.",
+    "date": "2012-08-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Francisco Giants celebrated Pride Night, becoming one of the first MLB teams to do so.",
+    "date": "2001-06-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers' Fernando Valenzuela won both the Cy Young and Rookie of the Year in 1981.",
+    "date": "1981-11-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Dodgers retired Fernando Valenzuela's No. 34.",
+    "date": "2023-08-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Fernando Valenzuela passed away at age 63.",
+    "date": "2024-10-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Sacramento Republic FC was announced as an MLS expansion team.",
+    "date": "2023-02-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland Roots SC played their first USL Championship match.",
+    "date": "2021-05-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stanford's Tara VanDerveer became the winningest coach in NCAA women's basketball history.",
+    "date": "2024-01-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC's women's basketball team won back-to-back NCAA titles in 1983 and 1984 under Linda Sharp.",
+    "date": "1984-04-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The LA Rams won the inaugural NFL Championship in 1945 while still based in Cleveland.",
+    "date": "1945-12-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Tom Brady's final NFL game was a loss to the Rams in the 2021 NFC Divisional Playoff.",
+    "date": "2022-01-23",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Odell Beckham Jr. tore his ACL in Super Bowl LVI while playing for the Rams.",
+    "date": "2022-02-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Francisco 49ers introduced the read-option with Colin Kaepernick, rushing for 181 yards in a 2012 playoff game.",
+    "date": "2013-01-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The LA Galaxy won MLS Cup 2005 over the New England Revolution.",
+    "date": "2005-11-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Robbie Keane scored a brace in the 2014 MLS Cup Final for the Galaxy.",
+    "date": "2014-12-07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Wayne Gretzky scored his 802nd career goal to become the NHL's all-time leading goal scorer.",
+    "date": "1994-03-23",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Mighty Ducks of Anaheim played their first NHL game.",
+    "date": "1993-10-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Kings drafted Luc Robitaille 171st overall in 1984 \u2014 he went on to score 668 career goals.",
+    "date": "1984-06-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "John Gibson established himself as an elite goaltender for the Anaheim Ducks.",
+    "date": "2014-04-17",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Jose Sharks made the NHL playoffs for the first time in their history.",
+    "date": "1994-04-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Sharks upset the Detroit Red Wings in the first round of the 1994 NHL playoffs \u2014 one of the biggest upsets in hockey history.",
+    "date": "1994-05-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Owen Nolan called his shot against Curtis Joseph in the 1997 NHL All-Star Game, held in San Jose.",
+    "date": "1997-01-18",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Los Angeles Sparks won the 2003 WNBA Championship with Lisa Leslie as Finals MVP.",
+    "date": "2003-10-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Sue Bird and Diana Taurasi \u2014 both California high school legends \u2014 became the two greatest players in WNBA history.",
+    "date": "2002-04-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The 2026 FIFA World Cup will have matches at SoFi Stadium in Los Angeles.",
+    "date": "2022-06-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The USFL's LA Express signed Steve Young to the richest contract in football history at the time.",
+    "date": "1984-03-05",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The XFL's LA Wildcats played in 2020 before the league suspended operations.",
+    "date": "2020-02-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Tony Parker scored 21 points in the 4th quarter of a playoff game against the Warriors.",
+    "date": "2013-05-16",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stephen Jackson and Baron Davis led the Warriors' 'We Believe' playoff run.",
+    "date": "2007-04-22",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Monta Ellis was traded by the Warriors to the Milwaukee Bucks for Andrew Bogut.",
+    "date": "2012-03-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "D'Angelo Russell was traded to the Warriors as part of the Kevin Durant sign-and-trade.",
+    "date": "2019-07-07",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Sacramento Kings hired Mike Brown as head coach, leading a revitalization.",
+    "date": "2022-05-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Domantas Sabonis was traded to the Sacramento Kings from the Indiana Pacers.",
+    "date": "2022-02-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Sacramento Kings' Mitch Richmond won the NBA All-Star Game MVP.",
+    "date": "1995-02-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Clippers won a playoff series for the first time since 2006, defeating the Memphis Grizzlies in 2012.",
+    "date": "2012-05-11",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Warriors' Splash Brothers \u2014 Steph Curry and Klay Thompson \u2014 combined for 484 three-pointers in the 2015-16 season.",
+    "date": "2016-04-13",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Francisco Giants won the 1954 World Series while still in New York, sweeping the Cleveland Indians behind Willie Mays.",
+    "date": "1954-10-02",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Angels' Troy Glaus was named 2002 World Series MVP.",
+    "date": "2002-10-27",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Padres' Jake Peavy won the NL Cy Young Award.",
+    "date": "2007-11-15",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Diego Chicken (Ted Giannoulas) became one of the most famous mascots in sports history, debuting at Padres games.",
+    "date": "1974-04-09",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "UCLA gymnast Katelyn Ohashi scored a perfect 10 on floor exercise, and the video went viral with over 100 million views.",
+    "date": "2019-01-12",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "USC's Keyshawn Johnson was drafted first overall by the New York Jets.",
+    "date": "1996-04-20",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Cal's DeSean Jackson returned a punt 65 yards for a touchdown against Big Game rival Stanford, celebrating early and dropping the ball before the end zone.",
+    "date": "2007-12-01",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Long Beach State's men's volleyball program won its first NCAA championship.",
+    "date": "1991-05-04",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Stanford's Brandi Chastain kicked the winning penalty in the 1999 Women's World Cup Final and ripped off her jersey in celebration.",
+    "date": "1999-07-10",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Anaheim Ducks retired Paul Kariya's No. 9 jersey.",
+    "date": "2018-10-21",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The San Jose Sharks retired Patrick Marleau's No. 12 jersey.",
+    "date": "2023-02-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "San Diego State football went undefeated in the 2023 regular season under Brady Hoke.",
+    "date": "2023-11-25",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "Fresno State's Davante Adams starred for the Bulldogs before becoming an NFL All-Pro receiver.",
+    "date": "2014-05-08",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The LA Rams' Torry Holt caught a 73-yard touchdown pass in Super Bowl XXXIV while in St. Louis.",
+    "date": "2000-01-30",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fact": "The Oakland Raiders' Tim Brown won the Heisman Trophy at Notre Dame and starred for the Raiders for 16 seasons.",
+    "date": "1988-12-03",
+    "timezone": "America/Los_Angeles"
+  }
+]
