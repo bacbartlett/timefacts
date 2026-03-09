@@ -1,0 +1,2787 @@
+[
+  {
+    "fact": "The Detroit Lions won the NFL Championship, defeating the Cleveland Browns 59-14 at Briggs Stadium.",
+    "date": "1957-12-29",
+    "time_local": "14:00",
+    "time_utc": "19:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions won the NFL Championship, defeating the Cleveland Browns 17-7.",
+    "date": "1954-12-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions won the NFL Championship, defeating the Cleveland Browns 17-16.",
+    "date": "1953-12-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions won the NFL Championship, defeating the Los Angeles Rams 31-21.",
+    "date": "1952-12-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Barry Sanders rushed for 2,053 yards in the regular season, finishing second-most in NFL history at the time.",
+    "date": "1997-12-21",
+    "time_local": "13:00",
+    "time_utc": "18:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Barry Sanders stunned the sports world by announcing his retirement at age 30, walking away from the game just 1,457 yards short of Walter Payton's all-time rushing record.",
+    "date": "1999-07-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Barry Sanders was selected 3rd overall by the Detroit Lions in the 1989 NFL Draft.",
+    "date": "1989-04-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Barry Sanders won the NFL MVP award for the 1997 season after rushing for 2,053 yards.",
+    "date": "1998-01-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions selected quarterback Matthew Stafford with the 1st overall pick in the 2009 NFL Draft.",
+    "date": "2009-04-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Calvin Johnson set the NFL single-season receiving yards record with 1,964 yards.",
+    "date": "2012-12-30",
+    "time_local": "13:00",
+    "time_utc": "18:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Calvin Johnson was selected 2nd overall by the Detroit Lions in the 2007 NFL Draft.",
+    "date": "2007-04-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Calvin Johnson announced his retirement from the NFL at age 30.",
+    "date": "2016-03-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions went 0-16, becoming the first team in NFL history to lose every game in a 16-game season.",
+    "date": "2008-12-28",
+    "time_local": "13:00",
+    "time_utc": "18:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions played their final game at the Pontiac Silverdome before moving to Ford Field.",
+    "date": "2001-12-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ford Field opened as the new home of the Detroit Lions with a preseason game.",
+    "date": "2002-08-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions selected running back Billy Sims with the 1st overall pick in the 1980 NFL Draft.",
+    "date": "1980-04-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Bobby Layne was traded from the Detroit Lions to the Pittsburgh Steelers, allegedly cursing the Lions to 50 years without a championship.",
+    "date": "1958-10-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions defeated the Dallas Cowboys 38-6 in the NFC Wild Card, their first playoff win since 1957.",
+    "date": "1991-01-05",
+    "time_local": "12:30",
+    "time_utc": "17:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions hired Jim Caldwell as head coach.",
+    "date": "2014-01-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions hired Dan Campbell as head coach.",
+    "date": "2021-01-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions selected Aidan Hutchinson 2nd overall in the 2022 NFL Draft.",
+    "date": "2022-04-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions clinched their first NFC North division title since 1993 under Dan Campbell.",
+    "date": "2023-12-31",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions defeated the Los Angeles Rams 24-23 in the NFC Wild Card round, their first home playoff win since 1957.",
+    "date": "2024-01-14",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions defeated the Tampa Bay Buccaneers 31-23 in the NFC Divisional Round.",
+    "date": "2024-01-21",
+    "time_local": "15:00",
+    "time_utc": "20:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions lost the NFC Championship Game to the San Francisco 49ers 34-31.",
+    "date": "2024-01-28",
+    "time_local": "18:30",
+    "time_utc": "23:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Night Train Lane set the NFL record with 14 interceptions in a single season as a Detroit Lion.",
+    "date": "1952-12-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Dutch Clark, the Lions' first great star, was inducted into the Pro Football Hall of Fame.",
+    "date": "1963-09-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Portsmouth Spartans relocated to Detroit and became the Lions.",
+    "date": "1934-03-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions began the tradition of hosting the Thanksgiving Day game, defeating the Chicago Bears 19-16.",
+    "date": "1934-11-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Joe Schmidt, Lions Hall of Fame linebacker, was named head coach of the Detroit Lions.",
+    "date": "1967-01-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Wayne Fontes was fired as Lions head coach after nine seasons.",
+    "date": "1996-12-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Matt Millen was hired as Lions GM with no front office experience, beginning a disastrous era.",
+    "date": "2001-01-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Matt Millen was finally fired as Lions GM after a 0-3 start to the 2008 season.",
+    "date": "2008-09-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Matthew Stafford was traded from the Detroit Lions to the Los Angeles Rams.",
+    "date": "2021-01-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Jared Goff was acquired by the Lions from the Los Angeles Rams in the Matthew Stafford trade.",
+    "date": "2021-01-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Herman Moore set the Lions single-season receiving record with 123 catches.",
+    "date": "1995-12-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions selected wide receiver Charles Rogers 2nd overall, one of the biggest draft busts in franchise history.",
+    "date": "2003-04-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Alex Karras was suspended for the entire 1963 season for gambling on NFL games.",
+    "date": "1963-04-17",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions' Thanksgiving Day game became the first NFL game broadcast nationally on CBS.",
+    "date": "1956-11-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Amon-Ra St. Brown caught a touchdown on the final play to beat the Vikings 29-27 on the last day of the 2021 season.",
+    "date": "2022-01-09",
+    "time_local": "13:00",
+    "time_utc": "18:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers won the World Series, defeating the San Diego Padres 4 games to 1.",
+    "date": "1984-10-14",
+    "time_local": "20:30",
+    "time_utc": "00:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers won the World Series, defeating the St. Louis Cardinals 4 games to 3.",
+    "date": "1968-10-10",
+    "time_local": "13:00",
+    "time_utc": "17:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers won the World Series, defeating the Chicago Cubs 4 games to 3.",
+    "date": "1945-10-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers won the World Series, defeating the Chicago Cubs 4 games to 2.",
+    "date": "1935-10-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ty Cobb played his first game for the Detroit Tigers.",
+    "date": "1905-08-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Hank Greenberg hit 58 home runs for the Tigers, falling two short of Babe Ruth's record.",
+    "date": "1938-09-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Al Kaline became the youngest player to win an AL batting title at age 20, finishing at .340.",
+    "date": "1955-09-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Al Kaline collected his 3,000th career hit.",
+    "date": "1974-09-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Denny McLain won his 30th game of the season, becoming the last pitcher to win 30 in a season.",
+    "date": "1968-09-14",
+    "time_local": "13:30",
+    "time_utc": "17:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Mickey Lolich won Game 7 of the 1968 World Series, completing a remarkable three-win performance.",
+    "date": "1968-10-10",
+    "time_local": "13:00",
+    "time_utc": "17:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Mark 'The Bird' Fidrych made his major league debut for the Tigers.",
+    "date": "1976-04-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Mark Fidrych won the AL Rookie of the Year award after going 19-9 with a 2.34 ERA.",
+    "date": "1976-11-17",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 1984 Tigers started the season 35-5, the best start in MLB history.",
+    "date": "1984-05-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Kirk Gibson hit a three-run homer in Game 5 of the 1984 World Series to clinch the title.",
+    "date": "1984-10-14",
+    "time_local": "20:30",
+    "time_utc": "00:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Jack Morris threw a no-hitter for the Tigers against the Chicago White Sox.",
+    "date": "1984-04-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Alan Trammell and Lou Whitaker debuted together for the Tigers, beginning a 19-year double-play partnership.",
+    "date": "1977-09-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Cecil Fielder hit 51 home runs for the Tigers, becoming the first Tiger to hit 50+ in a season.",
+    "date": "1990-10-03",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Tiger Stadium hosted its final game. The Tigers defeated the Kansas City Royals 8-2.",
+    "date": "1999-09-27",
+    "time_local": "19:05",
+    "time_utc": "23:05",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Comerica Park opened as the new home of the Detroit Tigers.",
+    "date": "2000-04-11",
+    "time_local": "13:05",
+    "time_utc": "17:05",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers lost the World Series to the St. Louis Cardinals, 4 games to 1.",
+    "date": "2006-10-27",
+    "time_local": "20:00",
+    "time_utc": "00:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers were swept by the San Francisco Giants in the 2012 World Series.",
+    "date": "2012-10-28",
+    "time_local": "20:00",
+    "time_utc": "00:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Justin Verlander won the AL MVP and Cy Young Award after going 24-5 with a 2.40 ERA.",
+    "date": "2011-11-21",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Justin Verlander threw a no-hitter against the Milwaukee Brewers.",
+    "date": "2007-06-12",
+    "time_local": "19:05",
+    "time_utc": "23:05",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Justin Verlander threw his second career no-hitter against the Toronto Blue Jays.",
+    "date": "2011-05-07",
+    "time_local": "19:05",
+    "time_utc": "23:05",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Miguel Cabrera won the Triple Crown, the first player to do so since 1967.",
+    "date": "2012-10-03",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Miguel Cabrera collected his 3,000th career hit with a single against the Colorado Rockies.",
+    "date": "2022-04-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Miguel Cabrera hit his 500th career home run against the Toronto Blue Jays.",
+    "date": "2021-08-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Armando Galarraga lost a perfect game on a blown call by umpire Jim Joyce with two outs in the 9th inning.",
+    "date": "2010-06-02",
+    "time_local": "19:05",
+    "time_utc": "23:05",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers selected Justin Verlander 2nd overall in the 2004 MLB Draft.",
+    "date": "2004-06-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Sparky Anderson was hired as manager of the Detroit Tigers.",
+    "date": "1979-06-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Sparky Anderson was inducted into the Baseball Hall of Fame.",
+    "date": "2000-07-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Sparky Anderson passed away at age 76 in Thousand Oaks, California.",
+    "date": "2010-11-04",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ty Cobb was among the first five players inducted into the Baseball Hall of Fame.",
+    "date": "1936-02-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Hank Greenberg was inducted into the Baseball Hall of Fame.",
+    "date": "1956-07-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers traded Justin Verlander to the Houston Astros.",
+    "date": "2017-08-31",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Willie Horton's iconic moment calming crowds during the 1967 Detroit riots while still in his Tigers uniform.",
+    "date": "1967-07-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ernie Harwell called his first game as voice of the Detroit Tigers.",
+    "date": "1960-04-19",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ernie Harwell called his final game for the Tigers, ending a legendary 42-year career.",
+    "date": "2002-09-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers lost a record 119 games in the 2003 season, the worst in AL history.",
+    "date": "2003-09-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Prince Fielder signed a 9-year, $214 million contract with the Detroit Tigers.",
+    "date": "2012-01-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Magglio Ordonez hit a walk-off three-run homer in Game 4 of the ALCS to send the Tigers to the World Series.",
+    "date": "2006-10-14",
+    "time_local": "20:00",
+    "time_utc": "00:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Jim Leyland was hired as manager of the Detroit Tigers.",
+    "date": "2005-10-04",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings won the Stanley Cup, sweeping the Washington Capitals.",
+    "date": "1998-06-16",
+    "time_local": "20:00",
+    "time_utc": "00:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings won the Stanley Cup, defeating the Carolina Hurricanes 4 games to 1.",
+    "date": "2002-06-13",
+    "time_local": "20:00",
+    "time_utc": "00:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings won the Stanley Cup, sweeping the Philadelphia Flyers.",
+    "date": "1997-06-07",
+    "time_local": "20:00",
+    "time_utc": "00:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings won the Stanley Cup, defeating the Pittsburgh Penguins 4 games to 2.",
+    "date": "2008-06-04",
+    "time_local": "20:00",
+    "time_utc": "00:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings won the Stanley Cup, defeating the New York Rangers. Captain Steve Yzerman lifted the Cup at Joe Louis Arena.",
+    "date": "1997-06-07",
+    "time_local": "22:30",
+    "time_utc": "02:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Steve Yzerman was drafted 4th overall by the Detroit Red Wings.",
+    "date": "1983-06-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Steve Yzerman scored a double-overtime goal to eliminate the St. Louis Blues in Game 7 of the second round.",
+    "date": "1996-05-16",
+    "time_local": "22:00",
+    "time_utc": "02:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Steve Yzerman announced his retirement after 22 seasons with the Red Wings.",
+    "date": "2006-07-03",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Steve Yzerman's number 19 was retired by the Detroit Red Wings.",
+    "date": "2007-01-02",
+    "time_local": "19:30",
+    "time_utc": "00:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Steve Yzerman was named general manager of the Detroit Red Wings.",
+    "date": "2019-04-19",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Gordie Howe played his first game for the Detroit Red Wings at age 18.",
+    "date": "1946-10-16",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Gordie Howe scored his 800th career NHL goal.",
+    "date": "1980-02-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Gordie Howe's number 9 was retired by the Detroit Red Wings.",
+    "date": "1972-03-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Gordie Howe passed away at age 88.",
+    "date": "2016-06-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 'Fight Night at the Joe' \u2014 the infamous Red Wings-Avalanche brawl featuring the Darren McCarty-Claude Lemieux fight.",
+    "date": "1997-03-26",
+    "time_local": "19:30",
+    "time_utc": "00:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Vladimir Konstantinov suffered career-ending injuries in a limousine accident just days after the Red Wings won the Stanley Cup.",
+    "date": "1997-06-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Nicklas Lidstrom won his first Norris Trophy as the NHL's best defenseman.",
+    "date": "2001-06-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Nicklas Lidstrom announced his retirement after 20 seasons with the Red Wings.",
+    "date": "2012-05-31",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Nicklas Lidstrom won the Conn Smythe Trophy as playoff MVP when the Red Wings won the 2002 Cup.",
+    "date": "2002-06-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings set the NHL regular-season wins record with 62 wins.",
+    "date": "1996-04-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Scotty Bowman coached his final game, winning the Stanley Cup with the Red Wings and retiring with a record 9 Cups as a coach.",
+    "date": "2002-06-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings played their final game at Joe Louis Arena, losing to the New Jersey Devils 4-1.",
+    "date": "2017-04-09",
+    "time_local": "17:00",
+    "time_utc": "21:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Little Caesars Arena opened as the new home of the Detroit Red Wings and Pistons.",
+    "date": "2017-09-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Sergei Fedorov won the Hart Trophy as NHL MVP.",
+    "date": "1994-06-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings acquired Brendan Shanahan from the Hartford Whalers in a blockbuster trade.",
+    "date": "1996-10-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Darren McCarty scored the iconic Stanley Cup-clinching goal in 1997, dancing around the Flyers defense.",
+    "date": "1997-06-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings made the playoffs for 25 consecutive seasons, the longest streak in North American pro sports.",
+    "date": "2016-04-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Henrik Zetterberg won the Conn Smythe Trophy as playoff MVP when the Red Wings won the 2008 Cup.",
+    "date": "2008-06-04",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Henrik Zetterberg announced his retirement due to a degenerative back condition.",
+    "date": "2018-09-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Pavel Datsyuk announced he was leaving the NHL to return to Russia.",
+    "date": "2016-06-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Octopus tradition began at Olympia Stadium when Pete and Jerry Cusimano threw an octopus on the ice during the 1952 playoffs.",
+    "date": "1952-04-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Terry Sawchuk recorded his 85th career shutout, setting an NHL record that stood for decades.",
+    "date": "1964-01-18",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings acquired Chris Chelios from the Chicago Blackhawks.",
+    "date": "1999-03-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Dominik Hasek was acquired by the Red Wings from the Buffalo Sabres.",
+    "date": "2001-07-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ted Lindsay organized the first NHL Players' Association and was traded to Chicago as punishment.",
+    "date": "1957-07-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Red Wings legend Ted Lindsay passed away at age 93.",
+    "date": "2019-03-04",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings selected Lucas Raymond 4th overall in the 2020 NHL Draft.",
+    "date": "2020-10-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings selected Moritz Seider 6th overall in the 2019 NHL Draft, a surprise pick.",
+    "date": "2019-06-21",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Moritz Seider won the Calder Trophy as NHL Rookie of the Year.",
+    "date": "2022-06-21",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings won the Stanley Cup, defeating the Montreal Canadiens. It was their 7th Cup overall.",
+    "date": "1955-04-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings won 4 Stanley Cups in 6 years (1950, 1952, 1954, 1955), establishing a dynasty.",
+    "date": "1955-04-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Mike Ilitch purchased the Detroit Red Wings for $8 million.",
+    "date": "1982-06-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Mike Ilitch, owner of the Red Wings and Tigers, passed away at age 87.",
+    "date": "2017-02-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Pistons won the NBA Championship, sweeping the Los Angeles Lakers.",
+    "date": "1989-06-13",
+    "time_local": "21:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Pistons won their second consecutive NBA Championship, defeating the Portland Trail Blazers 4-1.",
+    "date": "1990-06-14",
+    "time_local": "21:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Pistons won the NBA Championship, defeating the Los Angeles Lakers 4-1. The Pistons were known as the 'Goin' to Work' team.",
+    "date": "2004-06-15",
+    "time_local": "21:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Isiah Thomas was selected 2nd overall by the Detroit Pistons in the 1981 NBA Draft.",
+    "date": "1981-06-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Isiah Thomas scored 25 points in the third quarter of Game 6 of the 1988 NBA Finals on a badly sprained ankle.",
+    "date": "1988-06-19",
+    "time_local": "15:30",
+    "time_utc": "19:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 'Bad Boys' Pistons walked off the court before the final buzzer in their playoff loss to the Chicago Bulls.",
+    "date": "1991-05-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Joe Dumars was selected 18th overall by the Detroit Pistons.",
+    "date": "1985-06-18",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Joe Dumars won the NBA Finals MVP in 1989.",
+    "date": "1989-06-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Dennis Rodman was selected 27th overall by the Detroit Pistons in the 1986 Draft.",
+    "date": "1986-06-17",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Bill Laimbeer and Rick Mahorn enforced the 'Jordan Rules' as the Bad Boys Pistons eliminated Michael Jordan's Bulls for the third straight year.",
+    "date": "1990-05-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ben Wallace blocked Shaquille O'Neal's shot in the closing seconds of Game 5 to clinch the 2004 NBA title.",
+    "date": "2004-06-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Chauncey Billups won the NBA Finals MVP as the Pistons upset the heavily favored Lakers in 2004.",
+    "date": "2004-06-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Malice at the Palace: a massive brawl between the Pistons and Indiana Pacers spilled into the stands at The Palace of Auburn Hills.",
+    "date": "2004-11-19",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons lost Game 7 of the 2005 NBA Finals to the San Antonio Spurs.",
+    "date": "2005-06-23",
+    "time_local": "21:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons lost the 2006 Eastern Conference Finals to the Miami Heat, 4 games to 2.",
+    "date": "2006-06-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Palace of Auburn Hills hosted its final Pistons game.",
+    "date": "2017-04-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons moved to Little Caesars Arena in downtown Detroit.",
+    "date": "2017-10-18",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Grant Hill was selected 3rd overall by the Detroit Pistons in the 1994 NBA Draft.",
+    "date": "1994-06-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Grant Hill shared the NBA Rookie of the Year award with Jason Kidd.",
+    "date": "1995-05-16",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Rasheed Wallace was acquired by the Pistons from the Atlanta Hawks mid-season, completing the 2004 championship roster.",
+    "date": "2004-02-19",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons selected Cade Cunningham 1st overall in the 2021 NBA Draft.",
+    "date": "2021-07-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Bob Lanier was selected 1st overall by the Detroit Pistons in the 1970 NBA Draft.",
+    "date": "1970-03-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Dave Bing was selected 2nd overall by the Detroit Pistons in the 1966 NBA Draft.",
+    "date": "1966-05-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Chuck Daly was hired as head coach of the Detroit Pistons, beginning the 'Bad Boys' era.",
+    "date": "1983-05-17",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Chuck Daly was inducted into the Naismith Basketball Hall of Fame.",
+    "date": "1994-05-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Pistons legend Bob Lanier passed away at age 73.",
+    "date": "2022-05-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons selected Jaden Ivey 5th overall in the 2022 NBA Draft.",
+    "date": "2022-06-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons set a franchise-worst 28-game losing streak during the 2023-24 season.",
+    "date": "2024-01-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Tom Gores purchased the Detroit Pistons for $325 million.",
+    "date": "2011-06-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Isiah Thomas's number 11 was retired by the Detroit Pistons.",
+    "date": "1996-02-17",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Joe Dumars's number 4 was retired by the Detroit Pistons.",
+    "date": "2000-03-18",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Vinnie Johnson hit 'The Shot' \u2014 a 14-foot jumper with 0.7 seconds left to clinch the 1990 NBA title.",
+    "date": "1990-06-14",
+    "time_local": "21:30",
+    "time_utc": "01:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan Wolverines football won the first-ever College Football Playoff National Championship, defeating Washington 34-13.",
+    "date": "2024-01-08",
+    "time_local": "19:30",
+    "time_utc": "00:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan Wolverines won a share of the national championship under Lloyd Carr, finishing 12-0 and defeating Washington State in the Rose Bowl.",
+    "date": "1998-01-01",
+    "time_local": "16:30",
+    "time_utc": "21:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Charles Woodson won the Heisman Trophy, the first primarily defensive player to win the award.",
+    "date": "1997-12-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Desmond Howard won the Heisman Trophy after his iconic Heisman pose following a punt return touchdown against Ohio State.",
+    "date": "1991-12-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Desmond Howard struck the Heisman pose after returning a punt 93 yards for a touchdown against Ohio State.",
+    "date": "1991-11-23",
+    "time_local": "15:30",
+    "time_utc": "20:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Tom Brady was selected 199th overall by the New England Patriots in the 2000 NFL Draft, after playing at Michigan.",
+    "date": "2000-04-16",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Bo Schembechler was hired as head football coach at the University of Michigan.",
+    "date": "1968-12-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Bo Schembechler won his first game as Michigan head coach, upsetting #1-ranked Ohio State 24-12 in 'The Upset of the Century.'",
+    "date": "1969-11-22",
+    "time_local": "13:30",
+    "time_utc": "18:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Bo Schembechler passed away the day before the Michigan-Ohio State game at age 77.",
+    "date": "2006-11-17",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan Stadium ('The Big House') opened.",
+    "date": "1927-10-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan Stadium set an NCAA attendance record with 115,109 fans for a game against Notre Dame (the 'Under the Lights' game).",
+    "date": "2013-09-07",
+    "time_local": "20:00",
+    "time_utc": "00:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan played its first-ever night game at Michigan Stadium, defeating Notre Dame 35-31 ('Under the Lights').",
+    "date": "2011-09-10",
+    "time_local": "20:00",
+    "time_utc": "00:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Jim Harbaugh was hired as head football coach at the University of Michigan.",
+    "date": "2014-12-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Jim Harbaugh left Michigan to return to the NFL as head coach of the Los Angeles Chargers.",
+    "date": "2024-01-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan defeated Ohio State 45-23 in 'The Game,' ending an 8-game losing streak to the Buckeyes.",
+    "date": "2021-11-27",
+    "time_local": "12:00",
+    "time_utc": "17:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan defeated Ohio State 42-27 in Columbus to win the Big Ten East for the second consecutive year.",
+    "date": "2022-11-26",
+    "time_local": "12:00",
+    "time_utc": "17:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan defeated Ohio State 30-24 for the third straight year, completing an undefeated regular season.",
+    "date": "2023-11-25",
+    "time_local": "12:00",
+    "time_utc": "17:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Aidan Hutchinson won the Rotary Lombardi Award and finished 2nd in Heisman voting.",
+    "date": "2021-12-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan won the Rose Bowl, defeating Alabama 27-20 in overtime in the College Football Playoff semifinal.",
+    "date": "2024-01-01",
+    "time_local": "17:00",
+    "time_utc": "22:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 'Fab Five' \u2014 Chris Webber, Jalen Rose, Juwan Howard, Jimmy King, Ray Jackson \u2014 started as freshmen for Michigan basketball.",
+    "date": "1991-11-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Chris Webber called a timeout Michigan didn't have in the 1993 NCAA Championship game against North Carolina, resulting in a technical foul.",
+    "date": "1993-04-05",
+    "time_local": "21:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan basketball won the NCAA Championship under Steve Fisher, with Rumeal Robinson hitting two free throws in overtime to beat Seton Hall.",
+    "date": "1989-04-03",
+    "time_local": "21:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Juwan Howard was hired as head basketball coach at the University of Michigan.",
+    "date": "2019-05-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan basketball reached the NCAA Championship game, losing to Villanova 79-62.",
+    "date": "2018-04-02",
+    "time_local": "21:20",
+    "time_utc": "01:20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan basketball reached the NCAA Championship game, losing to Louisville 82-76.",
+    "date": "2013-04-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan hired Sherrone Moore as head football coach to replace Jim Harbaugh.",
+    "date": "2024-01-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The NCAA sign-stealing scandal involving Michigan football and Connor Stalions became national news. Jim Harbaugh was suspended for the final 3 regular season games.",
+    "date": "2023-11-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Tom Harmon won the Heisman Trophy while playing for Michigan.",
+    "date": "1940-11-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan's 'The Team, The Team, The Team' speech was delivered by Bo Schembechler.",
+    "date": "1983-03-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State Spartans defeated Michigan in a stunning finish when the Wolverines botched a punt snap on the final play. Jalen Watts-Jackson scored the winning touchdown.",
+    "date": "2015-10-17",
+    "time_local": "15:30",
+    "time_utc": "19:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State won the Rose Bowl, defeating Stanford 24-20.",
+    "date": "2014-01-01",
+    "time_local": "17:00",
+    "time_utc": "22:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State won the College Football Playoff semifinal Cotton Bowl, defeating Baylor.",
+    "date": "2015-01-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State reached the College Football Playoff, losing to Alabama 38-0 in the Cotton Bowl semifinal.",
+    "date": "2015-12-31",
+    "time_local": "16:00",
+    "time_utc": "21:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State football won the Rose Bowl, defeating USC 17-14. It was their first Rose Bowl since 1988.",
+    "date": "2014-01-01",
+    "time_local": "17:00",
+    "time_utc": "22:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Mark Dantonio was hired as head football coach at Michigan State.",
+    "date": "2006-11-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Mark Dantonio retired as Michigan State head football coach.",
+    "date": "2020-02-04",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Mel Tucker was hired as Michigan State head football coach.",
+    "date": "2020-02-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Mel Tucker was fired by Michigan State for cause amid a sexual harassment scandal.",
+    "date": "2023-09-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State basketball won the NCAA Championship under Tom Izzo, defeating Florida 89-76.",
+    "date": "2000-04-03",
+    "time_local": "21:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Tom Izzo was hired as head basketball coach at Michigan State.",
+    "date": "1995-05-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State basketball's Magic Johnson led the Spartans to the 1979 NCAA Championship, defeating Larry Bird's Indiana State 75-64.",
+    "date": "1979-03-26",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Magic Johnson was selected 1st overall by the Los Angeles Lakers in the 1979 NBA Draft after his sophomore season at Michigan State.",
+    "date": "1979-06-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Magic Johnson announced he was HIV-positive and retired from the NBA.",
+    "date": "1991-11-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Magic Johnson-Larry Bird NCAA Championship game became the most-watched college basketball game in history.",
+    "date": "1979-03-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State reached the NCAA Final Four under Tom Izzo for the 8th time.",
+    "date": "2019-04-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Draymond Green was drafted 35th overall by the Golden State Warriors after playing at Michigan State.",
+    "date": "2012-06-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State hired Jonathan Smith as head football coach.",
+    "date": "2023-11-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Le'Veon Bell was drafted in the 2nd round by the Pittsburgh Steelers after starring at Michigan State.",
+    "date": "2013-04-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Kirk Cousins was drafted in the 4th round by the Washington Redskins after playing at Michigan State.",
+    "date": "2012-04-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State's 'Little Giants' fake field goal play defeated Notre Dame 34-31 in overtime.",
+    "date": "2010-09-18",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Spartan Stadium opened as the home of Michigan State football.",
+    "date": "1923-10-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State won a share of the national championship in football under Duffy Daugherty.",
+    "date": "1965-11-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State and Notre Dame played the famous 10-10 'Game of the Century.'",
+    "date": "1966-11-19",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Bubba Smith was the #1 overall pick in the 1967 NFL Draft after starring at Michigan State.",
+    "date": "1967-03-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Larry Nassar sexual abuse scandal at Michigan State resulted in a $500 million settlement with survivors.",
+    "date": "2018-05-16",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Larry Nassar was sentenced to 40-175 years in prison for sexual abuse of gymnasts and athletes at Michigan State.",
+    "date": "2018-01-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State president Lou Anna Simon resigned amid the Nassar scandal.",
+    "date": "2018-01-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Western Michigan football went undefeated in the regular season (13-0) and earned a Cotton Bowl berth under P.J. Fleck.",
+    "date": "2016-12-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Western Michigan lost the Cotton Bowl to Wisconsin 24-16, ending their perfect season.",
+    "date": "2017-01-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "P.J. Fleck coined the 'Row the Boat' slogan while coaching at Western Michigan.",
+    "date": "2013-01-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Central Michigan's Hail Mary against Oklahoma State was controversially allowed to stand, giving the Chippewas a 30-27 win.",
+    "date": "2016-09-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Grand Valley State University won the NCAA Division II Football National Championship.",
+    "date": "2002-12-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Grand Valley State won the NCAA Division II Football National Championship for the second time.",
+    "date": "2003-12-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Grand Valley State won the NCAA Division II Football Championship for the third time.",
+    "date": "2005-12-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Grand Valley State won its fourth NCAA Division II Football Championship.",
+    "date": "2006-12-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Central Michigan won the MAC Championship in football, defeating Western Michigan.",
+    "date": "2006-12-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Antonio Brown was drafted in the 6th round by the Pittsburgh Steelers after playing at Central Michigan.",
+    "date": "2010-04-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Joe Montana made his last college start at the Cotton Bowl, leading Notre Dame past Houston. Montana later coached at Central Michigan as a graduate assistant.",
+    "date": "1979-01-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Eastern Michigan's football program went 0-12 in back-to-back seasons.",
+    "date": "2015-11-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Eastern Michigan won the Camellia Bowl, their first bowl game victory in program history.",
+    "date": "2018-12-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Detroit Mercy basketball made the NCAA Tournament, losing to St. John's.",
+    "date": "1999-03-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Shock won the WNBA Championship, defeating the Los Angeles Sparks.",
+    "date": "2003-09-16",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Shock won their second WNBA Championship, defeating the Sacramento Monarchs.",
+    "date": "2006-09-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Shock won their third WNBA Championship, defeating the San Antonio Silver Stars.",
+    "date": "2008-10-05",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Shock relocated to Tulsa, Oklahoma, becoming the Tulsa Shock.",
+    "date": "2009-11-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Michigan Panthers of the USFL won the league's first championship, defeating the Philadelphia Stars 24-22.",
+    "date": "1983-07-17",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Drive won the Arena Football League championship (ArenaBowl).",
+    "date": "1988-08-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Detroit City FC was founded, quickly building a passionate supporter culture.",
+    "date": "2012-04-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Joe Louis defeated Max Schmeling by first-round knockout in their famous rematch at Yankee Stadium. Louis was a Detroit boxing legend.",
+    "date": "1938-06-22",
+    "time_local": "22:00",
+    "time_utc": "02:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Joe Louis won the heavyweight championship of the world, defeating James Braddock.",
+    "date": "1937-06-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Sugar Ray Robinson, born in Detroit, won the middleweight championship for the first time.",
+    "date": "1951-02-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Thomas Hearns ('The Hitman'), Detroit boxing legend, fought Sugar Ray Leonard in their epic first fight.",
+    "date": "1981-09-16",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Floyd Mayweather Jr., raised in Grand Rapids, Michigan, won his first world title.",
+    "date": "1998-10-03",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Claressa Shields, from Flint, Michigan, became the first American woman to win an Olympic boxing gold medal.",
+    "date": "2012-08-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Claressa Shields won her second consecutive Olympic boxing gold medal in Rio.",
+    "date": "2016-08-21",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Grand Prix (IndyCar) moved from downtown streets to Belle Isle.",
+    "date": "1992-06-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Grand Prix returned to the downtown street circuit after years on Belle Isle.",
+    "date": "2023-06-04",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pontiac Silverdome hosted Super Bowl XVI \u2014 San Francisco 49ers defeated the Cincinnati Bengals 26-21.",
+    "date": "1982-01-24",
+    "time_local": "16:00",
+    "time_utc": "21:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ford Field hosted Super Bowl XL \u2014 Pittsburgh Steelers defeated the Seattle Seahawks 21-10.",
+    "date": "2006-02-05",
+    "time_local": "18:30",
+    "time_utc": "23:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The NCAA Final Four was held at Ford Field in Detroit.",
+    "date": "2009-04-04",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "WrestleMania 23 was held at Ford Field in Detroit, featuring over 80,000 fans.",
+    "date": "2007-04-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Serena Williams won her first Grand Slam title at the 1999 US Open. She trained with Michigan-based coach.",
+    "date": "1999-09-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers won the American League pennant, defeating the Oakland Athletics in the ALCS.",
+    "date": "2006-10-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Alan Trammell was named World Series MVP in the 1984 World Series, hitting .450 with 2 homers.",
+    "date": "1984-10-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings selected Dylan Larkin with the 15th overall pick in the 2014 NHL Draft.",
+    "date": "2014-06-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Dylan Larkin was named captain of the Detroit Red Wings.",
+    "date": "2021-01-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings won the Stanley Cup in 1936, defeating the Toronto Maple Leafs.",
+    "date": "1936-04-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings won the Stanley Cup in 1937, defeating the New York Rangers.",
+    "date": "1937-04-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings won the Stanley Cup in 1943, sweeping the Boston Bruins.",
+    "date": "1943-04-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings won the Stanley Cup in 1950, defeating the New York Rangers in double overtime of Game 7.",
+    "date": "1950-04-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings won the Stanley Cup in 1952, sweeping the Montreal Canadiens in the minimum 8 games (2 rounds).",
+    "date": "1952-04-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings won the Stanley Cup in 1954, defeating the Montreal Canadiens in 7 games.",
+    "date": "1954-04-16",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Joe Louis Arena opened as the new home of the Detroit Red Wings.",
+    "date": "1979-12-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings acquired Paul Coffey from the Pittsburgh Penguins.",
+    "date": "1993-01-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Kris Draper was acquired by the Red Wings from the Winnipeg Jets for $1 (future considerations).",
+    "date": "1993-06-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Claude Lemieux's hit on Kris Draper in the 1996 Western Conference Finals broke Draper's jaw and ignited the legendary Red Wings-Avalanche rivalry.",
+    "date": "1996-05-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings retired Nicklas Lidstrom's number 5.",
+    "date": "2014-03-06",
+    "time_local": "19:30",
+    "time_utc": "00:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings retired Steve Yzerman's number 19 in an emotional ceremony at Joe Louis Arena.",
+    "date": "2007-01-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings retired Gordie Howe's number 9 at Olympia Stadium.",
+    "date": "1972-03-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings retired Terry Sawchuk's number 1.",
+    "date": "1994-03-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings retired Alex Delvecchio's number 10.",
+    "date": "1991-11-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings retired Ted Lindsay's number 7.",
+    "date": "1991-11-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Mike Babcock was hired as head coach of the Detroit Red Wings.",
+    "date": "2005-07-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Mike Babcock left the Red Wings to become head coach of the Toronto Maple Leafs.",
+    "date": "2015-05-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Jeff Blashill was hired as head coach of the Detroit Red Wings.",
+    "date": "2015-06-19",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Derek Lalonde was hired as head coach of the Detroit Red Wings.",
+    "date": "2022-06-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings' 25-year playoff streak ended, missing the postseason for the first time since 1990.",
+    "date": "2017-04-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Dennis Rodman won the NBA Defensive Player of the Year for the second time as a Piston.",
+    "date": "1991-05-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons traded Dennis Rodman to the San Antonio Spurs.",
+    "date": "1993-10-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Rip Hamilton was acquired by the Pistons from the Washington Wizards.",
+    "date": "2002-09-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ben Wallace signed with the Detroit Pistons as a free agent, becoming the anchor of their defense.",
+    "date": "2000-08-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ben Wallace won the NBA Defensive Player of the Year award for the first time.",
+    "date": "2002-04-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ben Wallace won his 4th Defensive Player of the Year award.",
+    "date": "2006-04-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons acquired Allen Iverson from the Denver Nuggets.",
+    "date": "2008-11-03",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons selected Andre Drummond 9th overall in the 2012 NBA Draft.",
+    "date": "2012-06-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Blake Griffin was traded to the Detroit Pistons from the Los Angeles Clippers.",
+    "date": "2018-01-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons hired Monty Williams as head coach on a 6-year deal.",
+    "date": "2023-06-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons fired Monty Williams after just one season with a 22-60 record.",
+    "date": "2024-06-19",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 2024 NFL Draft was held in Detroit, drawing massive crowds to the downtown area.",
+    "date": "2024-04-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan's Chris Perry won the Doak Walker Award as the nation's best running back.",
+    "date": "2003-12-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan's Jabrill Peppers was a Heisman Trophy finalist as a versatile defensive weapon.",
+    "date": "2016-12-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan defeated Florida 41-7 in the Citrus Bowl under Jim Harbaugh, signaling the program's return to prominence.",
+    "date": "2016-01-01",
+    "time_local": "13:00",
+    "time_utc": "18:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Rich Rodriguez was hired as Michigan's head football coach, the first non-Michigan man to lead the program.",
+    "date": "2007-12-17",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Rich Rodriguez was fired as Michigan head football coach after three seasons.",
+    "date": "2011-01-05",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Brady Hoke was hired as Michigan's head football coach.",
+    "date": "2011-01-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Brady Hoke was fired as Michigan's head football coach after the Shane Morris concussion controversy and a 5-7 season.",
+    "date": "2014-12-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan defeated Ohio State 13-10 in the famous 'Cooper's last stand' game, contributing to John Cooper's firing.",
+    "date": "2000-11-18",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Lloyd Carr retired as Michigan's head football coach after the 2007 season.",
+    "date": "2007-12-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Lloyd Carr won his last game as Michigan coach, defeating Florida 41-35 in the Capital One Bowl.",
+    "date": "2008-01-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Braylon Edwards caught a game-winning touchdown in triple overtime to beat Michigan State 27-20.",
+    "date": "2004-10-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 'App State' upset: Appalachian State defeated #5 Michigan 34-32, one of the biggest upsets in college football history.",
+    "date": "2007-09-01",
+    "time_local": "12:00",
+    "time_utc": "16:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan hockey won the NCAA Frozen Four Championship, defeating Minnesota.",
+    "date": "1998-04-04",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan hockey has won 9 NCAA championships, the most in college hockey history.",
+    "date": "2023-04-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State hockey won the NCAA Championship, defeating Boston College 3-1.",
+    "date": "2007-04-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan won the Big Ten Championship Game, defeating Iowa 42-3, and earned a College Football Playoff berth.",
+    "date": "2021-12-04",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan won the Big Ten Championship Game, defeating Purdue 43-22.",
+    "date": "2022-12-03",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan won the Big Ten Championship Game, defeating Iowa 26-0.",
+    "date": "2023-12-02",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Blake Corum rushed for 177 yards and 2 TDs as Michigan defeated Ohio State in The Game.",
+    "date": "2022-11-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "J.J. McCarthy was drafted 10th overall by the Minnesota Vikings after leading Michigan to the national championship.",
+    "date": "2024-04-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers retired Al Kaline's number 6.",
+    "date": "1980-08-17",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Al Kaline passed away at age 85.",
+    "date": "2020-04-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers retired Hank Greenberg's number 5.",
+    "date": "1983-06-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers retired Charlie Gehringer's number 2.",
+    "date": "1983-06-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers retired Willie Horton's number 23.",
+    "date": "2000-07-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers retired Jack Morris's number 47.",
+    "date": "2018-08-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers retired Alan Trammell's number 3.",
+    "date": "2018-08-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers retired Lou Whitaker's number 1.",
+    "date": "2020-08-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Alan Trammell and Jack Morris were inducted into the Baseball Hall of Fame via the Modern Era Committee.",
+    "date": "2018-07-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ivan 'Pudge' Rodriguez signed with the Detroit Tigers as a free agent.",
+    "date": "2004-02-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers won the 2006 ALCS, defeating the Oakland Athletics in a sweep to reach the World Series.",
+    "date": "2006-10-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Max Scherzer threw a no-hitter for the Tigers against the Pittsburgh Pirates, missing a perfect game by hitting a batter.",
+    "date": "2013-06-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers traded Max Scherzer's rights when he became a free agent after 2014.",
+    "date": "2014-10-31",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers acquired David Price from the Tampa Bay Rays.",
+    "date": "2014-07-31",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Denny McLain won the Cy Young Award and MVP for the 1968 season.",
+    "date": "1968-11-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Denny McLain won a second consecutive Cy Young Award in 1969, sharing it with Mike Cuellar.",
+    "date": "1969-11-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 1968 Tigers World Series victory helped unite Detroit following the devastating 1967 riots.",
+    "date": "1968-10-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Hal Newhouser won back-to-back AL MVP awards pitching for the Tigers.",
+    "date": "1945-11-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers played in the first World Series game to use lights (night game) \u2014 Game 4 of the 1935 Series.",
+    "date": "1935-10-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Miguel Cabrera won back-to-back AL MVP awards (2012-2013).",
+    "date": "2013-11-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Miguel Cabrera signed an 8-year, $248 million extension with the Tigers.",
+    "date": "2014-03-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Miguel Cabrera played his final career game for the Tigers.",
+    "date": "2023-10-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions drafted quarterback Joey Harrington 3rd overall.",
+    "date": "2002-04-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions selected Jeff Okudah 3rd overall, the highest a cornerback had been drafted since 1997.",
+    "date": "2020-04-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions traded the 2nd overall pick to the Vikings, acquiring a haul of picks to rebuild under Brad Holmes.",
+    "date": "2024-04-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ndamukong Suh was selected 2nd overall by the Detroit Lions.",
+    "date": "2010-04-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ndamukong Suh stomped on a Packers lineman on Thanksgiving Day, earning a two-game suspension.",
+    "date": "2011-11-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions' 2014 Wild Card playoff game featured a controversial picked-up pass interference flag against the Cowboys.",
+    "date": "2015-01-04",
+    "time_local": "16:40",
+    "time_utc": "21:40",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Barry Sanders won the NFL Rookie of the Year award after rushing for 1,470 yards.",
+    "date": "1990-01-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Barry Sanders was inducted into the Pro Football Hall of Fame.",
+    "date": "2004-08-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Calvin Johnson was inducted into the Pro Football Hall of Fame.",
+    "date": "2021-08-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Dick 'Night Train' Lane was inducted into the Pro Football Hall of Fame.",
+    "date": "1974-07-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions hired Brad Holmes as general manager.",
+    "date": "2021-01-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "St. Brown, Jameson Williams, and Jahmyr Gibbs formed a dynamic trio as the Lions offense became one of the NFL's best.",
+    "date": "2023-09-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions went 12-5 in the 2023 regular season, their best record since 1991.",
+    "date": "2024-01-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Jason Hanson retired after 21 seasons with the Detroit Lions, an NFL record for years with one team by a non-quarterback.",
+    "date": "2013-04-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions' Thanksgiving Day Curse: the Lions have hosted Thanksgiving games since 1934 but hold a losing record in the series.",
+    "date": "1934-11-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions lost to the Green Bay Packers 9-7 on a controversial 61-yard Hail Mary touchdown by Aaron Rodgers on the final play.",
+    "date": "2015-12-03",
+    "time_local": "20:25",
+    "time_utc": "01:25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Michigan Wolverines won the Big Ten regular season basketball title under Juwan Howard.",
+    "date": "2021-03-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State's Mateen Cleaves was named Most Outstanding Player of the 2000 Final Four.",
+    "date": "2000-04-03",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State basketball reached the NCAA Championship game, losing to Duke.",
+    "date": "2001-04-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State reached the Final Four, losing to Texas Tech in the semifinal.",
+    "date": "2019-04-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Cassius Winston became Michigan State's all-time assists leader.",
+    "date": "2020-02-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Zach Randolph was selected 19th overall in the 2001 NBA Draft after playing at Michigan State.",
+    "date": "2001-06-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State's George Webster became the first defensive player selected in the top 5 of the NFL Draft.",
+    "date": "1967-03-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Charles 'Peanut' Rogers was the 2nd overall pick in the 2003 NFL Draft out of Michigan State.",
+    "date": "2003-04-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Plaxico Burress was drafted 8th overall by the Pittsburgh Steelers out of Michigan State.",
+    "date": "2000-04-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan softball won the Women's College World Series.",
+    "date": "2005-06-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan's women's basketball team reached the Elite Eight for the first time in program history.",
+    "date": "2021-03-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings' Production Line of Gordie Howe, Ted Lindsay, and Sid Abel dominated the NHL in the early 1950s.",
+    "date": "1950-03-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings' Russian Five \u2014 Fedorov, Larionov, Kozlov, Konstantinov, and Fetisov \u2014 revolutionized NHL hockey.",
+    "date": "1996-10-05",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Russian Five documentary premiered in Detroit.",
+    "date": "2018-03-21",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Igor Larionov scored the triple-overtime winner in Game 3 of the 2002 Stanley Cup Finals against Carolina.",
+    "date": "2002-06-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings selected Simon Edvinsson 6th overall in the 2021 NHL Draft.",
+    "date": "2021-07-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The University of Michigan's swimming and diving program has won more NCAA Championships than any other school.",
+    "date": "2013-03-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michael Phelps trained at the University of Michigan under coach Bob Bowman.",
+    "date": "2004-09-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan track star Jesse Owens set 3 world records and tied a fourth at the Big Ten Championships in Ann Arbor.",
+    "date": "1935-05-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pontiac Silverdome's roof collapsed under the weight of snow.",
+    "date": "2013-01-18",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pontiac Silverdome was demolished.",
+    "date": "2018-03-04",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Tiger Stadium was demolished after standing since 1912.",
+    "date": "2009-06-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The original Tiger Stadium (Navin Field/Briggs Stadium/Tiger Stadium) opened.",
+    "date": "1912-04-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Olympia Stadium, the Red Wings' original home ('The Old Red Barn'), was demolished.",
+    "date": "1987-02-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State's Breslin Center opened.",
+    "date": "1989-11-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Crisler Center opened as the home of Michigan basketball.",
+    "date": "1967-12-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Grand Valley State won its first NCAA Division II men's basketball championship.",
+    "date": "2014-03-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Western Michigan hockey reached the Frozen Four for the first time.",
+    "date": "2011-04-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan Tech won the NCAA hockey championship.",
+    "date": "1975-03-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Lake Superior State won the NCAA Division I hockey championship, defeating Boston University.",
+    "date": "1988-04-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Lake Superior State won their second NCAA hockey championship.",
+    "date": "1992-04-04",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Lake Superior State won their third NCAA hockey championship, defeating Boston University.",
+    "date": "1994-04-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Northern Michigan won the NCAA Division I hockey championship, defeating Boston University in triple overtime.",
+    "date": "1991-03-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ferris State hockey reached the NCAA Frozen Four championship game, losing to Minnesota.",
+    "date": "2012-04-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan Tech won back-to-back NCAA hockey championships (1962, 1965).",
+    "date": "1965-03-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Cougars (later Red Wings) were founded as an NHL expansion team.",
+    "date": "1926-09-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Cougars were renamed the Detroit Falcons.",
+    "date": "1930-09-18",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Falcons were renamed the Detroit Red Wings by new owner James Norris.",
+    "date": "1932-10-05",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Hank Greenberg was the first major league star to enlist in the military during World War II, missing nearly 5 seasons.",
+    "date": "1941-05-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Hank Greenberg returned from military service and hit a grand slam on the final day to clinch the 1945 pennant for the Tigers.",
+    "date": "1945-09-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers became the last AL team to integrate, calling up Ozzie Virgil Sr.",
+    "date": "1958-06-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Stars of the Negro Leagues were founded, playing at Mack Park.",
+    "date": "1919-04-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Turkey Stearnes, Detroit Stars legend, was inducted into the Baseball Hall of Fame.",
+    "date": "2000-03-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Gems of the NBL (forerunner to the NBA) relocated to Minneapolis and became the Lakers.",
+    "date": "1947-06-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Fort Wayne Pistons relocated to Detroit.",
+    "date": "1957-03-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Pistons played at Cobo Arena before moving to the Pontiac Silverdome.",
+    "date": "1961-10-21",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons moved from the Pontiac Silverdome to The Palace of Auburn Hills.",
+    "date": "1988-08-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Kirk Gibson, former Tiger, hit one of the most famous home runs in World Series history \u2014 a walk-off homer for the Dodgers in Game 1 of the 1988 Series.",
+    "date": "1988-10-15",
+    "time_local": "20:30",
+    "time_utc": "00:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions selected wide receiver Roy Williams 7th overall in the 2004 Draft.",
+    "date": "2004-04-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Herman Moore, the Lions' all-time leading receiver at the time, played his final game for Detroit.",
+    "date": "2001-12-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions' Thanksgiving Day classic: the 1998 game in which Jason Hanson kicked a game-winning field goal to beat the Steelers 19-16 in OT.",
+    "date": "1998-11-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions set an NFL record by rallying from a 21-3 halftime deficit to defeat the Bears 38-31 on Thanksgiving.",
+    "date": "2001-11-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Matthew Stafford threw for 5,038 yards in 2011, becoming just the fourth QB to throw for 5,000 yards in a season.",
+    "date": "2012-01-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Matthew Stafford led the Lions to the playoffs for the first time since 1999 with an 11-5 record.",
+    "date": "2011-12-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions defeated the Bears 37-23 on Monday Night Football behind Matthew Stafford's heroic comeback despite a separated shoulder.",
+    "date": "2009-11-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 'Butt Fumble' \u2014 Mark Sanchez's infamous play \u2014 happened in a Jets loss to the Patriots, not a Michigan game, but Michigan's Denard Robinson won Big Ten Offensive Player of the Year that season.",
+    "date": "2012-11-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan quarterback Denard Robinson set an NCAA record for rushing yards by a quarterback with 1,702 yards.",
+    "date": "2010-11-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan basketball's Trey Burke hit a game-tying three-pointer against Kansas in the Sweet 16, later called 'The Shot.'",
+    "date": "2013-03-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Trey Burke won the Wooden Award as college basketball's best player.",
+    "date": "2013-04-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan basketball upset #2 Purdue in overtime at Crisler Center.",
+    "date": "2022-02-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Tom Izzo recorded his 600th career win as Michigan State head coach.",
+    "date": "2022-12-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions franchise's first game (as the Portsmouth Spartans) was played.",
+    "date": "1930-09-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons lost the 2007 Eastern Conference Finals to LeBron James and the Cleveland Cavaliers, who won the last 4 games including a legendary 48-point Game 5 performance by LeBron.",
+    "date": "2007-06-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "LeBron James scored 29 of the Cavaliers' final 30 points (including 25 straight) to eliminate the Pistons in the 2007 ECF Game 5.",
+    "date": "2007-05-31",
+    "time_local": "20:30",
+    "time_utc": "00:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Palace of Auburn Hills was demolished.",
+    "date": "2020-07-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ben Wallace's number 3 was retired by the Detroit Pistons.",
+    "date": "2022-01-16",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Chauncey Billups's number 1 was retired by the Detroit Pistons.",
+    "date": "2016-02-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings held a public farewell ceremony at Joe Louis Arena with former players skating on the ice one final time.",
+    "date": "2017-04-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings signed free agent goaltender Dominik Hasek, who helped them win the 2002 Stanley Cup.",
+    "date": "2001-07-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Chris Osgood won his 400th career NHL game as a Red Wing.",
+    "date": "2011-01-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings acquired Marian Hossa, who scored key playoff goals in their 2008 Cup run.",
+    "date": "2008-02-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings acquired Brett Hull, adding to their star-studded 2002 championship roster.",
+    "date": "2001-07-03",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 2002 Red Wings roster featured 9 future Hockey Hall of Famers, often called the greatest team ever assembled.",
+    "date": "2002-06-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Luc Robitaille scored his 300th goal as a Red Wing.",
+    "date": "2003-03-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Jimmy Howard was selected in the 2nd round by the Red Wings and became their starting goaltender for over a decade.",
+    "date": "2003-06-21",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings lost the 2009 Stanley Cup Finals to the Pittsburgh Penguins in 7 games.",
+    "date": "2009-06-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Western Michigan's Greg Jennings was drafted by the Green Bay Packers and became a Super Bowl champion.",
+    "date": "2006-04-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Central Michigan's Dan LeFevour became the first player in NCAA history to pass for 12,000 yards and rush for 2,500.",
+    "date": "2009-12-05",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Eric Ebron was drafted 10th overall by the Detroit Lions out of the University of North Carolina.",
+    "date": "2014-05-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Michigan Panthers revived as a USFL team in the 2022 reboot of the league.",
+    "date": "2022-04-16",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 2005 MLB All-Star Game was held at Comerica Park in Detroit.",
+    "date": "2005-07-12",
+    "time_local": "19:30",
+    "time_utc": "23:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 2012 MLB All-Star Game was hosted at Kauffman Stadium but featured Triple Crown winner Miguel Cabrera of the Tigers as the starting first baseman.",
+    "date": "2012-07-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 1971 MLB All-Star Game was held at Tiger Stadium. Reggie Jackson hit a memorable home run off the light tower.",
+    "date": "1971-07-13",
+    "time_local": "20:15",
+    "time_utc": "00:15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 1941 MLB All-Star Game was held at Briggs Stadium (Tiger Stadium) in Detroit.",
+    "date": "1941-07-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 1951 MLB All-Star Game was held at Briggs Stadium in Detroit.",
+    "date": "1951-07-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The NHL All-Star Game was held at Joe Louis Arena in Detroit.",
+    "date": "1980-02-05",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 1954 NBA All-Star Game was the first held in a neutral site arena \u2014 at Madison Square Garden, but featured Pistons from Fort Wayne.",
+    "date": "1954-01-21",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 2003 NBA All-Star Game was held at Philips Arena but the Pistons' Ben Wallace was an All-Star starter.",
+    "date": "2003-02-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan Wolverines women's softball won the NCAA Championship, defeating UCLA.",
+    "date": "2005-06-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers hosted their first game at Bennett Park, the predecessor to Tiger Stadium.",
+    "date": "1896-04-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers won the American League pennant for the first time.",
+    "date": "1907-09-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ty Cobb won the first of his 12 batting titles.",
+    "date": "1907-10-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ty Cobb hit .420 in 1911, one of the highest single-season batting averages in modern baseball history.",
+    "date": "1911-10-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers won their first World Series in 1935, defeating the Chicago Cubs.",
+    "date": "1935-10-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Charlie Gehringer won the AL MVP award for the Tigers.",
+    "date": "1937-12-06",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Virgil Trucks threw two no-hitters in a single season for the Tigers, despite the team losing 104 games.",
+    "date": "1952-08-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Jim Bunning threw a no-hitter for the Tigers against the Red Sox.",
+    "date": "1958-07-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Express of the NASL (North American Soccer League) played at the Pontiac Silverdome.",
+    "date": "1978-04-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pontiac Silverdome hosted the 1994 FIFA World Cup matches.",
+    "date": "1994-06-18",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings acquired Dino Ciccarelli in a trade with the Washington Capitals.",
+    "date": "1992-06-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings' Grind Line of Kris Draper, Kirk Maltby, Darren McCarty, and Joe Kocur became fan favorites.",
+    "date": "1997-04-16",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Hockeytown nickname was officially trademarked by the Detroit Red Wings.",
+    "date": "1996-12-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Joe Louis Arena demolition was completed.",
+    "date": "2020-04-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Little Caesars Arena hosted its first Red Wings game.",
+    "date": "2017-10-05",
+    "time_local": "19:30",
+    "time_utc": "23:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions selected Jahmyr Gibbs 12th overall in the 2023 NFL Draft.",
+    "date": "2023-04-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions selected Jameson Williams 12th overall in the 2022 NFL Draft.",
+    "date": "2022-04-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions selected Penei Sewell 7th overall in the 2021 NFL Draft.",
+    "date": "2021-04-29",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions won their first Thanksgiving Day game under Dan Campbell, defeating the Bears 16-14.",
+    "date": "2022-11-24",
+    "time_local": "12:30",
+    "time_utc": "17:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Dan Campbell's emotional 'bite kneecaps' introductory press conference went viral.",
+    "date": "2021-01-21",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions defeated the Kansas City Chiefs 21-20 in the NFL season opener, a statement win.",
+    "date": "2023-09-07",
+    "time_local": "20:20",
+    "time_utc": "00:20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan's Jake Long was the 1st overall pick in the 2008 NFL Draft by the Miami Dolphins.",
+    "date": "2008-04-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan's Rashan Gary was selected 12th overall by the Green Bay Packers.",
+    "date": "2019-04-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan's Chase Winovich, Devin Bush, and Rashan Gary were all selected in the first two rounds of the 2019 NFL Draft.",
+    "date": "2019-04-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State's Darqueze Dennard was selected 24th overall, and the Spartans had multiple first-rounders in the 2014 NFL Draft.",
+    "date": "2014-05-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan's Tom Brady, the greatest quarterback of all time, won his 7th Super Bowl \u2014 more than any franchise in NFL history.",
+    "date": "2021-02-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Michigan-Ohio State rivalry, known as 'The Game,' is considered the greatest rivalry in all of sports. The first meeting was in 1897.",
+    "date": "1897-10-16",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan's famous winged helmet was introduced by coach Fritz Crisler.",
+    "date": "1938-09-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Ten Year War between Bo Schembechler and Woody Hayes began, defined by intense Michigan-Ohio State matchups from 1969-1978.",
+    "date": "1969-11-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Fielding Yost's 'Point-a-Minute' teams went 56-1-1 from 1901-1905 at Michigan.",
+    "date": "1901-10-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan won the first Rose Bowl game ever played, defeating Stanford 49-0.",
+    "date": "1902-01-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Gerald Ford played center for the Michigan Wolverines football team and was offered NFL contracts.",
+    "date": "1934-11-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The University of Michigan's athletic department adopted the 'Go Blue' slogan.",
+    "date": "1962-09-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan Stadium was renovated, adding permanent lighting for night games and luxury boxes.",
+    "date": "2010-09-04",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions' Thanksgiving game against the Houston Texans drew 32.2 million viewers in 2023, the most-watched NFL regular season game in history.",
+    "date": "2023-11-23",
+    "time_local": "12:30",
+    "time_utc": "17:30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings signed Alex DeBrincat in free agency.",
+    "date": "2023-07-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings traded for goaltender Ville Husso from the St. Louis Blues.",
+    "date": "2022-07-08",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Pavel Datsyuk won his third consecutive Selke Trophy as the NHL's best defensive forward.",
+    "date": "2010-06-23",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Pavel Datsyuk won the Lady Byng Trophy for the fourth consecutive time.",
+    "date": "2009-06-18",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings drafted Henrik Zetterberg in the 7th round, 210th overall \u2014 one of the greatest late-round steals in NHL history.",
+    "date": "1999-06-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings drafted Pavel Datsyuk in the 6th round, 171st overall \u2014 another legendary late-round pick.",
+    "date": "1998-06-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Gordie Howe returned to professional hockey at age 45, joining the WHA's Houston Aeros to play with his sons Mark and Marty.",
+    "date": "1973-09-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Gordie Howe played his final NHL game at age 52 for the Hartford Whalers.",
+    "date": "1980-04-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The first Thanksgiving Day football game in Detroit was held at the University of Detroit.",
+    "date": "1895-11-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan hosted the 'Big Chill at the Big House' \u2014 an outdoor hockey game that drew 104,173 fans, setting a world record.",
+    "date": "2010-12-11",
+    "time_local": "12:00",
+    "time_utc": "17:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Pistons' 2004 championship team was the first NBA champion without a single player averaging 16+ points per game.",
+    "date": "2004-06-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Isiah Thomas retired as a Detroit Piston after 13 seasons.",
+    "date": "1994-04-19",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Bad Boys 30 for 30 documentary premiered on ESPN.",
+    "date": "2014-04-17",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Dave DeBusschere became the youngest player-coach in NBA history at age 24 with the Detroit Pistons.",
+    "date": "1964-11-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Rasheed Wallace set the NBA record for technical fouls in a season with 41 (before joining the Pistons).",
+    "date": "2001-04-18",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Grand Valley State Lakers won the Division II football national championship for the sixth time overall.",
+    "date": "2006-12-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Saginaw Valley State reached the Division II Final Four in basketball.",
+    "date": "2015-03-26",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Michigan Wolverines beat Ohio State in Ann Arbor 42-39 in one of the highest-scoring editions of 'The Game.'",
+    "date": "2013-11-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State's Connor Cook was drafted in the 4th round by the Oakland Raiders.",
+    "date": "2016-04-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit City FC joined the USL Championship, bringing professional outdoor soccer back to Detroit.",
+    "date": "2022-03-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan basketball's Phil Hubbard was the first African American player to start for the Wolverines and was drafted 15th overall by the Cavaliers.",
+    "date": "1979-06-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan's Cazzie Russell was the #1 overall pick in the 1966 NBA Draft.",
+    "date": "1966-05-11",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan basketball won back-to-back Big Ten titles under John Beilein.",
+    "date": "2014-03-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "John Beilein resigned as Michigan basketball coach to take the Cleveland Cavaliers job.",
+    "date": "2019-05-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan basketball reached the Sweet 16 under Dusty May in his first season.",
+    "date": "2025-03-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Dusty May was hired as Michigan basketball's head coach.",
+    "date": "2024-03-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State basketball made an Elite Eight run under Tom Izzo, defeating Duke in the 2019 Regional Final.",
+    "date": "2019-03-31",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan gymnastics has been a perennial top-10 program, producing numerous Olympic gymnasts.",
+    "date": "2023-04-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Red Wings' Chris Chelios played until age 48, one of the oldest players in NHL history.",
+    "date": "2010-01-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Red Wings traded for defenseman Jeff Petry from the Edmonton Oilers.",
+    "date": "2023-07-07",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers' Mark 'The Bird' Fidrych tragically died in an accident at age 54.",
+    "date": "2009-04-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers selected Spencer Torkelson 1st overall in the 2020 MLB Draft.",
+    "date": "2020-06-10",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers selected Riley Greene 5th overall in the 2019 MLB Draft.",
+    "date": "2019-06-03",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers hired A.J. Hinch as manager.",
+    "date": "2020-10-30",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers acquired Javier B\u00e1ez on a 6-year, $140 million contract.",
+    "date": "2022-03-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers' Willie Hernandez won both the Cy Young Award and MVP in 1984.",
+    "date": "1984-11-14",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions won their first playoff game in 32 years, defeating the Dallas Cowboys 34-9 in the Wild Card round under Dan Campbell.",
+    "date": "2025-01-05",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Lions lost the 2025 NFC Divisional Round to the Washington Commanders 45-31.",
+    "date": "2025-01-18",
+    "time_local": "20:00",
+    "time_utc": "01:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions went 15-2 in the 2024 regular season, the best record in the NFL and franchise history.",
+    "date": "2025-01-05",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Aidan Hutchinson suffered a devastating broken leg on national TV against the Dallas Cowboys.",
+    "date": "2024-10-13",
+    "time_local": "13:00",
+    "time_utc": "17:00",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Detroit Tigers clinched a playoff berth in 2024, their first postseason appearance since 2014.",
+    "date": "2024-09-25",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers upset the Houston Astros in the 2024 ALDS Wild Card series.",
+    "date": "2024-10-04",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Tigers were eliminated by the Cleveland Guardians in the 2024 ALDS.",
+    "date": "2024-10-12",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Tarik Skubal won the AL Cy Young Award for the 2024 season with the Tigers.",
+    "date": "2024-11-20",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions drafted running back D'Andre Swift in the 2nd round of the 2020 NFL Draft out of Georgia.",
+    "date": "2020-04-24",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions' David Montgomery and Jahmyr Gibbs formed one of the most effective running back duos in the NFL in 2023.",
+    "date": "2023-12-31",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Sam LaPorta set a Lions rookie record for receptions by a tight end in 2023.",
+    "date": "2023-12-31",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The Lions selected Sam LaPorta in the 2nd round of the 2023 Draft out of Iowa.",
+    "date": "2023-04-28",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan State hired Tom Izzo's former assistant assistant coach. Izzo has coached in East Lansing for over 28 seasons.",
+    "date": "2023-04-01",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan's 'Victors' fight song, written in 1898, is considered one of the greatest fight songs in college sports.",
+    "date": "1898-04-09",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The first night game at Spartan Stadium was played by Michigan State.",
+    "date": "2011-09-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Central Michigan's Rasheen Mathis was drafted in the 2nd round by the Jacksonville Jaguars and had a 14-year NFL career.",
+    "date": "2003-04-27",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Western Michigan reached the MAC Championship game multiple times, including 2016 when they went undefeated in the regular season.",
+    "date": "2016-12-02",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Ferris State won the NCAA Division II football national championship.",
+    "date": "2018-12-15",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Grand Valley State's Brian Kelly coached the Lakers to two Division II national titles before moving to Central Michigan, Cincinnati, Notre Dame, and LSU.",
+    "date": "2003-12-13",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "The 1997 Michigan football team was coached by Lloyd Carr and featured Heisman winner Charles Woodson, All-American DB.",
+    "date": "1997-11-22",
+    "timezone": "America/Detroit"
+  },
+  {
+    "fact": "Michigan defensive end LaMarr Woodley was drafted 46th overall by the Pittsburgh Steelers and won Super Bowl XLIII.",
+    "date": "2007-04-28",
+    "timezone": "America/Detroit"
+  }
+]
